@@ -18,8 +18,8 @@ _client = None
 def client():
     global _client
     if _client is None:
-        _client = genai.Client(http_options=types.HttpOptions(retry_options=types.HttpRetryOptions(
-            attempts=2, initial_delay=1, http_status_codes=sorted(RETRY_CODES))))   # Vertex AI or the AI Studio key, from env
+        _client = genai.Client(http_options=types.HttpOptions(timeout=40000, retry_options=types.HttpRetryOptions(
+            attempts=1, http_status_codes=sorted(RETRY_CODES))))   # Vertex AI or the AI Studio key, from env; 40 s then the next model
     return _client
 
 
@@ -54,8 +54,8 @@ def look_at_village_picture(village: str, question: str = '') -> dict:
         try:
             resp = client().models.generate_content(model=name, contents=contents, config=types.GenerateContentConfig(temperature=0.2))
             break
-        except errors.APIError as e:
-            if getattr(e, 'code', None) in RETRY_CODES and i + 1 < len(VISION_CHAIN):
+        except Exception as e:  # noqa: BLE001  (rate limit, overload or a timeout: try the next model)
+            if (getattr(e, 'code', None) in RETRY_CODES or not isinstance(e, errors.APIError)) and i + 1 < len(VISION_CHAIN):
                 continue
             raise
     return {'village': v['name'], 'picture_date': meta.get('when'), 'clear_day': meta.get('clear'), 'model_cane_ha_2026': round(ha),
@@ -150,8 +150,8 @@ def look_at_plot(village: str, survey_number: str) -> dict:
         try:
             resp = client().models.generate_content(model=name, contents=contents, config=types.GenerateContentConfig(temperature=0.2))
             break
-        except errors.APIError as e:
-            if getattr(e, 'code', None) in RETRY_CODES and i + 1 < len(VISION_CHAIN):
+        except Exception as e:  # noqa: BLE001  (rate limit, overload or a timeout: try the next model)
+            if (getattr(e, 'code', None) in RETRY_CODES or not isinstance(e, errors.APIError)) and i + 1 < len(VISION_CHAIN):
                 continue
             raise
     return {'village': v['name'], 'survey_number': survey_number, 'parts_on_land_map': [pin for pin, _ in parts], 'land_map_ha': round(ha, 2),

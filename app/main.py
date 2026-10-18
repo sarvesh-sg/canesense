@@ -18,6 +18,9 @@ from google.adk.runners import Runner
 from google.genai import types
 
 log = logging.getLogger('canesense')
+_h = logging.StreamHandler(); _h.setFormatter(logging.Formatter('%(name)s %(message)s'))
+for _n in ('canesense', 'canesense.agent', 'canesense.models'):
+    _l = logging.getLogger(_n); _l.setLevel(logging.INFO); _l.addHandler(_h); _l.propagate = False   # timing lines reach the Cloud Run log
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 AGENTS_DIR = os.path.join(ROOT, 'agents')
@@ -38,6 +41,50 @@ app = get_fast_api_app(
     web=False,
     auto_create_session=True,
 )
+
+# ---- usage guard: the page is public for the judges, so model-calling requests are capped per client and per hour.
+# A bot or a runaway script gets a polite 429; the mill's bill stays bounded. Static files and pictures are not counted.
+import time as _time
+from collections import defaultdict, deque
+from starlette.responses import JSONResponse
+
+PER_CLIENT_10MIN = int(os.environ.get('RATE_PER_CLIENT_10MIN', '30'))
+PER_HOUR_ALL = int(os.environ.get('RATE_PER_HOUR_ALL', '300'))
+_client_hits: dict[str, deque] = defaultdict(deque)
+_all_hits: deque = deque()
+
+
+def allow_request(client: str) -> bool:
+    now = _time.monotonic()
+    q = _client_hits[client]
+    while q and now - q[0] > 600:
+        q.popleft()
+    while _all_hits and now - _all_hits[0] > 3600:
+        _all_hits.popleft()
+    if len(q) >= PER_CLIENT_10MIN or len(_all_hits) >= PER_HOUR_ALL:
+        return False
+    q.append(now)
+    _all_hits.append(now)
+    return True
+
+
+def client_of(headers, fallback: str) -> str:
+    fwd = headers.get('x-forwarded-for', '')
+    return (fwd.split(',')[0].strip() if fwd else '') or fallback
+
+
+BUSY = {'detail': 'CaneSense has answered a lot of questions in the last few minutes. Please try again in a little while.'}
+
+
+@app.middleware('http')
+async def usage_guard(request, call_next):
+    if request.method == 'POST' and request.url.path in ('/run', '/run_sse'):
+        who = client_of(request.headers, request.client.host if request.client else 'unknown')
+        if not allow_request(who):
+            log.warning('usage guard: refused %s', who)
+            return JSONResponse(BUSY, status_code=429)
+    return await call_next(request)
+
 
 app.mount('/pictures', StaticFiles(directory=os.path.join(DATA_DIR, 'pictures')), name='pictures')
 app.mount('/static', StaticFiles(directory=WEB_DIR), name='static')
@@ -77,6 +124,10 @@ def live_runner() -> Runner:
 async def live(websocket: WebSocket, user_id: str, session_id: str,
                lang: str = Query(default='mr-IN'), voice: str = Query(default=DEFAULT_VOICE)):
     await websocket.accept()
+    if not allow_request(client_of(websocket.headers, websocket.client.host if websocket.client else 'unknown')):
+        log.warning('usage guard: refused a voice session')
+        await websocket.close(code=1013, reason='busy')          # 1013: try again later
+        return
     lang = lang if lang in LANGS else 'mr-IN'
     voice = voice if voice in VOICES else DEFAULT_VOICE
     runner = live_runner()

@@ -8,11 +8,15 @@
 Every figure comes from the mill's exported data (tools.py); the satellite reads come from the mill's own
 existing satellite read. The agents explain, compare and recommend; they never compute a cane estimate themselves.
 """
+import logging
 import os
 
 from google.adk.agents import LlmAgent
 from google.adk.tools import AgentTool
 from google.adk.tools.preload_memory_tool import preload_memory_tool
+from google.genai import types as gtypes
+
+log = logging.getLogger(__name__)
 
 from . import tools as T
 from .models import FallbackGemini
@@ -110,8 +114,43 @@ async def remember(ctx):
         log.warning('memory write failed: %s', e)
 
 
+import time as _time
+_T0 = {}
+
+
+def _mark(ctx, what):
+    """timing lines in the Cloud Run log: seconds since this invocation started"""
+    key = getattr(ctx, 'invocation_id', None) or id(ctx)
+    t0 = _T0.setdefault(key, _time.monotonic())
+    log.info('timing %s %s +%.1fs', getattr(ctx, 'agent_name', '?'), what, _time.monotonic() - t0)
+
+
+def _before_model(callback_context, llm_request):
+    _mark(callback_context, 'model call start')
+
+
+def _after_model(callback_context, llm_response):
+    _mark(callback_context, 'model call end')
+
+
+def _before_tool(tool, args, tool_context):
+    _mark(tool_context, 'tool start ' + tool.name)
+
+
+def _after_tool(tool, args, tool_context, tool_response):
+    _mark(tool_context, 'tool end ' + tool.name)
+
+
+for _a in (catchment_agent, case_agent, picture_agent):
+    _a.before_model_callback = _before_model
+    _a.after_model_callback = _after_model
+    _a.before_tool_callback = _before_tool
+    _a.after_tool_callback = _after_tool
+
 root_agent = LlmAgent(
     name='canesense', model=MODEL,
+    before_model_callback=_before_model, after_model_callback=_after_model,
+    before_tool_callback=_before_tool, after_tool_callback=_after_tool,
     description='CaneSense: the cane supply assistant of a sugar mill.',
     instruction="""You are CaneSense, the cane supply assistant of a sugar mill. You serve four kinds of people and should notice which
 one is asking from the question: the General Manager (how much cane will we crush, where is it going, what do we do this month),

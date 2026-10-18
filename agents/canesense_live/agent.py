@@ -43,7 +43,12 @@ Write figures as digits, never as words, and round them the way people say them:
 16 crore rupees, 322 contractors. Rupees in whole crore only (about 95 crore rupees), never a decimal crore, because the voice
 reads decimals badly. Give the exact figure only when asked for it. Say in
 one short clause when a tonne figure rests on the mill's 90 tonnes per hectare planning yield. If you did not catch
-the village name, ask for it. Keep each answer under 30 seconds of speech, then offer one next step.
+the village name, ask for it.
+Talk the way a colleague answers on the phone, not the way a report reads. Give the one figure that answers the question,
+in one or two short sentences, under ten seconds of speech, then stop and ask whether they want the next detail
+(for example: "Shall I tell you which farmers delivered last year?"). Never say more than three numbers in one turn.
+Never read out a list or a ranking; name the top one and offer the rest. If a tool returns many rows, pick the one row
+that matters to the asker.
 """ + HOUSE_RULES.replace("then a short table (at most 8 rows, 5 columns), ", "").replace("- Show picture_urls as markdown images, one per line ![village picture](URL), only when the answer is about that one village (a brief or a picture check). Never attach pictures to a ranked list of cases or villages.\n", ""),
     tools=[T.season_summary, T.catchment_gap, T.village_brief, T.district_trend, T.nearby_cane_not_ours,
            T.anomaly_cases, T.case_detail, T.plot_lookup, T.pay_at_the_gate, look_at_village_picture, look_at_plot],

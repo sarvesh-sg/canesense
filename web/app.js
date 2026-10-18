@@ -40,7 +40,7 @@ async function ask(question) {
   send.disabled = true;
   const bot = add('bot', '<span class="thinking">Working...</span>');
   const steps = new Set();
-  let text = '';
+  let text = '', final = false;
   // progress line: which agent or tool is at work, and for how long, so a 30 second wait is not a blank screen
   const t0 = Date.now();
   const doing = (name) => ({
@@ -52,6 +52,24 @@ async function ask(question) {
   }[name] || 'working');
   let last = null;
   const progress = () => `<span class="thinking">Working${last ? ', ' + doing(last) : ''}... ${Math.round((Date.now() - t0) / 1000)} s</span>`;
+  // the first figures: a specialist agent's answer or a tool's rows are shown the moment they arrive,
+  // while CaneSense is still writing the final reply; afterwards they fold into a small "figures" line
+  let early = '', earlyFrom = '';
+  const esc = (v) => String(v).replace(/</g, '&lt;');
+  const nice = (k) => k.replace(/_/g, ' ');
+  const fmt = (v) => typeof v === 'number' ? v.toLocaleString('en-IN') : (v === null || v === undefined ? '' : (typeof v === 'object' ? '' : esc(v)));
+  const quickTable = (r) => {
+    if (typeof r === 'string') return r.trim() ? marked.parse(r) : '';
+    if (!r || typeof r !== 'object') return '';
+    const rows = Array.isArray(r.rows) ? r.rows : (Array.isArray(r.villages) ? r.villages : (Array.isArray(r.plots) ? r.plots : null));
+    if (rows && rows.length && typeof rows[0] === 'object') {
+      const cols = Object.keys(rows[0]).filter(k => typeof rows[0][k] !== 'object').slice(0, 6);
+      return `<table><thead><tr>${cols.map(c => `<th>${nice(c)}</th>`).join('')}</tr></thead><tbody>${rows.slice(0, 8).map(x => `<tr>${cols.map(c => `<td>${fmt(x[c])}</td>`).join('')}</tr>`).join('')}</tbody></table>`;
+    }
+    const kv = Object.entries(r).filter(([k, v]) => typeof v !== 'object' && k !== 'note').slice(0, 10);
+    return kv.length ? `<table><tbody>${kv.map(([k, v]) => `<tr><th>${nice(k)}</th><td>${fmt(v)}</td></tr>`).join('')}</tbody></table>` : '';
+  };
+  const earlyBlock = (open) => early ? `<details class="early"${open ? ' open' : ''}><summary>${open ? 'First figures from the ' + earlyFrom + '. CaneSense is writing the answer.' : 'Figures from the ' + earlyFrom}</summary>${early}</details>` : '';
   const tick = setInterval(() => { if (!text) { const b = bot.querySelector('.bubble'); if (b) b.innerHTML = progress(); } }, 1000);
   try {
     await ensureSession();
@@ -62,6 +80,7 @@ async function ask(question) {
     });
     if (!r.ok) {
       const body = (await r.text()).slice(0, 300);
+      if (r.status === 429) { let d = ''; try { d = JSON.parse(body).detail; } catch {} throw new Error(d || 'CaneSense is busy. Please try again in a little while.'); }
       if (r.status >= 500) throw new Error('The model is busy right now (high demand or quota). Wait a few seconds and ask again.');
       throw new Error('agent error ' + r.status + ': ' + body);
     }
@@ -80,11 +99,16 @@ async function ask(question) {
         let ev; try { ev = JSON.parse(line.slice(5)); } catch { continue; }
         for (const p of (ev.content && ev.content.parts) || []) {
           if (p.functionCall) { steps.add(label(p.functionCall.name)); last = p.functionCall.name; }
+          if (p.functionResponse && !early) {
+            const resp = p.functionResponse.response || {};
+            early = quickTable(resp.result !== undefined ? resp.result : resp); earlyFrom = label(p.functionResponse.name);
+          }
           // streamed: partial chunks accumulate; the final event carries the whole text and replaces them
-          if (p.text && ev.author === APP) text = ev.partial ? text + p.text : p.text;
+          if (p.text && ev.author === APP) { text = ev.partial ? text + p.text : p.text; final = !ev.partial; }
         }
         const chips = [...steps].map(s => `<span>${s}</span>`).join('');
-        bot.innerHTML = `<div class="steps">${chips}</div><div class="bubble">${text ? marked.parse(text) : progress()}</div>`;
+        const body = final ? marked.parse(text) + earlyBlock(false) : (early ? earlyBlock(true) + (text ? marked.parse(text) : '') : (text ? marked.parse(text) : progress()));
+        bot.innerHTML = `<div class="steps">${chips}</div><div class="bubble">${body}</div>`;
         log.scrollTop = log.scrollHeight;
       }
     }
