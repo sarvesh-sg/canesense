@@ -98,6 +98,11 @@ async function ask(question) {
 
 form.addEventListener('submit', (e) => { e.preventDefault(); const q = input.value.trim(); if (!q) return; input.value = ''; ask(q); });
 document.querySelectorAll('button.q').forEach(b => b.addEventListener('click', () => ask(b.textContent.trim())));
+// who is asking: one role at a time, its questions shown under the tabs
+document.querySelectorAll('button.role').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('button.role').forEach(x => x.classList.toggle('on', x === b));
+  document.querySelectorAll('.qs').forEach(g => { g.hidden = g.dataset.role !== b.dataset.role; });
+}));
 document.querySelectorAll('button.tile').forEach(b => b.addEventListener('click', () => ask('Give me the brief on ' + b.dataset.v + '.')));
 // a shared link can carry the question: /?q=Give+me+the+brief+on+Ashtha
 const q0 = new URLSearchParams(location.search).get('q'); if (q0) ask(q0);
