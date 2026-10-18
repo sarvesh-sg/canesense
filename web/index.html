@@ -12,10 +12,15 @@
   <div class="brand"><span class="leaf">▮</span> CaneSense</div>
   <div class="tag">The cane supply assistant of a sugar mill. One mill group, season 2025-26, identities removed.</div>
   <span class="theme">AI Builder Cup 2026 · Manufacturing</span>
+  <span class="by">by <img src="/static/goflamingo.png" alt="GoFlamingo"></span>
 </header>
 
 <main>
   <div id="log">
+    <div class="overviewbar" id="overviewbar" hidden>
+      <span><b>2.14 million t</b> crushed · <b>158,000 ha</b> of cane seen in our villages · <b>15%</b> reached our factory</span>
+      <button type="button" id="showoverview">Show overview</button>
+    </div>
     <section class="welcome" id="welcome">
       <div class="hero">
         <img src="/static/hero.jpg" alt="A sugarcane farmer at his field, a loaded cane trolley on the road, and the sugar mill in the distance">
@@ -55,7 +60,8 @@
           <li><b>Limits</b>: data of one mill group, 2025-26. Village figures for 699 supply and 411 other villages, 7 seasons. Plot reads and pictures for 199 villages.</li>
         </ul>
       </details>
-      <p class="hint">Real satellite pictures of our villages. Click one to ask for its brief.</p>
+      <div class="layers"><p class="hint">Real satellite pictures of our villages. Click one to ask for its brief.</p>
+        <span class="layerbtns" role="group" aria-label="Picture layer"><button type="button" class="layer on" data-layer="rgb">True colour</button><button type="button" class="layer" data-layer="ndvi">Greenness</button></span></div>
       <div class="tiles">
         <button class="tile" data-v="Ashtha"><img src="/pictures/23/rgb.jpg" alt="Ashtha from the satellite"><span>Ashtha · 2,619 ha</span></button>
         <button class="tile" data-v="Nandre"><img src="/pictures/514/rgb.jpg" alt="Nandre from the satellite"><span>Nandre · 1,237 ha</span></button>
@@ -74,7 +80,7 @@
       <button type="button" class="role" data-role="cane">Cane manager</button>
     </div>
     <div class="qs" data-role="field">
-      <button class="q">Is survey number 1252 in Bedag really cane? Look at it.</button>
+      <button class="q">Is survey number 1069 in Bedag really cane? Look at it.</button>
       <button class="q">Look at the picture of Bedag and tell me if it agrees with the model's cane figure.</button>
       <button class="q">In Ashtha, which plots are read as cane but sent us nothing, and which sent cane while showing none?</button>
     </div>

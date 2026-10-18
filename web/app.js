@@ -33,7 +33,9 @@ const label = (name) => ({
 }[name] || name);
 
 async function ask(question) {
-  const w = document.getElementById('welcome'); if (w) w.remove();
+  // the overview folds away on the first question; a bar keeps the headline figures and a way back
+  const w = document.getElementById('welcome'); const bar = document.getElementById('overviewbar');
+  if (w && !w.hidden) { w.hidden = true; if (bar) bar.hidden = false; }
   add('user', question.replace(/</g, '&lt;'));
   send.disabled = true;
   const bot = add('bot', '<span class="thinking">Working...</span>');
@@ -104,5 +106,16 @@ document.querySelectorAll('button.role').forEach(b => b.addEventListener('click'
   document.querySelectorAll('.qs').forEach(g => { g.hidden = g.dataset.role !== b.dataset.role; });
 }));
 document.querySelectorAll('button.tile').forEach(b => b.addEventListener('click', () => ask('Give me the brief on ' + b.dataset.v + '.')));
+// the village pictures in true colour or greenness (the satellite's crop layer)
+document.querySelectorAll('button.layer').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('button.layer').forEach(x => x.classList.toggle('on', x === b));
+  document.querySelectorAll('button.tile img').forEach(im => { im.src = im.src.replace(/\/(rgb|ndvi)\.jpg$/, '/' + b.dataset.layer + '.jpg'); });
+}));
+const showOverview = document.getElementById('showoverview');
+if (showOverview) showOverview.addEventListener('click', () => {
+  const w = document.getElementById('welcome'); const bar = document.getElementById('overviewbar');
+  w.hidden = !w.hidden; bar.hidden = !w.hidden; showOverview.textContent = w.hidden ? 'Show overview' : 'Hide overview';
+  if (!w.hidden) log.scrollTop = 0;
+});
 // a shared link can carry the question: /?q=Give+me+the+brief+on+Ashtha
 const q0 = new URLSearchParams(location.search).get('q'); if (q0) ask(q0);
