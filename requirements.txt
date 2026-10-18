@@ -1,0 +1,7 @@
+google-adk[db,gcp]>=2.12,<3
+google-genai>=1.30
+fastapi
+uvicorn[standard]
+aiosqlite
+sqlalchemy
+pillow>=10

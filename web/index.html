@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CaneSense: the cane supply assistant of a sugar mill</title>
+<link rel="stylesheet" href="/static/style.css">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+<header>
+  <div class="brand"><span class="leaf">▮</span> CaneSense</div>
+  <div class="tag">Satellite cane reads, mill records and Gemini agents. One mill group, season 2025-26, identities removed.</div>
+</header>
+
+<main>
+  <aside>
+    <h2>Who is asking?</h2>
+    <p class="hint">Pick a question, type your own, or press Talk and speak in Marathi, Hindi, Kannada or English. The agents answer only from the mill's data, in the language you used.</p>
+
+    <h3>Field officer</h3>
+    <button class="q">Is survey number 1252 in Bedag really cane? Look at it.</button>
+    <button class="q">Look at the picture of Bedag and tell me if it agrees with the model's cane figure.</button>
+    <button class="q">In Ashtha, which plots are read as cane but sent us nothing, and which sent cane while showing none?</button>
+
+    <h3>General Manager</h3>
+    <button class="q">Which villages within 30 km have a lot of cane we are not getting? What should I do this month?</button>
+    <button class="q">What cane is coming from Ashtha, and what would it take to pay every farmer at the gate?</button>
+    <button class="q">Give me the brief on Ashtha.</button>
+    <button class="q">How did the 2025-26 season go, and how much of the cane standing in our villages did we actually get?</button>
+
+    <h3>CFO</h3>
+    <button class="q">Which H&amp;T contractors took an advance and did not earn it back? How much is exposed?</button>
+    <button class="q">Where are we paying transport at the wrong village's distance, and what does it cost us?</button>
+
+    <h3>Cane manager</h3>
+    <button class="q">What is the cane trend in Sangli district over the last seven seasons?</button>
+    <button class="q">Which villages outside our list, within 40 km, carry cane we could sign for next season?</button>
+
+    <h3>Limits</h3>
+    <p class="hint">Data of one mill group, 2025-26. Village figures for 699 supply and 411 other villages, 7 seasons. Plot reads and pictures for 199 villages. Standing cane uses 90 t/ha. A flagged row is a reason to check, not a finding.</p>
+  </aside>
+
+  <section class="chat">
+    <div class="livebar">
+      <select id="lang" aria-label="Language to speak" title="Language to speak">
+        <option value="mr-IN">मराठी</option>
+        <option value="hi-IN">हिन्दी</option>
+        <option value="kn-IN">ಕನ್ನಡ</option>
+        <option value="en-IN" selected>English</option>
+      </select>
+      <select id="voice" aria-label="Voice" title="Voice">
+        <option value="Aoede" selected>Voice: Aoede</option>
+        <option value="Leda">Voice: Leda</option>
+        <option value="Zephyr">Voice: Zephyr</option>
+        <option value="Kore">Voice: Kore</option>
+        <option value="Charon">Voice: Charon (male)</option>
+      </select>
+      <button type="button" id="talk">🎤 Start voice</button>
+      <button type="button" id="hold" disabled>Hold to speak</button>
+      <span id="livestate" class="hint">Gemini Live. Start voice, then hold the button while you ask; CaneSense only hears you while you hold it.</span>
+    </div>
+    <div id="log">
+      <section class="welcome" id="welcome">
+        <div class="hero">
+          <img src="/static/hero.jpg" alt="A sugarcane farmer at his field, a loaded cane trolley on the road, and the sugar mill in the distance">
+          <div class="hero-text">
+            <h1>The cane is standing in our own villages. We get 15% of it.</h1>
+            <p>Sentinel-2 sees every cane field in the mill's 699 supply villages every five days. CaneSense reads that, the mill's own records, and answers the General Manager, the CFO, the cane manager and the field officer, typed or spoken, in Marathi, Hindi, Kannada or English.</p>
+          </div>
+        </div>
+        <div class="trycard">
+          <b>Try it by voice.</b> Choose मराठी above, press <i>Start voice</i>, hold <i>Hold to speak</i> and say:
+          <div class="say">आष्टा गावातून आपल्या कारखान्याला किती ऊस आला?</div>
+          <div class="hint">"Ashtha gavatun aaplya karkhanyala kiti oos aala?" · How much cane came to our factory from Ashtha? CaneSense answers in Marathi, in an Indian voice, with the figures from the data.</div>
+        </div>
+        <div class="stats">
+          <div><b>2.14 million t</b><span>crushed in 2025-26</span></div>
+          <div><b>158,000 ha</b><span>of cane seen by satellite in our villages</span></div>
+          <div><b>15%</b><span>of that cane reached our factory, from villages where we already have farmers</span></div>
+          <div><b>Rs 691 crore</b><span>paid to 32,838 farmers</span></div>
+        </div>
+        <p class="impact">Inside 30 km the satellite sees 7.1 million tonnes standing and we receive 20% of it. Five more points of share is 356,000 tonnes: it replaces the 298,000 tonnes now hauled from beyond 30 km, about Rs 15 crore less transport a season, and adds four crushing days. India has over 700 mills; the same export script onboards the next one. <span class="theme">AI Builder Cup 2026 · Manufacturing: Intelligent Operations &amp; Industrial Efficiency</span></p>
+        <details class="how" id="how">
+          <summary>How it works: four Gemini agents on Google Cloud, every figure from a tool</summary>
+          <div class="arch">
+            <div class="box"><b>Browser</b><span>chat page, push-to-talk microphone</span></div>
+            <div class="arrow">→</div>
+            <div class="box"><b>Cloud Run</b><span>FastAPI + Agent Development Kit API server</span></div>
+            <div class="arrow">→</div>
+            <div class="box"><b>Coordinator agent</b><span>sees who is asking, routes to catchment, case or picture agent; voice agent on Gemini Live</span></div>
+            <div class="arrow">→</div>
+            <div class="box"><b>Nine tools</b><span>Python over the mill's exported data; the agent never computes cane</span></div>
+          </div>
+          <ul class="facts">
+            <li><b>Gemini</b> Flash for reasoning with a fallback chain across models; Gemini vision reads the Sentinel-2 picture; Gemini Live listens and speaks Marathi, Hindi, Kannada, English with an Indian voice, through Vertex AI.</li>
+            <li><b>Agent Engine</b> keeps sessions and a memory bank, so a returning user is greeted with what they asked last time.</li>
+            <li><b>Grounding</b>: the mill's existing satellite read (its own system) gives cane hectares; identities are stripped at export; every figure traces to one tool call, shown as a chip above the answer.</li>
+            <li><b>Guardrails</b>: planning yield of 90 t/ha always stated; a flagged row is a reason to check, never a finding; contractor codes, no names; the innocent explanation beside the suspicious one.</li>
+          </ul>
+        </details>
+        <p class="hint">Real satellite pictures of our villages. Click one to ask for its brief.</p>
+        <div class="tiles">
+          <button class="tile" data-v="Ashtha"><img src="/pictures/23/rgb.jpg" alt="Ashtha from the satellite"><span>Ashtha · 2,619 ha</span></button>
+          <button class="tile" data-v="Nandre"><img src="/pictures/514/rgb.jpg" alt="Nandre from the satellite"><span>Nandre · 1,237 ha</span></button>
+          <button class="tile" data-v="Bedag"><img src="/pictures/525/rgb.jpg" alt="Bedag from the satellite"><span>Bedag · 1,158 ha</span></button>
+          <button class="tile" data-v="Kavatheekand"><img src="/pictures/414/rgb.jpg" alt="Kavatheekand from the satellite"><span>Kavatheekand · 1,111 ha</span></button>
+          <button class="tile" data-v="Kasbe Digraj"><img src="/pictures/13/rgb.jpg" alt="Kasbe Digraj from the satellite"><span>Kasbe Digraj · 953 ha</span></button>
+          <button class="tile" data-v="Dudhagaon"><img src="/pictures/20/rgb.jpg" alt="Dudhagaon from the satellite"><span>Dudhagaon · 922 ha</span></button>
+          <button class="tile" data-v="Umaraj"><img src="/pictures/1312/ndvi.jpg" alt="Umaraj, vegetation index"><span>Umaraj · 825 ha (NDVI)</span></button>
+          <button class="tile" data-v="Kavathepiran"><img src="/pictures/15/ndvi.jpg" alt="Kavathepiran, vegetation index"><span>Kavathepiran · 818 ha (NDVI)</span></button>
+        </div>
+      </section>
+    </div>
+    <form id="ask">
+      <input id="text" autocomplete="off" placeholder="Ask about a village, a district, a contractor code, a plot..." />
+      <button type="submit" id="send">Ask</button>
+    </form>
+  </section>
+</main>
+<script src="/static/app.js"></script>
+<script src="/static/live.js"></script>
+</body>
+</html>

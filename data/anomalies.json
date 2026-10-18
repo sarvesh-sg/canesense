@@ -1,0 +1,11301 @@
+{
+"contractor_advances": [
+{
+"code": "C-0001",
+"advance_rs": 6750000.0,
+"harvested_t": 150.331,
+"earned_rs": 139123.39,
+"bills": 3,
+"exposed_rs": 6610876.61
+},
+{
+"code": "C-0002",
+"advance_rs": 3000000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 3000000.0
+},
+{
+"code": "C-0003",
+"advance_rs": 4000000.0,
+"harvested_t": 1514.297,
+"earned_rs": 1401397.53,
+"bills": 4,
+"exposed_rs": 2598602.4699999997
+},
+{
+"code": "C-0004",
+"advance_rs": 3000000.0,
+"harvested_t": 540.786,
+"earned_rs": 500467.22,
+"bills": 4,
+"exposed_rs": 2499532.7800000003
+},
+{
+"code": "C-0005",
+"advance_rs": 2750000.0,
+"harvested_t": 384.872,
+"earned_rs": 356176.95,
+"bills": 8,
+"exposed_rs": 2393823.05
+},
+{
+"code": "C-0006",
+"advance_rs": 2250000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 2250000.0
+},
+{
+"code": "C-0007",
+"advance_rs": 2000000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 2000000.0
+},
+{
+"code": "C-0008",
+"advance_rs": 3000000.0,
+"harvested_t": 1923.591,
+"earned_rs": 1005076.31,
+"bills": 5,
+"exposed_rs": 1994923.69
+},
+{
+"code": "C-0009",
+"advance_rs": 2000000.0,
+"harvested_t": 48.192,
+"earned_rs": 44598.61,
+"bills": 2,
+"exposed_rs": 1955401.39
+},
+{
+"code": "C-0010",
+"advance_rs": 2070000.0,
+"harvested_t": 182.41,
+"earned_rs": 145394.93,
+"bills": 8,
+"exposed_rs": 1924605.07
+},
+{
+"code": "C-0011",
+"advance_rs": 1725000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1725000.0
+},
+{
+"code": "C-0012",
+"advance_rs": 2500000.0,
+"harvested_t": 832.514,
+"earned_rs": 888526.05,
+"bills": 8,
+"exposed_rs": 1611473.95
+},
+{
+"code": "C-0013",
+"advance_rs": 1500000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1500000.0
+},
+{
+"code": "C-0014",
+"advance_rs": 2500000.0,
+"harvested_t": 1037.604,
+"earned_rs": 1112907.33,
+"bills": 8,
+"exposed_rs": 1387092.67
+},
+{
+"code": "C-0015",
+"advance_rs": 2070000.0,
+"harvested_t": 954.086,
+"earned_rs": 815713.55,
+"bills": 8,
+"exposed_rs": 1254286.45
+},
+{
+"code": "C-0016",
+"advance_rs": 1250000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1250000.0
+},
+{
+"code": "C-0017",
+"advance_rs": 2250000.0,
+"harvested_t": 1002.82,
+"earned_rs": 1050499.85,
+"bills": 8,
+"exposed_rs": 1199500.15
+},
+{
+"code": "C-0018",
+"advance_rs": 2250000.0,
+"harvested_t": 967.035,
+"earned_rs": 1083735.5,
+"bills": 8,
+"exposed_rs": 1166264.5
+},
+{
+"code": "C-0019",
+"advance_rs": 1150000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1150000.0
+},
+{
+"code": "C-0020",
+"advance_rs": 1150000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1150000.0
+},
+{
+"code": "C-0021",
+"advance_rs": 2750000.0,
+"harvested_t": 1613.248,
+"earned_rs": 1651306.54,
+"bills": 8,
+"exposed_rs": 1098693.46
+},
+{
+"code": "C-0022",
+"advance_rs": 3000000.0,
+"harvested_t": 3646.12,
+"earned_rs": 1905097.71,
+"bills": 6,
+"exposed_rs": 1094902.29
+},
+{
+"code": "C-0023",
+"advance_rs": 4600000.0,
+"harvested_t": 4380.801,
+"earned_rs": 3524079.8,
+"bills": 7,
+"exposed_rs": 1075920.2000000002
+},
+{
+"code": "C-0024",
+"advance_rs": 1035000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1035000.0
+},
+{
+"code": "C-0025",
+"advance_rs": 3470000.0,
+"harvested_t": 2910.443,
+"earned_rs": 2438450.26,
+"bills": 8,
+"exposed_rs": 1031549.7400000002
+},
+{
+"code": "C-0026",
+"advance_rs": 2300000.0,
+"harvested_t": 1484.901,
+"earned_rs": 1284823.74,
+"bills": 8,
+"exposed_rs": 1015176.26
+},
+{
+"code": "C-0027",
+"advance_rs": 1000000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1000000.0
+},
+{
+"code": "C-0028",
+"advance_rs": 1000000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1000000.0
+},
+{
+"code": "C-0029",
+"advance_rs": 1000000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1000000.0
+},
+{
+"code": "C-0030",
+"advance_rs": 1000000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1000000.0
+},
+{
+"code": "C-0031",
+"advance_rs": 1000000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1000000.0
+},
+{
+"code": "C-0032",
+"advance_rs": 1000000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 1000000.0
+},
+{
+"code": "C-0033",
+"advance_rs": 2500000.0,
+"harvested_t": 1454.32,
+"earned_rs": 1531760.65,
+"bills": 8,
+"exposed_rs": 968239.3500000001
+},
+{
+"code": "C-0034",
+"advance_rs": 1380000.0,
+"harvested_t": 506.043,
+"earned_rs": 414358.85,
+"bills": 9,
+"exposed_rs": 965641.15
+},
+{
+"code": "C-0035",
+"advance_rs": 3000000.0,
+"harvested_t": 3989.913,
+"earned_rs": 2084729.56,
+"bills": 6,
+"exposed_rs": 915270.44
+},
+{
+"code": "C-0036",
+"advance_rs": 1250000.0,
+"harvested_t": 366.536,
+"earned_rs": 358106.1,
+"bills": 3,
+"exposed_rs": 891893.9
+},
+{
+"code": "C-0037",
+"advance_rs": 875000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 875000.0
+},
+{
+"code": "C-0038",
+"advance_rs": 1640000.0,
+"harvested_t": 963.523,
+"earned_rs": 765626.16,
+"bills": 8,
+"exposed_rs": 874373.84
+},
+{
+"code": "C-0039",
+"advance_rs": 1035000.0,
+"harvested_t": 202.899,
+"earned_rs": 175677.33,
+"bills": 8,
+"exposed_rs": 859322.67
+},
+{
+"code": "C-0040",
+"advance_rs": 2180000.0,
+"harvested_t": 1564.389,
+"earned_rs": 1323549.32,
+"bills": 8,
+"exposed_rs": 856450.6799999999
+},
+{
+"code": "C-0041",
+"advance_rs": 2070000.0,
+"harvested_t": 1474.912,
+"earned_rs": 1285549.88,
+"bills": 8,
+"exposed_rs": 784450.1200000001
+},
+{
+"code": "C-0042",
+"advance_rs": 2500000.0,
+"harvested_t": 1819.322,
+"earned_rs": 1721268.31,
+"bills": 8,
+"exposed_rs": 778731.69
+},
+{
+"code": "C-0043",
+"advance_rs": 2300000.0,
+"harvested_t": 1877.542,
+"earned_rs": 1527686.94,
+"bills": 8,
+"exposed_rs": 772313.06
+},
+{
+"code": "C-0044",
+"advance_rs": 750000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 750000.0
+},
+{
+"code": "C-0045",
+"advance_rs": 1000000.0,
+"harvested_t": 284.387,
+"earned_rs": 261360.49,
+"bills": 3,
+"exposed_rs": 738639.51
+},
+{
+"code": "C-0046",
+"advance_rs": 1250000.0,
+"harvested_t": 636.133,
+"earned_rs": 565277.86,
+"bills": 8,
+"exposed_rs": 684722.14
+},
+{
+"code": "C-0047",
+"advance_rs": 920000.0,
+"harvested_t": 339.97,
+"earned_rs": 292810.55,
+"bills": 8,
+"exposed_rs": 627189.45
+},
+{
+"code": "C-0048",
+"advance_rs": 625000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 625000.0
+},
+{
+"code": "C-0049",
+"advance_rs": 3000000.0,
+"harvested_t": 2130.398,
+"earned_rs": 2375524.99,
+"bills": 8,
+"exposed_rs": 624475.0099999998
+},
+{
+"code": "C-0050",
+"advance_rs": 620000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 620000.0
+},
+{
+"code": "C-0051",
+"advance_rs": 950000.0,
+"harvested_t": 339.252,
+"earned_rs": 340195.7,
+"bills": 5,
+"exposed_rs": 609804.3
+},
+{
+"code": "C-0052",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0053",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0054",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0055",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0056",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0057",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0058",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0059",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0060",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0061",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0062",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0063",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0064",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0065",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0066",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0067",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0068",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0069",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0070",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0071",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0072",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0073",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0074",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0075",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0076",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0077",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0078",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0079",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0080",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0081",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0082",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0083",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0084",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0085",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0086",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0087",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0088",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0089",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0090",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0091",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0092",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0093",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0094",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0095",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0096",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0097",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0098",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0099",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0100",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0101",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0102",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0103",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0104",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0105",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0106",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0107",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0108",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0109",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0110",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0111",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 600000.0
+},
+{
+"code": "C-0112",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 440.98,
+"bills": 2,
+"exposed_rs": 599559.02
+},
+{
+"code": "C-0113",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 774.68,
+"bills": 2,
+"exposed_rs": 599225.32
+},
+{
+"code": "C-0114",
+"advance_rs": 600000.0,
+"harvested_t": 10.177,
+"earned_rs": 8953.27,
+"bills": 2,
+"exposed_rs": 591046.73
+},
+{
+"code": "C-0115",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 10863.3,
+"bills": 2,
+"exposed_rs": 589136.7
+},
+{
+"code": "C-0116",
+"advance_rs": 600000.0,
+"harvested_t": 27.245,
+"earned_rs": 14464.84,
+"bills": 2,
+"exposed_rs": 585535.16
+},
+{
+"code": "C-0117",
+"advance_rs": 600000.0,
+"harvested_t": 17.939,
+"earned_rs": 19021.7,
+"bills": 2,
+"exposed_rs": 580978.3
+},
+{
+"code": "C-0118",
+"advance_rs": 600000.0,
+"harvested_t": 23.374,
+"earned_rs": 21886.08,
+"bills": 2,
+"exposed_rs": 578113.92
+},
+{
+"code": "C-0119",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 23017.23,
+"bills": 3,
+"exposed_rs": 576982.77
+},
+{
+"code": "C-0120",
+"advance_rs": 920000.0,
+"harvested_t": 427.914,
+"earned_rs": 354599.62,
+"bills": 8,
+"exposed_rs": 565400.38
+},
+{
+"code": "C-0121",
+"advance_rs": 1000000.0,
+"harvested_t": 412.825,
+"earned_rs": 445899.77,
+"bills": 8,
+"exposed_rs": 554100.23
+},
+{
+"code": "C-0122",
+"advance_rs": 600000.0,
+"harvested_t": 38.719,
+"earned_rs": 48729.69,
+"bills": 2,
+"exposed_rs": 551270.31
+},
+{
+"code": "C-0123",
+"advance_rs": 600000.0,
+"harvested_t": 42.332,
+"earned_rs": 50064.0,
+"bills": 1,
+"exposed_rs": 549936.0
+},
+{
+"code": "C-0124",
+"advance_rs": 600000.0,
+"harvested_t": 57.926,
+"earned_rs": 61769.22,
+"bills": 2,
+"exposed_rs": 538230.78
+},
+{
+"code": "C-0125",
+"advance_rs": 600000.0,
+"harvested_t": 67.934,
+"earned_rs": 63931.13,
+"bills": 2,
+"exposed_rs": 536068.87
+},
+{
+"code": "C-0126",
+"advance_rs": 600000.0,
+"harvested_t": 57.083,
+"earned_rs": 67509.0,
+"bills": 1,
+"exposed_rs": 532491.0
+},
+{
+"code": "C-0127",
+"advance_rs": 1360000.0,
+"harvested_t": 1005.762,
+"earned_rs": 835593.03,
+"bills": 8,
+"exposed_rs": 524406.97
+},
+{
+"code": "C-0128",
+"advance_rs": 600000.0,
+"harvested_t": 86.911,
+"earned_rs": 81789.77,
+"bills": 3,
+"exposed_rs": 518210.23
+},
+{
+"code": "C-0129",
+"advance_rs": 600000.0,
+"harvested_t": 29.719,
+"earned_rs": 82913.68,
+"bills": 4,
+"exposed_rs": 517086.32
+},
+{
+"code": "C-0130",
+"advance_rs": 600000.0,
+"harvested_t": 90.574,
+"earned_rs": 85691.24,
+"bills": 2,
+"exposed_rs": 514308.76
+},
+{
+"code": "C-0131",
+"advance_rs": 600000.0,
+"harvested_t": 72.695,
+"earned_rs": 86810.05,
+"bills": 3,
+"exposed_rs": 513189.95
+},
+{
+"code": "C-0132",
+"advance_rs": 1150000.0,
+"harvested_t": 740.75,
+"earned_rs": 644582.58,
+"bills": 8,
+"exposed_rs": 505417.42000000004
+},
+{
+"code": "C-0133",
+"advance_rs": 505000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 505000.0
+},
+{
+"code": "C-0134",
+"advance_rs": 505000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 505000.0
+},
+{
+"code": "C-0135",
+"advance_rs": 600000.0,
+"harvested_t": 87.813,
+"earned_rs": 96148.1,
+"bills": 2,
+"exposed_rs": 503851.9
+},
+{
+"code": "C-0136",
+"advance_rs": 1725000.0,
+"harvested_t": 1536.859,
+"earned_rs": 1224183.59,
+"bills": 8,
+"exposed_rs": 500816.4099999999
+},
+{
+"code": "C-0137",
+"advance_rs": 500000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 500000.0
+},
+{
+"code": "C-0138",
+"advance_rs": 500000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 500000.0
+},
+{
+"code": "C-0139",
+"advance_rs": 500000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 500000.0
+},
+{
+"code": "C-0140",
+"advance_rs": 500000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 500000.0
+},
+{
+"code": "C-0141",
+"advance_rs": 600000.0,
+"harvested_t": 84.22,
+"earned_rs": 100226.99,
+"bills": 2,
+"exposed_rs": 499773.01
+},
+{
+"code": "C-0142",
+"advance_rs": 600000.0,
+"harvested_t": 100.734,
+"earned_rs": 101348.41,
+"bills": 4,
+"exposed_rs": 498651.58999999997
+},
+{
+"code": "C-0143",
+"advance_rs": 1625000.0,
+"harvested_t": 1099.526,
+"earned_rs": 1131919.9,
+"bills": 8,
+"exposed_rs": 493080.1000000001
+},
+{
+"code": "C-0144",
+"advance_rs": 480000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 480000.0
+},
+{
+"code": "C-0145",
+"advance_rs": 600000.0,
+"harvested_t": 130.243,
+"earned_rs": 123126.53,
+"bills": 3,
+"exposed_rs": 476873.47
+},
+{
+"code": "C-0146",
+"advance_rs": 600000.0,
+"harvested_t": 124.046,
+"earned_rs": 132789.09,
+"bills": 5,
+"exposed_rs": 467210.91000000003
+},
+{
+"code": "C-0147",
+"advance_rs": 600000.0,
+"harvested_t": 157.181,
+"earned_rs": 133239.24,
+"bills": 6,
+"exposed_rs": 466760.76
+},
+{
+"code": "C-0148",
+"advance_rs": 600000.0,
+"harvested_t": 135.858,
+"earned_rs": 146964.99,
+"bills": 3,
+"exposed_rs": 453035.01
+},
+{
+"code": "C-0149",
+"advance_rs": 1150000.0,
+"harvested_t": 790.04,
+"earned_rs": 697391.14,
+"bills": 7,
+"exposed_rs": 452608.86
+},
+{
+"code": "C-0150",
+"advance_rs": 600000.0,
+"harvested_t": 130.244,
+"earned_rs": 152514.56,
+"bills": 3,
+"exposed_rs": 447485.44
+},
+{
+"code": "C-0151",
+"advance_rs": 1000000.0,
+"harvested_t": 547.695,
+"earned_rs": 554968.29,
+"bills": 8,
+"exposed_rs": 445031.70999999996
+},
+{
+"code": "C-0152",
+"advance_rs": 500000.0,
+"harvested_t": 51.659,
+"earned_rs": 55798.54,
+"bills": 5,
+"exposed_rs": 444201.46
+},
+{
+"code": "C-0153",
+"advance_rs": 600000.0,
+"harvested_t": 158.161,
+"earned_rs": 161036.4,
+"bills": 4,
+"exposed_rs": 438963.6
+},
+{
+"code": "C-0154",
+"advance_rs": 600000.0,
+"harvested_t": 177.903,
+"earned_rs": 161751.32,
+"bills": 3,
+"exposed_rs": 438248.68
+},
+{
+"code": "C-0155",
+"advance_rs": 800000.0,
+"harvested_t": 441.798,
+"earned_rs": 367815.47,
+"bills": 8,
+"exposed_rs": 432184.53
+},
+{
+"code": "C-0156",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 169640.23,
+"bills": 6,
+"exposed_rs": 430359.77
+},
+{
+"code": "C-0157",
+"advance_rs": 600000.0,
+"harvested_t": 195.039,
+"earned_rs": 171583.77,
+"bills": 2,
+"exposed_rs": 428416.23
+},
+{
+"code": "C-0158",
+"advance_rs": 600000.0,
+"harvested_t": 162.984,
+"earned_rs": 172624.78,
+"bills": 6,
+"exposed_rs": 427375.22
+},
+{
+"code": "C-0159",
+"advance_rs": 575000.0,
+"harvested_t": 192.596,
+"earned_rs": 151534.85,
+"bills": 8,
+"exposed_rs": 423465.15
+},
+{
+"code": "C-0160",
+"advance_rs": 600000.0,
+"harvested_t": 190.446,
+"earned_rs": 188522.93,
+"bills": 5,
+"exposed_rs": 411477.07
+},
+{
+"code": "C-0161",
+"advance_rs": 575000.0,
+"harvested_t": 168.596,
+"earned_rs": 164190.78,
+"bills": 5,
+"exposed_rs": 410809.22
+},
+{
+"code": "C-0162",
+"advance_rs": 600000.0,
+"harvested_t": 161.489,
+"earned_rs": 191390.82,
+"bills": 2,
+"exposed_rs": 408609.18
+},
+{
+"code": "C-0163",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0164",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0165",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0166",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0167",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0168",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0169",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0170",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0171",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0172",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0173",
+"advance_rs": 400000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 400000.0
+},
+{
+"code": "C-0174",
+"advance_rs": 600000.0,
+"harvested_t": 189.692,
+"earned_rs": 201885.41,
+"bills": 3,
+"exposed_rs": 398114.58999999997
+},
+{
+"code": "C-0175",
+"advance_rs": 600000.0,
+"harvested_t": 170.733,
+"earned_rs": 202645.2,
+"bills": 5,
+"exposed_rs": 397354.8
+},
+{
+"code": "C-0176",
+"advance_rs": 805000.0,
+"harvested_t": 521.068,
+"earned_rs": 409769.91,
+"bills": 7,
+"exposed_rs": 395230.09
+},
+{
+"code": "C-0177",
+"advance_rs": 600000.0,
+"harvested_t": 247.073,
+"earned_rs": 209438.61,
+"bills": 6,
+"exposed_rs": 390561.39
+},
+{
+"code": "C-0178",
+"advance_rs": 600000.0,
+"harvested_t": 230.284,
+"earned_rs": 217442.99,
+"bills": 6,
+"exposed_rs": 382557.01
+},
+{
+"code": "C-0179",
+"advance_rs": 600000.0,
+"harvested_t": 236.61,
+"earned_rs": 220410.28,
+"bills": 9,
+"exposed_rs": 379589.72
+},
+{
+"code": "C-0180",
+"advance_rs": 600000.0,
+"harvested_t": 210.049,
+"earned_rs": 221284.99,
+"bills": 5,
+"exposed_rs": 378715.01
+},
+{
+"code": "C-0181",
+"advance_rs": 1150000.0,
+"harvested_t": 894.345,
+"earned_rs": 773372.94,
+"bills": 9,
+"exposed_rs": 376627.06000000006
+},
+{
+"code": "C-0182",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 226085.95,
+"bills": 6,
+"exposed_rs": 373914.05
+},
+{
+"code": "C-0183",
+"advance_rs": 600000.0,
+"harvested_t": 232.283,
+"earned_rs": 227415.66,
+"bills": 6,
+"exposed_rs": 372584.33999999997
+},
+{
+"code": "C-0184",
+"advance_rs": 2500000.0,
+"harvested_t": 1886.281,
+"earned_rs": 2132139.71,
+"bills": 7,
+"exposed_rs": 367860.29000000004
+},
+{
+"code": "C-0185",
+"advance_rs": 1010000.0,
+"harvested_t": 816.381,
+"earned_rs": 648094.09,
+"bills": 8,
+"exposed_rs": 361905.91000000003
+},
+{
+"code": "C-0186",
+"advance_rs": 600000.0,
+"harvested_t": 282.583,
+"earned_rs": 242682.49,
+"bills": 3,
+"exposed_rs": 357317.51
+},
+{
+"code": "C-0187",
+"advance_rs": 400000.0,
+"harvested_t": 58.736,
+"earned_rs": 49789.36,
+"bills": 2,
+"exposed_rs": 350210.64
+},
+{
+"code": "C-0188",
+"advance_rs": 500000.0,
+"harvested_t": 127.709,
+"earned_rs": 151035.0,
+"bills": 1,
+"exposed_rs": 348965.0
+},
+{
+"code": "C-0189",
+"advance_rs": 345000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 345000.0
+},
+{
+"code": "C-0190",
+"advance_rs": 345000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 345000.0
+},
+{
+"code": "C-0191",
+"advance_rs": 345000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 345000.0
+},
+{
+"code": "C-0192",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 256152.86,
+"bills": 7,
+"exposed_rs": 343847.14
+},
+{
+"code": "C-0193",
+"advance_rs": 600000.0,
+"harvested_t": 209.266,
+"earned_rs": 257950.46,
+"bills": 2,
+"exposed_rs": 342049.54000000004
+},
+{
+"code": "C-0194",
+"advance_rs": 1000000.0,
+"harvested_t": 681.482,
+"earned_rs": 662258.86,
+"bills": 8,
+"exposed_rs": 337741.14
+},
+{
+"code": "C-0195",
+"advance_rs": 600000.0,
+"harvested_t": 279.386,
+"earned_rs": 263323.0,
+"bills": 7,
+"exposed_rs": 336677.0
+},
+{
+"code": "C-0196",
+"advance_rs": 750000.0,
+"harvested_t": 407.157,
+"earned_rs": 416638.17,
+"bills": 9,
+"exposed_rs": 333361.83
+},
+{
+"code": "C-0197",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 267901.66,
+"bills": 6,
+"exposed_rs": 332098.34
+},
+{
+"code": "C-0198",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 272764.52,
+"bills": 6,
+"exposed_rs": 327235.48
+},
+{
+"code": "C-0199",
+"advance_rs": 500000.0,
+"harvested_t": 148.885,
+"earned_rs": 176079.0,
+"bills": 1,
+"exposed_rs": 323921.0
+},
+{
+"code": "C-0200",
+"advance_rs": 315000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 315000.0
+},
+{
+"code": "C-0201",
+"advance_rs": 315000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 315000.0
+},
+{
+"code": "C-0202",
+"advance_rs": 600000.0,
+"harvested_t": 148.985,
+"earned_rs": 286333.76,
+"bills": 5,
+"exposed_rs": 313666.24
+},
+{
+"code": "C-0203",
+"advance_rs": 600000.0,
+"harvested_t": 295.484,
+"earned_rs": 289619.23,
+"bills": 5,
+"exposed_rs": 310380.77
+},
+{
+"code": "C-0204",
+"advance_rs": 600000.0,
+"harvested_t": 303.712,
+"earned_rs": 297369.03,
+"bills": 4,
+"exposed_rs": 302630.97
+},
+{
+"code": "C-0205",
+"advance_rs": 300000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 300000.0
+},
+{
+"code": "C-0206",
+"advance_rs": 600000.0,
+"harvested_t": 291.663,
+"earned_rs": 302931.01,
+"bills": 3,
+"exposed_rs": 297068.99
+},
+{
+"code": "C-0207",
+"advance_rs": 600000.0,
+"harvested_t": 265.15,
+"earned_rs": 304053.18,
+"bills": 5,
+"exposed_rs": 295946.82
+},
+{
+"code": "C-0208",
+"advance_rs": 600000.0,
+"harvested_t": 353.517,
+"earned_rs": 308171.89,
+"bills": 8,
+"exposed_rs": 291828.11
+},
+{
+"code": "C-0209",
+"advance_rs": 600000.0,
+"harvested_t": 259.013,
+"earned_rs": 310865.7,
+"bills": 3,
+"exposed_rs": 289134.3
+},
+{
+"code": "C-0210",
+"advance_rs": 600000.0,
+"harvested_t": 337.956,
+"earned_rs": 315511.0,
+"bills": 1,
+"exposed_rs": 284489.0
+},
+{
+"code": "C-0211",
+"advance_rs": 1380000.0,
+"harvested_t": 1323.622,
+"earned_rs": 1097988.57,
+"bills": 8,
+"exposed_rs": 282011.42999999993
+},
+{
+"code": "C-0212",
+"advance_rs": 920000.0,
+"harvested_t": 806.285,
+"earned_rs": 643060.94,
+"bills": 8,
+"exposed_rs": 276939.06000000006
+},
+{
+"code": "C-0213",
+"advance_rs": 600000.0,
+"harvested_t": 346.856,
+"earned_rs": 324825.12,
+"bills": 5,
+"exposed_rs": 275174.88
+},
+{
+"code": "C-0214",
+"advance_rs": 1150000.0,
+"harvested_t": 1023.396,
+"earned_rs": 878689.58,
+"bills": 9,
+"exposed_rs": 271310.42000000004
+},
+{
+"code": "C-0215",
+"advance_rs": 600000.0,
+"harvested_t": 358.96,
+"earned_rs": 335120.0,
+"bills": 1,
+"exposed_rs": 264880.0
+},
+{
+"code": "C-0216",
+"advance_rs": 460000.0,
+"harvested_t": 252.464,
+"earned_rs": 199341.64,
+"bills": 8,
+"exposed_rs": 260658.36
+},
+{
+"code": "C-0217",
+"advance_rs": 3015000.0,
+"harvested_t": 3230.112,
+"earned_rs": 2756873.98,
+"bills": 8,
+"exposed_rs": 258126.02000000002
+},
+{
+"code": "C-0218",
+"advance_rs": 750000.0,
+"harvested_t": 536.914,
+"earned_rs": 496883.16,
+"bills": 8,
+"exposed_rs": 253116.84000000003
+},
+{
+"code": "C-0219",
+"advance_rs": 500000.0,
+"harvested_t": 270.234,
+"earned_rs": 250086.58,
+"bills": 8,
+"exposed_rs": 249913.42
+},
+{
+"code": "C-0220",
+"advance_rs": 600000.0,
+"harvested_t": 296.523,
+"earned_rs": 353313.38,
+"bills": 7,
+"exposed_rs": 246686.62
+},
+{
+"code": "C-0221",
+"advance_rs": 2300000.0,
+"harvested_t": 2390.835,
+"earned_rs": 2056541.11,
+"bills": 8,
+"exposed_rs": 243458.8899999999
+},
+{
+"code": "C-0222",
+"advance_rs": 400000.0,
+"harvested_t": 169.24,
+"earned_rs": 164298.28,
+"bills": 4,
+"exposed_rs": 235701.72
+},
+{
+"code": "C-0223",
+"advance_rs": 600000.0,
+"harvested_t": 359.002,
+"earned_rs": 364879.21,
+"bills": 6,
+"exposed_rs": 235120.78999999998
+},
+{
+"code": "C-0224",
+"advance_rs": 600000.0,
+"harvested_t": 286.278,
+"earned_rs": 365666.36,
+"bills": 6,
+"exposed_rs": 234333.64
+},
+{
+"code": "C-0225",
+"advance_rs": 600000.0,
+"harvested_t": 0.0,
+"earned_rs": 369841.17,
+"bills": 6,
+"exposed_rs": 230158.83000000002
+},
+{
+"code": "C-0226",
+"advance_rs": 1000000.0,
+"harvested_t": 1487.103,
+"earned_rs": 777011.32,
+"bills": 3,
+"exposed_rs": 222988.68000000005
+},
+{
+"code": "C-0227",
+"advance_rs": 1610000.0,
+"harvested_t": 1847.239,
+"earned_rs": 1387426.06,
+"bills": 8,
+"exposed_rs": 222573.93999999994
+},
+{
+"code": "C-0228",
+"advance_rs": 600000.0,
+"harvested_t": 322.877,
+"earned_rs": 383550.74,
+"bills": 6,
+"exposed_rs": 216449.26
+},
+{
+"code": "C-0229",
+"advance_rs": 600000.0,
+"harvested_t": 435.934,
+"earned_rs": 386580.06,
+"bills": 6,
+"exposed_rs": 213419.94
+},
+{
+"code": "C-0230",
+"advance_rs": 1380000.0,
+"harvested_t": 1430.722,
+"earned_rs": 1168851.24,
+"bills": 7,
+"exposed_rs": 211148.76
+},
+{
+"code": "C-0231",
+"advance_rs": 210000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 210000.0
+},
+{
+"code": "C-0232",
+"advance_rs": 200000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 200000.0
+},
+{
+"code": "C-0233",
+"advance_rs": 200000.0,
+"harvested_t": 0.0,
+"earned_rs": 0.0,
+"bills": 0,
+"exposed_rs": 200000.0
+},
+{
+"code": "C-0234",
+"advance_rs": 1500000.0,
+"harvested_t": 1209.804,
+"earned_rs": 1300093.46,
+"bills": 8,
+"exposed_rs": 199906.54000000004
+},
+{
+"code": "C-0235",
+"advance_rs": 600000.0,
+"harvested_t": 335.571,
+"earned_rs": 404990.15,
+"bills": 4,
+"exposed_rs": 195009.84999999998
+},
+{
+"code": "C-0236",
+"advance_rs": 1150000.0,
+"harvested_t": 1196.023,
+"earned_rs": 955534.17,
+"bills": 8,
+"exposed_rs": 194465.82999999996
+},
+{
+"code": "C-0237",
+"advance_rs": 2760000.0,
+"harvested_t": 3001.932,
+"earned_rs": 2567881.8,
+"bills": 8,
+"exposed_rs": 192118.2000000002
+},
+{
+"code": "C-0238",
+"advance_rs": 250000.0,
+"harvested_t": 57.905,
+"earned_rs": 59558.87,
+"bills": 3,
+"exposed_rs": 190441.13
+},
+{
+"code": "C-0239",
+"advance_rs": 600000.0,
+"harvested_t": 354.341,
+"earned_rs": 411264.15,
+"bills": 4,
+"exposed_rs": 188735.84999999998
+},
+{
+"code": "C-0240",
+"advance_rs": 400000.0,
+"harvested_t": 11.286,
+"earned_rs": 212734.57,
+"bills": 6,
+"exposed_rs": 187265.43
+},
+{
+"code": "C-0241",
+"advance_rs": 600000.0,
+"harvested_t": 358.507,
+"earned_rs": 420696.08,
+"bills": 6,
+"exposed_rs": 179303.91999999998
+},
+{
+"code": "C-0242",
+"advance_rs": 1150000.0,
+"harvested_t": 1152.989,
+"earned_rs": 971420.54,
+"bills": 9,
+"exposed_rs": 178579.45999999996
+},
+{
+"code": "C-0243",
+"advance_rs": 600000.0,
+"harvested_t": 382.081,
+"earned_rs": 428111.81,
+"bills": 6,
+"exposed_rs": 171888.19
+},
+{
+"code": "C-0244",
+"advance_rs": 1150000.0,
+"harvested_t": 1196.961,
+"earned_rs": 979424.12,
+"bills": 8,
+"exposed_rs": 170575.88
+},
+{
+"code": "C-0245",
+"advance_rs": 600000.0,
+"harvested_t": 402.037,
+"earned_rs": 431362.32,
+"bills": 6,
+"exposed_rs": 168637.68
+},
+{
+"code": "C-0246",
+"advance_rs": 600000.0,
+"harvested_t": 508.138,
+"earned_rs": 432857.37,
+"bills": 7,
+"exposed_rs": 167142.63
+},
+{
+"code": "C-0247",
+"advance_rs": 1205000.0,
+"harvested_t": 1295.219,
+"earned_rs": 1042168.78,
+"bills": 8,
+"exposed_rs": 162831.21999999997
+},
+{
+"code": "C-0248",
+"advance_rs": 600000.0,
+"harvested_t": 404.749,
+"earned_rs": 441032.85,
+"bills": 6,
+"exposed_rs": 158967.15000000002
+},
+{
+"code": "C-0249",
+"advance_rs": 600000.0,
+"harvested_t": 403.384,
+"earned_rs": 441116.93,
+"bills": 4,
+"exposed_rs": 158883.07
+},
+{
+"code": "C-0250",
+"advance_rs": 600000.0,
+"harvested_t": 393.386,
+"earned_rs": 441232.72,
+"bills": 6,
+"exposed_rs": 158767.28000000003
+},
+{
+"code": "C-0251",
+"advance_rs": 600000.0,
+"harvested_t": 413.589,
+"earned_rs": 441268.16,
+"bills": 5,
+"exposed_rs": 158731.84000000003
+},
+{
+"code": "C-0252",
+"advance_rs": 400000.0,
+"harvested_t": 295.912,
+"earned_rs": 248011.14,
+"bills": 5,
+"exposed_rs": 151988.86
+},
+{
+"code": "C-0253",
+"advance_rs": 1250000.0,
+"harvested_t": 1165.632,
+"earned_rs": 1102807.88,
+"bills": 8,
+"exposed_rs": 147192.1200000001
+},
+{
+"code": "C-0254",
+"advance_rs": 600000.0,
+"harvested_t": 423.609,
+"earned_rs": 454745.44,
+"bills": 8,
+"exposed_rs": 145254.56
+},
+{
+"code": "C-0255",
+"advance_rs": 600000.0,
+"harvested_t": 520.132,
+"earned_rs": 454962.5,
+"bills": 8,
+"exposed_rs": 145037.5
+},
+{
+"code": "C-0256",
+"advance_rs": 600000.0,
+"harvested_t": 468.062,
+"earned_rs": 457176.83,
+"bills": 7,
+"exposed_rs": 142823.16999999998
+},
+{
+"code": "C-0257",
+"advance_rs": 600000.0,
+"harvested_t": 404.314,
+"earned_rs": 457864.57,
+"bills": 7,
+"exposed_rs": 142135.43
+},
+{
+"code": "C-0258",
+"advance_rs": 600000.0,
+"harvested_t": 438.412,
+"earned_rs": 459406.79,
+"bills": 6,
+"exposed_rs": 140593.21000000002
+},
+{
+"code": "C-0259",
+"advance_rs": 400000.0,
+"harvested_t": 253.024,
+"earned_rs": 260007.4,
+"bills": 2,
+"exposed_rs": 139992.6
+},
+{
+"code": "C-0260",
+"advance_rs": 1150000.0,
+"harvested_t": 1189.698,
+"earned_rs": 1018723.21,
+"bills": 7,
+"exposed_rs": 131276.79000000004
+},
+{
+"code": "C-0261",
+"advance_rs": 875000.0,
+"harvested_t": 764.556,
+"earned_rs": 743731.26,
+"bills": 8,
+"exposed_rs": 131268.74
+},
+{
+"code": "C-0262",
+"advance_rs": 575000.0,
+"harvested_t": 522.832,
+"earned_rs": 444783.91,
+"bills": 9,
+"exposed_rs": 130216.09000000003
+},
+{
+"code": "C-0263",
+"advance_rs": 815000.0,
+"harvested_t": 859.397,
+"earned_rs": 689022.09,
+"bills": 8,
+"exposed_rs": 125977.91000000003
+},
+{
+"code": "C-0264",
+"advance_rs": 600000.0,
+"harvested_t": 431.867,
+"earned_rs": 476611.13,
+"bills": 4,
+"exposed_rs": 123388.87
+},
+{
+"code": "C-0265",
+"advance_rs": 600000.0,
+"harvested_t": 432.539,
+"earned_rs": 478167.96,
+"bills": 8,
+"exposed_rs": 121832.03999999998
+},
+{
+"code": "C-0266",
+"advance_rs": 600000.0,
+"harvested_t": 441.499,
+"earned_rs": 481336.25,
+"bills": 7,
+"exposed_rs": 118663.75
+},
+{
+"code": "C-0267",
+"advance_rs": 460000.0,
+"harvested_t": 403.435,
+"earned_rs": 348048.12,
+"bills": 9,
+"exposed_rs": 111951.88
+},
+{
+"code": "C-0268",
+"advance_rs": 690000.0,
+"harvested_t": 703.274,
+"earned_rs": 580919.58,
+"bills": 8,
+"exposed_rs": 109080.42000000004
+},
+{
+"code": "C-0269",
+"advance_rs": 805000.0,
+"harvested_t": 832.759,
+"earned_rs": 696195.27,
+"bills": 9,
+"exposed_rs": 108804.72999999998
+},
+{
+"code": "C-0270",
+"advance_rs": 600000.0,
+"harvested_t": 456.924,
+"earned_rs": 491689.14,
+"bills": 8,
+"exposed_rs": 108310.85999999999
+},
+{
+"code": "C-0271",
+"advance_rs": 200000.0,
+"harvested_t": 83.318,
+"earned_rs": 93647.11,
+"bills": 5,
+"exposed_rs": 106352.89
+},
+{
+"code": "C-0272",
+"advance_rs": 600000.0,
+"harvested_t": 479.365,
+"earned_rs": 494580.24,
+"bills": 8,
+"exposed_rs": 105419.76000000001
+},
+{
+"code": "C-0273",
+"advance_rs": 600000.0,
+"harvested_t": 514.261,
+"earned_rs": 498078.71,
+"bills": 4,
+"exposed_rs": 101921.28999999998
+},
+{
+"code": "C-0274",
+"advance_rs": 600000.0,
+"harvested_t": 573.524,
+"earned_rs": 502337.66,
+"bills": 8,
+"exposed_rs": 97662.34000000003
+},
+{
+"code": "C-0275",
+"advance_rs": 600000.0,
+"harvested_t": 581.551,
+"earned_rs": 506957.72,
+"bills": 9,
+"exposed_rs": 93042.28000000003
+},
+{
+"code": "C-0276",
+"advance_rs": 600000.0,
+"harvested_t": 459.161,
+"earned_rs": 507162.88,
+"bills": 8,
+"exposed_rs": 92837.12
+},
+{
+"code": "C-0277",
+"advance_rs": 600000.0,
+"harvested_t": 473.367,
+"earned_rs": 507634.32,
+"bills": 7,
+"exposed_rs": 92365.68
+},
+{
+"code": "C-0278",
+"advance_rs": 600000.0,
+"harvested_t": 463.982,
+"earned_rs": 512108.83,
+"bills": 4,
+"exposed_rs": 87891.16999999998
+},
+{
+"code": "C-0279",
+"advance_rs": 2250000.0,
+"harvested_t": 2134.876,
+"earned_rs": 2172384.04,
+"bills": 8,
+"exposed_rs": 77615.95999999996
+},
+{
+"code": "C-0280",
+"advance_rs": 575000.0,
+"harvested_t": 570.494,
+"earned_rs": 497593.45,
+"bills": 9,
+"exposed_rs": 77406.54999999999
+},
+{
+"code": "C-0281",
+"advance_rs": 600000.0,
+"harvested_t": 576.397,
+"earned_rs": 523547.22,
+"bills": 7,
+"exposed_rs": 76452.78000000003
+},
+{
+"code": "C-0282",
+"advance_rs": 3500000.0,
+"harvested_t": 3100.806,
+"earned_rs": 3424296.48,
+"bills": 8,
+"exposed_rs": 75703.52000000002
+},
+{
+"code": "C-0283",
+"advance_rs": 600000.0,
+"harvested_t": 489.771,
+"earned_rs": 525110.97,
+"bills": 7,
+"exposed_rs": 74889.03000000003
+},
+{
+"code": "C-0284",
+"advance_rs": 600000.0,
+"harvested_t": 624.795,
+"earned_rs": 526417.6,
+"bills": 8,
+"exposed_rs": 73582.40000000002
+},
+{
+"code": "C-0285",
+"advance_rs": 1150000.0,
+"harvested_t": 1205.975,
+"earned_rs": 1077139.67,
+"bills": 9,
+"exposed_rs": 72860.33000000007
+},
+{
+"code": "C-0286",
+"advance_rs": 600000.0,
+"harvested_t": 528.818,
+"earned_rs": 528133.36,
+"bills": 5,
+"exposed_rs": 71866.64000000001
+},
+{
+"code": "C-0287",
+"advance_rs": 600000.0,
+"harvested_t": 478.179,
+"earned_rs": 529365.01,
+"bills": 5,
+"exposed_rs": 70634.98999999999
+},
+{
+"code": "C-0288",
+"advance_rs": 600000.0,
+"harvested_t": 586.235,
+"earned_rs": 531911.95,
+"bills": 7,
+"exposed_rs": 68088.05000000005
+},
+{
+"code": "C-0289",
+"advance_rs": 600000.0,
+"harvested_t": 431.481,
+"earned_rs": 532821.84,
+"bills": 4,
+"exposed_rs": 67178.16000000003
+},
+{
+"code": "C-0290",
+"advance_rs": 460000.0,
+"harvested_t": 487.23,
+"earned_rs": 395286.36,
+"bills": 7,
+"exposed_rs": 64713.640000000014
+},
+{
+"code": "C-0291",
+"advance_rs": 125000.0,
+"harvested_t": 59.379,
+"earned_rs": 61402.14,
+"bills": 4,
+"exposed_rs": 63597.86
+},
+{
+"code": "C-0292",
+"advance_rs": 600000.0,
+"harvested_t": 529.409,
+"earned_rs": 536736.28,
+"bills": 7,
+"exposed_rs": 63263.71999999997
+},
+{
+"code": "C-0293",
+"advance_rs": 600000.0,
+"harvested_t": 632.302,
+"earned_rs": 537127.28,
+"bills": 6,
+"exposed_rs": 62872.71999999997
+},
+{
+"code": "C-0294",
+"advance_rs": 600000.0,
+"harvested_t": 505.433,
+"earned_rs": 544400.45,
+"bills": 6,
+"exposed_rs": 55599.55000000005
+},
+{
+"code": "C-0295",
+"advance_rs": 600000.0,
+"harvested_t": 538.837,
+"earned_rs": 544787.5,
+"bills": 5,
+"exposed_rs": 55212.5
+},
+{
+"code": "C-0296",
+"advance_rs": 230000.0,
+"harvested_t": 200.428,
+"earned_rs": 175087.08,
+"bills": 8,
+"exposed_rs": 54912.92000000001
+},
+{
+"code": "C-0297",
+"advance_rs": 600000.0,
+"harvested_t": 643.994,
+"earned_rs": 545901.53,
+"bills": 7,
+"exposed_rs": 54098.46999999997
+},
+{
+"code": "C-0298",
+"advance_rs": 6000000.0,
+"harvested_t": 5522.466,
+"earned_rs": 5947550.98,
+"bills": 8,
+"exposed_rs": 52449.01999999955
+},
+{
+"code": "C-0299",
+"advance_rs": 805000.0,
+"harvested_t": 867.303,
+"earned_rs": 752679.45,
+"bills": 9,
+"exposed_rs": 52320.55000000005
+},
+{
+"code": "C-0300",
+"advance_rs": 600000.0,
+"harvested_t": 584.04,
+"earned_rs": 549066.72,
+"bills": 6,
+"exposed_rs": 50933.28000000003
+},
+{
+"code": "C-0301",
+"advance_rs": 600000.0,
+"harvested_t": 440.451,
+"earned_rs": 551750.8,
+"bills": 7,
+"exposed_rs": 48249.19999999995
+},
+{
+"code": "C-0302",
+"advance_rs": 1150000.0,
+"harvested_t": 1414.928,
+"earned_rs": 1104733.25,
+"bills": 7,
+"exposed_rs": 45266.75
+},
+{
+"code": "C-0303",
+"advance_rs": 1150000.0,
+"harvested_t": 1420.007,
+"earned_rs": 1108379.37,
+"bills": 9,
+"exposed_rs": 41620.62999999989
+},
+{
+"code": "C-0304",
+"advance_rs": 400000.0,
+"harvested_t": 418.134,
+"earned_rs": 359369.32,
+"bills": 8,
+"exposed_rs": 40630.67999999999
+},
+{
+"code": "C-0305",
+"advance_rs": 400000.0,
+"harvested_t": 367.822,
+"earned_rs": 359832.59,
+"bills": 6,
+"exposed_rs": 40167.409999999974
+},
+{
+"code": "C-0306",
+"advance_rs": 1000000.0,
+"harvested_t": 1844.475,
+"earned_rs": 963738.2,
+"bills": 6,
+"exposed_rs": 36261.80000000005
+},
+{
+"code": "C-0307",
+"advance_rs": 600000.0,
+"harvested_t": 523.102,
+"earned_rs": 567139.5,
+"bills": 8,
+"exposed_rs": 32860.5
+},
+{
+"code": "C-0308",
+"advance_rs": 600000.0,
+"harvested_t": 523.925,
+"earned_rs": 568030.98,
+"bills": 8,
+"exposed_rs": 31969.02000000002
+},
+{
+"code": "C-0309",
+"advance_rs": 600000.0,
+"harvested_t": 503.383,
+"earned_rs": 570117.1,
+"bills": 6,
+"exposed_rs": 29882.900000000023
+},
+{
+"code": "C-0310",
+"advance_rs": 600000.0,
+"harvested_t": 491.424,
+"earned_rs": 570887.44,
+"bills": 5,
+"exposed_rs": 29112.560000000056
+},
+{
+"code": "C-0311",
+"advance_rs": 600000.0,
+"harvested_t": 550.193,
+"earned_rs": 572158.98,
+"bills": 6,
+"exposed_rs": 27841.02000000002
+},
+{
+"code": "C-0312",
+"advance_rs": 500000.0,
+"harvested_t": 915.68,
+"earned_rs": 478442.82,
+"bills": 6,
+"exposed_rs": 21557.179999999993
+},
+{
+"code": "C-0313",
+"advance_rs": 600000.0,
+"harvested_t": 511.433,
+"earned_rs": 582719.34,
+"bills": 6,
+"exposed_rs": 17280.660000000033
+},
+{
+"code": "C-0314",
+"advance_rs": 600000.0,
+"harvested_t": 530.3,
+"earned_rs": 587642.26,
+"bills": 7,
+"exposed_rs": 12357.73999999999
+},
+{
+"code": "C-0315",
+"advance_rs": 600000.0,
+"harvested_t": 697.586,
+"earned_rs": 591330.87,
+"bills": 9,
+"exposed_rs": 8669.130000000005
+},
+{
+"code": "C-0316",
+"advance_rs": 600000.0,
+"harvested_t": 642.787,
+"earned_rs": 592025.74,
+"bills": 6,
+"exposed_rs": 7974.260000000009
+},
+{
+"code": "C-0317",
+"advance_rs": 690000.0,
+"harvested_t": 862.975,
+"earned_rs": 682346.47,
+"bills": 8,
+"exposed_rs": 7653.530000000028
+},
+{
+"code": "C-0318",
+"advance_rs": 600000.0,
+"harvested_t": 700.996,
+"earned_rs": 594221.12,
+"bills": 8,
+"exposed_rs": 5778.880000000005
+},
+{
+"code": "C-0319",
+"advance_rs": 600000.0,
+"harvested_t": 612.282,
+"earned_rs": 597319.49,
+"bills": 8,
+"exposed_rs": 2680.5100000000093
+},
+{
+"code": "C-0320",
+"advance_rs": 600000.0,
+"harvested_t": 606.73,
+"earned_rs": 597523.63,
+"bills": 6,
+"exposed_rs": 2476.3699999999953
+},
+{
+"code": "C-0321",
+"advance_rs": 200000.0,
+"harvested_t": 201.079,
+"earned_rs": 197779.63,
+"bills": 6,
+"exposed_rs": 2220.3699999999953
+},
+{
+"code": "C-0322",
+"advance_rs": 600000.0,
+"harvested_t": 595.921,
+"earned_rs": 598030.53,
+"bills": 8,
+"exposed_rs": 1969.469999999972
+},
+{
+"code": "C-0323",
+"advance_rs": 1000000.0,
+"harvested_t": 916.859,
+"earned_rs": 1002467.97,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0324",
+"advance_rs": 600000.0,
+"harvested_t": 587.365,
+"earned_rs": 606751.57,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0325",
+"advance_rs": 600000.0,
+"harvested_t": 548.587,
+"earned_rs": 606947.86,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0326",
+"advance_rs": 600000.0,
+"harvested_t": 551.816,
+"earned_rs": 609191.32,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0327",
+"advance_rs": 600000.0,
+"harvested_t": 650.312,
+"earned_rs": 611336.69,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0328",
+"advance_rs": 400000.0,
+"harvested_t": 570.438,
+"earned_rs": 412840.87,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0329",
+"advance_rs": 575000.0,
+"harvested_t": 652.24,
+"earned_rs": 591737.76,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0330",
+"advance_rs": 600000.0,
+"harvested_t": 609.316,
+"earned_rs": 617771.98,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0331",
+"advance_rs": 600000.0,
+"harvested_t": 632.023,
+"earned_rs": 619214.24,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0332",
+"advance_rs": 600000.0,
+"harvested_t": 663.1,
+"earned_rs": 622703.69,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0333",
+"advance_rs": 600000.0,
+"harvested_t": 505.168,
+"earned_rs": 623609.06,
+"bills": 4,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0334",
+"advance_rs": 600000.0,
+"harvested_t": 612.997,
+"earned_rs": 623757.34,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0335",
+"advance_rs": 600000.0,
+"harvested_t": 693.512,
+"earned_rs": 627584.71,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0336",
+"advance_rs": 600000.0,
+"harvested_t": 590.447,
+"earned_rs": 629127.59,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0337",
+"advance_rs": 600000.0,
+"harvested_t": 587.732,
+"earned_rs": 631183.87,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0338",
+"advance_rs": 240000.0,
+"harvested_t": 361.919,
+"earned_rs": 271384.35,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0339",
+"advance_rs": 600000.0,
+"harvested_t": 602.272,
+"earned_rs": 631565.83,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0340",
+"advance_rs": 600000.0,
+"harvested_t": 571.208,
+"earned_rs": 633890.72,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0341",
+"advance_rs": 200000.0,
+"harvested_t": 0.0,
+"earned_rs": 236555.04,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0342",
+"advance_rs": 600000.0,
+"harvested_t": 611.392,
+"earned_rs": 637346.04,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0343",
+"advance_rs": 600000.0,
+"harvested_t": 535.299,
+"earned_rs": 638905.0,
+"bills": 1,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0344",
+"advance_rs": 920000.0,
+"harvested_t": 1199.882,
+"earned_rs": 960930.73,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0345",
+"advance_rs": 600000.0,
+"harvested_t": 558.755,
+"earned_rs": 646852.47,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0346",
+"advance_rs": 600000.0,
+"harvested_t": 585.215,
+"earned_rs": 648609.63,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0347",
+"advance_rs": 600000.0,
+"harvested_t": 555.251,
+"earned_rs": 650609.52,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0348",
+"advance_rs": 460000.0,
+"harvested_t": 594.939,
+"earned_rs": 511379.12,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0349",
+"advance_rs": 160000.0,
+"harvested_t": 247.862,
+"earned_rs": 211843.43,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0350",
+"advance_rs": 600000.0,
+"harvested_t": 771.742,
+"earned_rs": 651888.64,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0351",
+"advance_rs": 160000.0,
+"harvested_t": 269.056,
+"earned_rs": 213021.89,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0352",
+"advance_rs": 400000.0,
+"harvested_t": 420.056,
+"earned_rs": 453717.86,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0353",
+"advance_rs": 600000.0,
+"harvested_t": 710.906,
+"earned_rs": 654440.07,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0354",
+"advance_rs": 750000.0,
+"harvested_t": 742.929,
+"earned_rs": 804978.69,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0355",
+"advance_rs": 2000000.0,
+"harvested_t": 1820.502,
+"earned_rs": 2064146.27,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0356",
+"advance_rs": 1250000.0,
+"harvested_t": 1421.747,
+"earned_rs": 1315747.58,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0357",
+"advance_rs": 600000.0,
+"harvested_t": 735.985,
+"earned_rs": 667099.42,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0358",
+"advance_rs": 600000.0,
+"harvested_t": 711.156,
+"earned_rs": 667144.29,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0359",
+"advance_rs": 600000.0,
+"harvested_t": 688.784,
+"earned_rs": 672564.39,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0360",
+"advance_rs": 1035000.0,
+"harvested_t": 1368.305,
+"earned_rs": 1110909.59,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0361",
+"advance_rs": 600000.0,
+"harvested_t": 611.802,
+"earned_rs": 678321.25,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0362",
+"advance_rs": 600000.0,
+"harvested_t": 607.224,
+"earned_rs": 678768.34,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0363",
+"advance_rs": 600000.0,
+"harvested_t": 760.655,
+"earned_rs": 680879.06,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0364",
+"advance_rs": 600000.0,
+"harvested_t": 724.528,
+"earned_rs": 681495.72,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0365",
+"advance_rs": 345000.0,
+"harvested_t": 526.338,
+"earned_rs": 427283.26,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0366",
+"advance_rs": 345000.0,
+"harvested_t": 480.244,
+"earned_rs": 428208.82,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0367",
+"advance_rs": 1035000.0,
+"harvested_t": 1229.208,
+"earned_rs": 1118227.15,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0368",
+"advance_rs": 600000.0,
+"harvested_t": 742.894,
+"earned_rs": 684337.91,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0369",
+"advance_rs": 200000.0,
+"harvested_t": 0.0,
+"earned_rs": 284856.45,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0370",
+"advance_rs": 505000.0,
+"harvested_t": 747.569,
+"earned_rs": 591244.56,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0371",
+"advance_rs": 1380000.0,
+"harvested_t": 1902.157,
+"earned_rs": 1467181.79,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0372",
+"advance_rs": 600000.0,
+"harvested_t": 667.137,
+"earned_rs": 688265.75,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0373",
+"advance_rs": 600000.0,
+"harvested_t": 733.417,
+"earned_rs": 689163.13,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0374",
+"advance_rs": 920000.0,
+"harvested_t": 1140.36,
+"earned_rs": 1015424.16,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0375",
+"advance_rs": 600000.0,
+"harvested_t": 585.483,
+"earned_rs": 698414.06,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0376",
+"advance_rs": 600000.0,
+"harvested_t": 657.832,
+"earned_rs": 699126.19,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0377",
+"advance_rs": 600000.0,
+"harvested_t": 587.958,
+"earned_rs": 699663.8,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0378",
+"advance_rs": 600000.0,
+"harvested_t": 667.988,
+"earned_rs": 703313.55,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0379",
+"advance_rs": 125000.0,
+"harvested_t": 279.385,
+"earned_rs": 229746.55,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0380",
+"advance_rs": 600000.0,
+"harvested_t": 776.478,
+"earned_rs": 704800.47,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0381",
+"advance_rs": 600000.0,
+"harvested_t": 754.635,
+"earned_rs": 707903.7,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0382",
+"advance_rs": 690000.0,
+"harvested_t": 989.259,
+"earned_rs": 798050.37,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0383",
+"advance_rs": 1750000.0,
+"harvested_t": 1793.318,
+"earned_rs": 1861021.62,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0384",
+"advance_rs": 200000.0,
+"harvested_t": 0.0,
+"earned_rs": 311327.39,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0385",
+"advance_rs": 600000.0,
+"harvested_t": 672.564,
+"earned_rs": 715326.5,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0386",
+"advance_rs": 600000.0,
+"harvested_t": 822.486,
+"earned_rs": 715884.54,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0387",
+"advance_rs": 600000.0,
+"harvested_t": 674.857,
+"earned_rs": 716354.91,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0388",
+"advance_rs": 200000.0,
+"harvested_t": 0.0,
+"earned_rs": 317197.59,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0389",
+"advance_rs": 200000.0,
+"harvested_t": 0.0,
+"earned_rs": 317761.49,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0390",
+"advance_rs": 600000.0,
+"harvested_t": 765.133,
+"earned_rs": 718352.47,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0391",
+"advance_rs": 600000.0,
+"harvested_t": 788.543,
+"earned_rs": 718686.53,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0392",
+"advance_rs": 600000.0,
+"harvested_t": 775.288,
+"earned_rs": 719231.33,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0393",
+"advance_rs": 600000.0,
+"harvested_t": 653.099,
+"earned_rs": 719603.9,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0394",
+"advance_rs": 600000.0,
+"harvested_t": 830.49,
+"earned_rs": 720401.39,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0395",
+"advance_rs": 500000.0,
+"harvested_t": 649.318,
+"earned_rs": 621826.29,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0396",
+"advance_rs": 600000.0,
+"harvested_t": 768.992,
+"earned_rs": 722123.04,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0397",
+"advance_rs": 600000.0,
+"harvested_t": 853.427,
+"earned_rs": 722734.52,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0398",
+"advance_rs": 600000.0,
+"harvested_t": 723.441,
+"earned_rs": 723604.18,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0399",
+"advance_rs": 600000.0,
+"harvested_t": 853.523,
+"earned_rs": 723823.97,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0400",
+"advance_rs": 690000.0,
+"harvested_t": 970.643,
+"earned_rs": 815597.51,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0401",
+"advance_rs": 600000.0,
+"harvested_t": 856.16,
+"earned_rs": 725746.85,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0402",
+"advance_rs": 600000.0,
+"harvested_t": 657.457,
+"earned_rs": 726157.6,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0403",
+"advance_rs": 600000.0,
+"harvested_t": 615.769,
+"earned_rs": 727058.68,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0404",
+"advance_rs": 600000.0,
+"harvested_t": 771.768,
+"earned_rs": 727275.31,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0405",
+"advance_rs": 600000.0,
+"harvested_t": 655.904,
+"earned_rs": 727729.65,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0406",
+"advance_rs": 600000.0,
+"harvested_t": 685.839,
+"earned_rs": 727779.28,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0407",
+"advance_rs": 600000.0,
+"harvested_t": 694.731,
+"earned_rs": 734024.24,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0408",
+"advance_rs": 600000.0,
+"harvested_t": 643.131,
+"earned_rs": 734258.78,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0409",
+"advance_rs": 600000.0,
+"harvested_t": 900.711,
+"earned_rs": 735809.54,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0410",
+"advance_rs": 600000.0,
+"harvested_t": 625.687,
+"earned_rs": 736030.5,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0411",
+"advance_rs": 600000.0,
+"harvested_t": 795.007,
+"earned_rs": 737420.15,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0412",
+"advance_rs": 600000.0,
+"harvested_t": 870.692,
+"earned_rs": 737676.37,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0413",
+"advance_rs": 600000.0,
+"harvested_t": 812.534,
+"earned_rs": 738376.96,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0414",
+"advance_rs": 600000.0,
+"harvested_t": 905.925,
+"earned_rs": 739956.42,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0415",
+"advance_rs": 600000.0,
+"harvested_t": 721.335,
+"earned_rs": 741543.48,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0416",
+"advance_rs": 600000.0,
+"harvested_t": 646.893,
+"earned_rs": 742349.7,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0417",
+"advance_rs": 200000.0,
+"harvested_t": 0.0,
+"earned_rs": 343589.11,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0418",
+"advance_rs": 600000.0,
+"harvested_t": 790.252,
+"earned_rs": 747155.63,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0419",
+"advance_rs": 400000.0,
+"harvested_t": 561.397,
+"earned_rs": 547427.35,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0420",
+"advance_rs": 600000.0,
+"harvested_t": 768.206,
+"earned_rs": 749185.52,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0421",
+"advance_rs": 600000.0,
+"harvested_t": 677.249,
+"earned_rs": 750155.45,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0422",
+"advance_rs": 600000.0,
+"harvested_t": 721.649,
+"earned_rs": 750502.56,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0423",
+"advance_rs": 600000.0,
+"harvested_t": 743.319,
+"earned_rs": 751137.95,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0424",
+"advance_rs": 690000.0,
+"harvested_t": 1054.997,
+"earned_rs": 841656.73,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0425",
+"advance_rs": 600000.0,
+"harvested_t": 798.787,
+"earned_rs": 751718.39,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0426",
+"advance_rs": 500000.0,
+"harvested_t": 705.56,
+"earned_rs": 652956.49,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0427",
+"advance_rs": 600000.0,
+"harvested_t": 808.636,
+"earned_rs": 754179.25,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0428",
+"advance_rs": 600000.0,
+"harvested_t": 673.407,
+"earned_rs": 754374.07,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0429",
+"advance_rs": 600000.0,
+"harvested_t": 654.892,
+"earned_rs": 755517.8,
+"bills": 4,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0430",
+"advance_rs": 600000.0,
+"harvested_t": 757.981,
+"earned_rs": 756322.86,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0431",
+"advance_rs": 160000.0,
+"harvested_t": 359.425,
+"earned_rs": 317283.27,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0432",
+"advance_rs": 600000.0,
+"harvested_t": 661.158,
+"earned_rs": 758282.46,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0433",
+"advance_rs": 600000.0,
+"harvested_t": 794.117,
+"earned_rs": 759399.99,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0434",
+"advance_rs": 600000.0,
+"harvested_t": 750.014,
+"earned_rs": 760480.57,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0435",
+"advance_rs": 600000.0,
+"harvested_t": 846.659,
+"earned_rs": 761317.26,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0436",
+"advance_rs": 1000000.0,
+"harvested_t": 1071.56,
+"earned_rs": 1161664.71,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0437",
+"advance_rs": 600000.0,
+"harvested_t": 840.495,
+"earned_rs": 762333.71,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0438",
+"advance_rs": 600000.0,
+"harvested_t": 689.107,
+"earned_rs": 762737.57,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0439",
+"advance_rs": 500000.0,
+"harvested_t": 783.804,
+"earned_rs": 663606.36,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0440",
+"advance_rs": 600000.0,
+"harvested_t": 900.255,
+"earned_rs": 763693.91,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0441",
+"advance_rs": 200000.0,
+"harvested_t": 0.0,
+"earned_rs": 363854.38,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0442",
+"advance_rs": 500000.0,
+"harvested_t": 717.416,
+"earned_rs": 663927.51,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0443",
+"advance_rs": 600000.0,
+"harvested_t": 826.436,
+"earned_rs": 765423.15,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0444",
+"advance_rs": 600000.0,
+"harvested_t": 675.11,
+"earned_rs": 765587.04,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0445",
+"advance_rs": 600000.0,
+"harvested_t": 863.89,
+"earned_rs": 766084.37,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0446",
+"advance_rs": 600000.0,
+"harvested_t": 905.639,
+"earned_rs": 767246.89,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0447",
+"advance_rs": 600000.0,
+"harvested_t": 907.721,
+"earned_rs": 769458.2,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0448",
+"advance_rs": 600000.0,
+"harvested_t": 724.411,
+"earned_rs": 770322.95,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0449",
+"advance_rs": 600000.0,
+"harvested_t": 829.807,
+"earned_rs": 770524.14,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0450",
+"advance_rs": 600000.0,
+"harvested_t": 830.587,
+"earned_rs": 771297.16,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0451",
+"advance_rs": 600000.0,
+"harvested_t": 643.391,
+"earned_rs": 771325.94,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0452",
+"advance_rs": 600000.0,
+"harvested_t": 790.453,
+"earned_rs": 772482.79,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0453",
+"advance_rs": 600000.0,
+"harvested_t": 822.375,
+"earned_rs": 773825.86,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0454",
+"advance_rs": 600000.0,
+"harvested_t": 856.211,
+"earned_rs": 775179.59,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0455",
+"advance_rs": 600000.0,
+"harvested_t": 802.869,
+"earned_rs": 778243.53,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0456",
+"advance_rs": 1250000.0,
+"harvested_t": 1509.862,
+"earned_rs": 1428287.82,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0457",
+"advance_rs": 600000.0,
+"harvested_t": 580.058,
+"earned_rs": 780651.2,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0458",
+"advance_rs": 600000.0,
+"harvested_t": 637.322,
+"earned_rs": 782217.1,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0459",
+"advance_rs": 600000.0,
+"harvested_t": 841.479,
+"earned_rs": 782353.03,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0460",
+"advance_rs": 600000.0,
+"harvested_t": 912.3,
+"earned_rs": 782766.2,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0461",
+"advance_rs": 600000.0,
+"harvested_t": 655.378,
+"earned_rs": 783767.75,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0462",
+"advance_rs": 600000.0,
+"harvested_t": 882.563,
+"earned_rs": 784529.72,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0463",
+"advance_rs": 600000.0,
+"harvested_t": 851.737,
+"earned_rs": 785511.2,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0464",
+"advance_rs": 600000.0,
+"harvested_t": 669.239,
+"earned_rs": 785633.25,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0465",
+"advance_rs": 600000.0,
+"harvested_t": 763.24,
+"earned_rs": 786523.09,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0466",
+"advance_rs": 600000.0,
+"harvested_t": 887.026,
+"earned_rs": 786602.02,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0467",
+"advance_rs": 600000.0,
+"harvested_t": 715.104,
+"earned_rs": 787225.91,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0468",
+"advance_rs": 600000.0,
+"harvested_t": 534.42,
+"earned_rs": 788627.12,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0469",
+"advance_rs": 600000.0,
+"harvested_t": 781.968,
+"earned_rs": 789727.81,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0470",
+"advance_rs": 600000.0,
+"harvested_t": 810.134,
+"earned_rs": 789731.49,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0471",
+"advance_rs": 250000.0,
+"harvested_t": 554.845,
+"earned_rs": 440122.21,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0472",
+"advance_rs": 600000.0,
+"harvested_t": 891.551,
+"earned_rs": 790614.06,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0473",
+"advance_rs": 600000.0,
+"harvested_t": 741.536,
+"earned_rs": 790725.96,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0474",
+"advance_rs": 600000.0,
+"harvested_t": 940.002,
+"earned_rs": 791452.93,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0475",
+"advance_rs": 600000.0,
+"harvested_t": 713.326,
+"earned_rs": 792674.93,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0476",
+"advance_rs": 600000.0,
+"harvested_t": 679.078,
+"earned_rs": 793090.36,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0477",
+"advance_rs": 600000.0,
+"harvested_t": 847.21,
+"earned_rs": 793569.9,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0478",
+"advance_rs": 600000.0,
+"harvested_t": 844.418,
+"earned_rs": 794418.76,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0479",
+"advance_rs": 600000.0,
+"harvested_t": 860.832,
+"earned_rs": 794423.4,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0480",
+"advance_rs": 920000.0,
+"harvested_t": 1273.304,
+"earned_rs": 1114516.08,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0481",
+"advance_rs": 600000.0,
+"harvested_t": 820.142,
+"earned_rs": 795006.11,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0482",
+"advance_rs": 600000.0,
+"harvested_t": 847.927,
+"earned_rs": 795631.19,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0483",
+"advance_rs": 600000.0,
+"harvested_t": 923.983,
+"earned_rs": 796357.16,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0484",
+"advance_rs": 600000.0,
+"harvested_t": 809.043,
+"earned_rs": 798850.15,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0485",
+"advance_rs": 600000.0,
+"harvested_t": 853.785,
+"earned_rs": 799331.63,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0486",
+"advance_rs": 600000.0,
+"harvested_t": 739.689,
+"earned_rs": 802162.3,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0487",
+"advance_rs": 600000.0,
+"harvested_t": 578.654,
+"earned_rs": 802379.96,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0488",
+"advance_rs": 600000.0,
+"harvested_t": 680.612,
+"earned_rs": 802699.9,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0489",
+"advance_rs": 600000.0,
+"harvested_t": 841.122,
+"earned_rs": 802708.45,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0490",
+"advance_rs": 600000.0,
+"harvested_t": 922.211,
+"earned_rs": 802931.17,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0491",
+"advance_rs": 600000.0,
+"harvested_t": 905.659,
+"earned_rs": 803124.64,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0492",
+"advance_rs": 600000.0,
+"harvested_t": 852.356,
+"earned_rs": 803529.46,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0493",
+"advance_rs": 600000.0,
+"harvested_t": 932.176,
+"earned_rs": 803660.43,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0494",
+"advance_rs": 600000.0,
+"harvested_t": 956.523,
+"earned_rs": 804116.95,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0495",
+"advance_rs": 575000.0,
+"harvested_t": 969.602,
+"earned_rs": 779305.54,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0496",
+"advance_rs": 600000.0,
+"harvested_t": 874.83,
+"earned_rs": 807679.67,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0497",
+"advance_rs": 600000.0,
+"harvested_t": 834.836,
+"earned_rs": 807829.51,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0498",
+"advance_rs": 1250000.0,
+"harvested_t": 1394.397,
+"earned_rs": 1460911.03,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0499",
+"advance_rs": 600000.0,
+"harvested_t": 831.732,
+"earned_rs": 811045.08,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0500",
+"advance_rs": 600000.0,
+"harvested_t": 883.421,
+"earned_rs": 811046.92,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0501",
+"advance_rs": 600000.0,
+"harvested_t": 787.503,
+"earned_rs": 811291.38,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0502",
+"advance_rs": 600000.0,
+"harvested_t": 770.783,
+"earned_rs": 812078.73,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0503",
+"advance_rs": 600000.0,
+"harvested_t": 692.135,
+"earned_rs": 813961.0,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0504",
+"advance_rs": 600000.0,
+"harvested_t": 883.096,
+"earned_rs": 814504.22,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0505",
+"advance_rs": 1250000.0,
+"harvested_t": 1412.78,
+"earned_rs": 1465335.24,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0506",
+"advance_rs": 600000.0,
+"harvested_t": 697.65,
+"earned_rs": 815928.64,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0507",
+"advance_rs": 600000.0,
+"harvested_t": 872.227,
+"earned_rs": 816071.54,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0508",
+"advance_rs": 600000.0,
+"harvested_t": 894.452,
+"earned_rs": 816834.81,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0509",
+"advance_rs": 600000.0,
+"harvested_t": 766.049,
+"earned_rs": 816864.42,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0510",
+"advance_rs": 600000.0,
+"harvested_t": 922.578,
+"earned_rs": 818129.06,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0511",
+"advance_rs": 775000.0,
+"harvested_t": 1013.944,
+"earned_rs": 993193.08,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0512",
+"advance_rs": 600000.0,
+"harvested_t": 726.746,
+"earned_rs": 818224.92,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0513",
+"advance_rs": 600000.0,
+"harvested_t": 961.423,
+"earned_rs": 818555.17,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0514",
+"advance_rs": 600000.0,
+"harvested_t": 900.874,
+"earned_rs": 818673.19,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0515",
+"advance_rs": 2035000.0,
+"harvested_t": 2698.321,
+"earned_rs": 2254780.45,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0516",
+"advance_rs": 600000.0,
+"harvested_t": 678.674,
+"earned_rs": 820940.48,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0517",
+"advance_rs": 600000.0,
+"harvested_t": 861.728,
+"earned_rs": 823501.23,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0518",
+"advance_rs": 600000.0,
+"harvested_t": 836.246,
+"earned_rs": 825709.95,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0519",
+"advance_rs": 600000.0,
+"harvested_t": 893.75,
+"earned_rs": 826347.33,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0520",
+"advance_rs": 600000.0,
+"harvested_t": 975.943,
+"earned_rs": 826627.08,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0521",
+"advance_rs": 600000.0,
+"harvested_t": 884.419,
+"earned_rs": 827315.69,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0522",
+"advance_rs": 600000.0,
+"harvested_t": 742.884,
+"earned_rs": 827416.91,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0523",
+"advance_rs": 600000.0,
+"harvested_t": 891.175,
+"earned_rs": 828494.09,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0524",
+"advance_rs": 625000.0,
+"harvested_t": 779.115,
+"earned_rs": 853989.3,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0525",
+"advance_rs": 1265000.0,
+"harvested_t": 1870.826,
+"earned_rs": 1495110.74,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0526",
+"advance_rs": 600000.0,
+"harvested_t": 895.392,
+"earned_rs": 832070.55,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0527",
+"advance_rs": 600000.0,
+"harvested_t": 981.831,
+"earned_rs": 832279.29,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0528",
+"advance_rs": 600000.0,
+"harvested_t": 837.231,
+"earned_rs": 832839.06,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0529",
+"advance_rs": 600000.0,
+"harvested_t": 912.205,
+"earned_rs": 833406.22,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0530",
+"advance_rs": 600000.0,
+"harvested_t": 825.895,
+"earned_rs": 834268.37,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0531",
+"advance_rs": 600000.0,
+"harvested_t": 688.071,
+"earned_rs": 834917.48,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0532",
+"advance_rs": 620000.0,
+"harvested_t": 1142.107,
+"earned_rs": 856895.58,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0533",
+"advance_rs": 600000.0,
+"harvested_t": 796.057,
+"earned_rs": 837414.8,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0534",
+"advance_rs": 600000.0,
+"harvested_t": 776.754,
+"earned_rs": 838349.73,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0535",
+"advance_rs": 600000.0,
+"harvested_t": 954.265,
+"earned_rs": 838882.93,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0536",
+"advance_rs": 600000.0,
+"harvested_t": 947.507,
+"earned_rs": 840234.54,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0537",
+"advance_rs": 600000.0,
+"harvested_t": 758.289,
+"earned_rs": 841228.89,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0538",
+"advance_rs": 600000.0,
+"harvested_t": 774.012,
+"earned_rs": 842763.22,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0539",
+"advance_rs": 250000.0,
+"harvested_t": 511.946,
+"earned_rs": 493177.44,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0540",
+"advance_rs": 600000.0,
+"harvested_t": 715.48,
+"earned_rs": 844455.87,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0541",
+"advance_rs": 1875000.0,
+"harvested_t": 2253.277,
+"earned_rs": 2120122.55,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0542",
+"advance_rs": 600000.0,
+"harvested_t": 859.313,
+"earned_rs": 845420.55,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0543",
+"advance_rs": 600000.0,
+"harvested_t": 873.089,
+"earned_rs": 845884.45,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0544",
+"advance_rs": 600000.0,
+"harvested_t": 805.76,
+"earned_rs": 846088.37,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0545",
+"advance_rs": 250000.0,
+"harvested_t": 483.081,
+"earned_rs": 496640.94,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0546",
+"advance_rs": 600000.0,
+"harvested_t": 713.419,
+"earned_rs": 847002.14,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0547",
+"advance_rs": 600000.0,
+"harvested_t": 707.113,
+"earned_rs": 848979.26,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0548",
+"advance_rs": 600000.0,
+"harvested_t": 1001.955,
+"earned_rs": 849338.33,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0549",
+"advance_rs": 600000.0,
+"harvested_t": 770.247,
+"earned_rs": 850315.17,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0550",
+"advance_rs": 600000.0,
+"harvested_t": 909.906,
+"earned_rs": 850383.05,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0551",
+"advance_rs": 345000.0,
+"harvested_t": 684.719,
+"earned_rs": 595996.52,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0552",
+"advance_rs": 805000.0,
+"harvested_t": 1186.593,
+"earned_rs": 1056220.89,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0553",
+"advance_rs": 600000.0,
+"harvested_t": 985.602,
+"earned_rs": 851832.58,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0554",
+"advance_rs": 600000.0,
+"harvested_t": 1003.059,
+"earned_rs": 852118.61,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0555",
+"advance_rs": 600000.0,
+"harvested_t": 814.409,
+"earned_rs": 852738.65,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0556",
+"advance_rs": 600000.0,
+"harvested_t": 922.153,
+"earned_rs": 855301.59,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0557",
+"advance_rs": 600000.0,
+"harvested_t": 721.422,
+"earned_rs": 855873.05,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0558",
+"advance_rs": 600000.0,
+"harvested_t": 831.262,
+"earned_rs": 856727.58,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0559",
+"advance_rs": 600000.0,
+"harvested_t": 794.158,
+"earned_rs": 856776.89,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0560",
+"advance_rs": 600000.0,
+"harvested_t": 898.391,
+"earned_rs": 857970.71,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0561",
+"advance_rs": 345000.0,
+"harvested_t": 698.775,
+"earned_rs": 603024.97,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0562",
+"advance_rs": 600000.0,
+"harvested_t": 793.433,
+"earned_rs": 858409.98,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0563",
+"advance_rs": 600000.0,
+"harvested_t": 908.152,
+"earned_rs": 858561.12,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0564",
+"advance_rs": 600000.0,
+"harvested_t": 1004.448,
+"earned_rs": 859319.19,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0565",
+"advance_rs": 600000.0,
+"harvested_t": 778.02,
+"earned_rs": 859540.63,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0566",
+"advance_rs": 600000.0,
+"harvested_t": 913.906,
+"earned_rs": 859691.52,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0567",
+"advance_rs": 600000.0,
+"harvested_t": 1015.055,
+"earned_rs": 860443.11,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0568",
+"advance_rs": 600000.0,
+"harvested_t": 971.584,
+"earned_rs": 861586.03,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0569",
+"advance_rs": 600000.0,
+"harvested_t": 830.171,
+"earned_rs": 862043.24,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0570",
+"advance_rs": 600000.0,
+"harvested_t": 817.611,
+"earned_rs": 862043.42,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0571",
+"advance_rs": 460000.0,
+"harvested_t": 839.079,
+"earned_rs": 722083.34,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0572",
+"advance_rs": 600000.0,
+"harvested_t": 817.152,
+"earned_rs": 862600.96,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0573",
+"advance_rs": 600000.0,
+"harvested_t": 772.99,
+"earned_rs": 864180.77,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0574",
+"advance_rs": 600000.0,
+"harvested_t": 944.129,
+"earned_rs": 864270.89,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0575",
+"advance_rs": 600000.0,
+"harvested_t": 841.457,
+"earned_rs": 865428.25,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0576",
+"advance_rs": 600000.0,
+"harvested_t": 910.408,
+"earned_rs": 865526.46,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0577",
+"advance_rs": 600000.0,
+"harvested_t": 999.609,
+"earned_rs": 865582.88,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0578",
+"advance_rs": 575000.0,
+"harvested_t": 985.186,
+"earned_rs": 843598.04,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0579",
+"advance_rs": 600000.0,
+"harvested_t": 737.618,
+"earned_rs": 868614.14,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0580",
+"advance_rs": 600000.0,
+"harvested_t": 779.991,
+"earned_rs": 868985.64,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0581",
+"advance_rs": 600000.0,
+"harvested_t": 734.334,
+"earned_rs": 870003.18,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0582",
+"advance_rs": 600000.0,
+"harvested_t": 824.122,
+"earned_rs": 870573.18,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0583",
+"advance_rs": 600000.0,
+"harvested_t": 929.826,
+"earned_rs": 871631.1,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0584",
+"advance_rs": 1150000.0,
+"harvested_t": 1787.38,
+"earned_rs": 1421703.9,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0585",
+"advance_rs": 600000.0,
+"harvested_t": 663.547,
+"earned_rs": 871810.41,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0586",
+"advance_rs": 600000.0,
+"harvested_t": 749.08,
+"earned_rs": 871993.36,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0587",
+"advance_rs": 600000.0,
+"harvested_t": 805.155,
+"earned_rs": 872528.4,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0588",
+"advance_rs": 600000.0,
+"harvested_t": 801.375,
+"earned_rs": 874270.28,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0589",
+"advance_rs": 600000.0,
+"harvested_t": 626.42,
+"earned_rs": 875146.77,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0590",
+"advance_rs": 600000.0,
+"harvested_t": 937.189,
+"earned_rs": 875290.74,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0591",
+"advance_rs": 125000.0,
+"harvested_t": 491.47,
+"earned_rs": 401217.76,
+"bills": 16,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0592",
+"advance_rs": 600000.0,
+"harvested_t": 811.501,
+"earned_rs": 876260.13,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0593",
+"advance_rs": 600000.0,
+"harvested_t": 934.26,
+"earned_rs": 876452.84,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0594",
+"advance_rs": 600000.0,
+"harvested_t": 835.766,
+"earned_rs": 878250.6,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0595",
+"advance_rs": 600000.0,
+"harvested_t": 873.249,
+"earned_rs": 878363.59,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0596",
+"advance_rs": 600000.0,
+"harvested_t": 1022.444,
+"earned_rs": 879188.76,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0597",
+"advance_rs": 750000.0,
+"harvested_t": 1085.712,
+"earned_rs": 1030260.11,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0598",
+"advance_rs": 1150000.0,
+"harvested_t": 1673.362,
+"earned_rs": 1431539.84,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0599",
+"advance_rs": 600000.0,
+"harvested_t": 937.329,
+"earned_rs": 882095.77,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0600",
+"advance_rs": 600000.0,
+"harvested_t": 735.826,
+"earned_rs": 882141.21,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0601",
+"advance_rs": 600000.0,
+"harvested_t": 749.873,
+"earned_rs": 882287.2,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0602",
+"advance_rs": 600000.0,
+"harvested_t": 930.298,
+"earned_rs": 883218.03,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0603",
+"advance_rs": 2500000.0,
+"harvested_t": 2618.629,
+"earned_rs": 2786397.61,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0604",
+"advance_rs": 600000.0,
+"harvested_t": 854.321,
+"earned_rs": 887609.82,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0605",
+"advance_rs": 600000.0,
+"harvested_t": 982.778,
+"earned_rs": 888014.51,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0606",
+"advance_rs": 600000.0,
+"harvested_t": 964.931,
+"earned_rs": 888763.77,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0607",
+"advance_rs": 600000.0,
+"harvested_t": 762.198,
+"earned_rs": 889570.65,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0608",
+"advance_rs": 600000.0,
+"harvested_t": 814.71,
+"earned_rs": 889829.75,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0609",
+"advance_rs": 600000.0,
+"harvested_t": 763.097,
+"earned_rs": 889984.55,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0610",
+"advance_rs": 600000.0,
+"harvested_t": 950.862,
+"earned_rs": 890566.09,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0611",
+"advance_rs": 600000.0,
+"harvested_t": 842.151,
+"earned_rs": 892103.63,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0612",
+"advance_rs": 600000.0,
+"harvested_t": 723.985,
+"earned_rs": 893392.65,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0613",
+"advance_rs": 600000.0,
+"harvested_t": 943.514,
+"earned_rs": 893947.62,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0614",
+"advance_rs": 600000.0,
+"harvested_t": 954.646,
+"earned_rs": 894681.91,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0615",
+"advance_rs": 600000.0,
+"harvested_t": 792.628,
+"earned_rs": 895384.58,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0616",
+"advance_rs": 600000.0,
+"harvested_t": 949.048,
+"earned_rs": 895940.22,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0617",
+"advance_rs": 600000.0,
+"harvested_t": 995.571,
+"earned_rs": 896371.57,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0618",
+"advance_rs": 250000.0,
+"harvested_t": 493.294,
+"earned_rs": 547581.0,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0619",
+"advance_rs": 600000.0,
+"harvested_t": 847.269,
+"earned_rs": 898524.28,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0620",
+"advance_rs": 600000.0,
+"harvested_t": 1043.101,
+"earned_rs": 903069.64,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0621",
+"advance_rs": 600000.0,
+"harvested_t": 764.279,
+"earned_rs": 903116.23,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0622",
+"advance_rs": 2020000.0,
+"harvested_t": 2908.134,
+"earned_rs": 2323305.09,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0623",
+"advance_rs": 600000.0,
+"harvested_t": 887.946,
+"earned_rs": 904169.63,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0624",
+"advance_rs": 600000.0,
+"harvested_t": 1016.753,
+"earned_rs": 904453.27,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0625",
+"advance_rs": 690000.0,
+"harvested_t": 1263.878,
+"earned_rs": 994859.97,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0626",
+"advance_rs": 600000.0,
+"harvested_t": 854.476,
+"earned_rs": 904972.31,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0627",
+"advance_rs": 600000.0,
+"harvested_t": 993.302,
+"earned_rs": 906726.05,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0628",
+"advance_rs": 600000.0,
+"harvested_t": 923.627,
+"earned_rs": 907643.63,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0629",
+"advance_rs": 600000.0,
+"harvested_t": 813.045,
+"earned_rs": 907999.87,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0630",
+"advance_rs": 600000.0,
+"harvested_t": 1023.947,
+"earned_rs": 908020.77,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0631",
+"advance_rs": 600000.0,
+"harvested_t": 1026.181,
+"earned_rs": 910003.0,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0632",
+"advance_rs": 600000.0,
+"harvested_t": 965.843,
+"earned_rs": 911228.91,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0633",
+"advance_rs": 600000.0,
+"harvested_t": 762.198,
+"earned_rs": 913702.86,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0634",
+"advance_rs": 600000.0,
+"harvested_t": 1003.482,
+"earned_rs": 913823.68,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0635",
+"advance_rs": 600000.0,
+"harvested_t": 923.839,
+"earned_rs": 914140.64,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0636",
+"advance_rs": 600000.0,
+"harvested_t": 1031.063,
+"earned_rs": 914330.23,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0637",
+"advance_rs": 600000.0,
+"harvested_t": 779.882,
+"earned_rs": 915069.26,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0638",
+"advance_rs": 600000.0,
+"harvested_t": 1032.894,
+"earned_rs": 915954.74,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0639",
+"advance_rs": 600000.0,
+"harvested_t": 987.573,
+"earned_rs": 916513.76,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0640",
+"advance_rs": 600000.0,
+"harvested_t": 1031.298,
+"earned_rs": 918559.48,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0641",
+"advance_rs": 600000.0,
+"harvested_t": 1000.412,
+"earned_rs": 919156.9,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0642",
+"advance_rs": 600000.0,
+"harvested_t": 850.984,
+"earned_rs": 920097.46,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0643",
+"advance_rs": 600000.0,
+"harvested_t": 1065.803,
+"earned_rs": 921571.67,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0644",
+"advance_rs": 600000.0,
+"harvested_t": 1088.946,
+"earned_rs": 922087.23,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0645",
+"advance_rs": 600000.0,
+"harvested_t": 982.147,
+"earned_rs": 922780.05,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0646",
+"advance_rs": 750000.0,
+"harvested_t": 999.284,
+"earned_rs": 1078226.33,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0647",
+"advance_rs": 600000.0,
+"harvested_t": 979.782,
+"earned_rs": 929480.98,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0648",
+"advance_rs": 1500000.0,
+"harvested_t": 3261.909,
+"earned_rs": 1829930.95,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0649",
+"advance_rs": 500000.0,
+"harvested_t": 815.365,
+"earned_rs": 830275.76,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0650",
+"advance_rs": 600000.0,
+"harvested_t": 1010.005,
+"earned_rs": 931289.45,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0651",
+"advance_rs": 600000.0,
+"harvested_t": 1066.6,
+"earned_rs": 932746.88,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0652",
+"advance_rs": 1500000.0,
+"harvested_t": 1764.211,
+"earned_rs": 1833586.2,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0653",
+"advance_rs": 600000.0,
+"harvested_t": 1053.32,
+"earned_rs": 934068.22,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0654",
+"advance_rs": 600000.0,
+"harvested_t": 905.198,
+"earned_rs": 934568.18,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0655",
+"advance_rs": 600000.0,
+"harvested_t": 824.359,
+"earned_rs": 937060.27,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0656",
+"advance_rs": 1000000.0,
+"harvested_t": 1219.833,
+"earned_rs": 1337214.4,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0657",
+"advance_rs": 600000.0,
+"harvested_t": 1084.6,
+"earned_rs": 940818.51,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0658",
+"advance_rs": 600000.0,
+"harvested_t": 851.715,
+"earned_rs": 941145.38,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0659",
+"advance_rs": 600000.0,
+"harvested_t": 1061.745,
+"earned_rs": 941538.78,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0660",
+"advance_rs": 600000.0,
+"harvested_t": 1015.779,
+"earned_rs": 943051.2,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0661",
+"advance_rs": 600000.0,
+"harvested_t": 891.771,
+"earned_rs": 944340.17,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0662",
+"advance_rs": 600000.0,
+"harvested_t": 1041.989,
+"earned_rs": 944875.17,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0663",
+"advance_rs": 600000.0,
+"harvested_t": 776.446,
+"earned_rs": 948072.68,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0664",
+"advance_rs": 600000.0,
+"harvested_t": 785.1,
+"earned_rs": 949459.66,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0665",
+"advance_rs": 600000.0,
+"harvested_t": 863.125,
+"earned_rs": 949820.12,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0666",
+"advance_rs": 1380000.0,
+"harvested_t": 1929.38,
+"earned_rs": 1730676.97,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0667",
+"advance_rs": 600000.0,
+"harvested_t": 789.443,
+"earned_rs": 951314.59,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0668",
+"advance_rs": 600000.0,
+"harvested_t": 994.028,
+"earned_rs": 951449.03,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0669",
+"advance_rs": 805000.0,
+"harvested_t": 1275.09,
+"earned_rs": 1157824.81,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0670",
+"advance_rs": 600000.0,
+"harvested_t": 915.598,
+"earned_rs": 953432.58,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0671",
+"advance_rs": 600000.0,
+"harvested_t": 897.345,
+"earned_rs": 954312.83,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0672",
+"advance_rs": 2070000.0,
+"harvested_t": 2927.916,
+"earned_rs": 2424822.48,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0673",
+"advance_rs": 600000.0,
+"harvested_t": 1126.842,
+"earned_rs": 955202.94,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0674",
+"advance_rs": 600000.0,
+"harvested_t": 828.755,
+"earned_rs": 955841.02,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0675",
+"advance_rs": 600000.0,
+"harvested_t": 773.554,
+"earned_rs": 956184.0,
+"bills": 2,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0676",
+"advance_rs": 375000.0,
+"harvested_t": 922.586,
+"earned_rs": 732163.31,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0677",
+"advance_rs": 600000.0,
+"harvested_t": 1048.625,
+"earned_rs": 957487.59,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0678",
+"advance_rs": 600000.0,
+"harvested_t": 1088.329,
+"earned_rs": 959184.64,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0679",
+"advance_rs": 600000.0,
+"harvested_t": 1047.031,
+"earned_rs": 959426.24,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0680",
+"advance_rs": 600000.0,
+"harvested_t": 1023.081,
+"earned_rs": 959836.2,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0681",
+"advance_rs": 600000.0,
+"harvested_t": 814.512,
+"earned_rs": 962441.74,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0682",
+"advance_rs": 600000.0,
+"harvested_t": 1143.01,
+"earned_rs": 963665.41,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0683",
+"advance_rs": 600000.0,
+"harvested_t": 880.147,
+"earned_rs": 963810.59,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0684",
+"advance_rs": 600000.0,
+"harvested_t": 1124.509,
+"earned_rs": 965021.3,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0685",
+"advance_rs": 600000.0,
+"harvested_t": 797.618,
+"earned_rs": 968581.47,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0686",
+"advance_rs": 600000.0,
+"harvested_t": 834.946,
+"earned_rs": 968800.77,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0687",
+"advance_rs": 600000.0,
+"harvested_t": 1146.674,
+"earned_rs": 970358.57,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0688",
+"advance_rs": 600000.0,
+"harvested_t": 1116.489,
+"earned_rs": 970913.22,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0689",
+"advance_rs": 2070000.0,
+"harvested_t": 3028.284,
+"earned_rs": 2442835.03,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0690",
+"advance_rs": 600000.0,
+"harvested_t": 916.962,
+"earned_rs": 973108.4,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0691",
+"advance_rs": 600000.0,
+"harvested_t": 1037.983,
+"earned_rs": 974520.59,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0692",
+"advance_rs": 600000.0,
+"harvested_t": 915.905,
+"earned_rs": 975528.73,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0693",
+"advance_rs": 600000.0,
+"harvested_t": 936.726,
+"earned_rs": 975766.42,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0694",
+"advance_rs": 600000.0,
+"harvested_t": 815.568,
+"earned_rs": 976841.12,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0695",
+"advance_rs": 600000.0,
+"harvested_t": 830.054,
+"earned_rs": 977966.31,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0696",
+"advance_rs": 600000.0,
+"harvested_t": 1061.533,
+"earned_rs": 980140.2,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0697",
+"advance_rs": 600000.0,
+"harvested_t": 1001.709,
+"earned_rs": 981441.51,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0698",
+"advance_rs": 600000.0,
+"harvested_t": 958.995,
+"earned_rs": 982276.09,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0699",
+"advance_rs": 600000.0,
+"harvested_t": 975.821,
+"earned_rs": 982849.42,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0700",
+"advance_rs": 600000.0,
+"harvested_t": 948.001,
+"earned_rs": 983093.2,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0701",
+"advance_rs": 600000.0,
+"harvested_t": 1047.678,
+"earned_rs": 983270.92,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0702",
+"advance_rs": 600000.0,
+"harvested_t": 878.227,
+"earned_rs": 983428.54,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0703",
+"advance_rs": 600000.0,
+"harvested_t": 1046.997,
+"earned_rs": 984296.52,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0704",
+"advance_rs": 600000.0,
+"harvested_t": 1162.865,
+"earned_rs": 985478.04,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0705",
+"advance_rs": 200000.0,
+"harvested_t": 584.841,
+"earned_rs": 586466.69,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0706",
+"advance_rs": 600000.0,
+"harvested_t": 882.907,
+"earned_rs": 987012.63,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0707",
+"advance_rs": 500000.0,
+"harvested_t": 863.296,
+"earned_rs": 887725.05,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0708",
+"advance_rs": 600000.0,
+"harvested_t": 747.933,
+"earned_rs": 990072.85,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0709",
+"advance_rs": 600000.0,
+"harvested_t": 989.386,
+"earned_rs": 990690.73,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0710",
+"advance_rs": 600000.0,
+"harvested_t": 1170.0,
+"earned_rs": 991785.8,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0711",
+"advance_rs": 600000.0,
+"harvested_t": 1172.139,
+"earned_rs": 992598.39,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0712",
+"advance_rs": 600000.0,
+"harvested_t": 893.018,
+"earned_rs": 992969.2,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0713",
+"advance_rs": 600000.0,
+"harvested_t": 1151.859,
+"earned_rs": 993286.27,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0714",
+"advance_rs": 920000.0,
+"harvested_t": 1649.568,
+"earned_rs": 1313604.21,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0715",
+"advance_rs": 600000.0,
+"harvested_t": 1120.935,
+"earned_rs": 994028.33,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0716",
+"advance_rs": 600000.0,
+"harvested_t": 809.123,
+"earned_rs": 994178.28,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0717",
+"advance_rs": 600000.0,
+"harvested_t": 1049.502,
+"earned_rs": 995808.96,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0718",
+"advance_rs": 600000.0,
+"harvested_t": 1080.502,
+"earned_rs": 997565.25,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0719",
+"advance_rs": 600000.0,
+"harvested_t": 1089.847,
+"earned_rs": 998083.48,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0720",
+"advance_rs": 600000.0,
+"harvested_t": 1015.488,
+"earned_rs": 999547.92,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0721",
+"advance_rs": 750000.0,
+"harvested_t": 1189.818,
+"earned_rs": 1152214.11,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0722",
+"advance_rs": 600000.0,
+"harvested_t": 1184.496,
+"earned_rs": 1003711.17,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0723",
+"advance_rs": 600000.0,
+"harvested_t": 979.198,
+"earned_rs": 1004312.32,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0724",
+"advance_rs": 600000.0,
+"harvested_t": 843.381,
+"earned_rs": 1004922.77,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0725",
+"advance_rs": 600000.0,
+"harvested_t": 1185.513,
+"earned_rs": 1004936.13,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0726",
+"advance_rs": 1500000.0,
+"harvested_t": 3396.096,
+"earned_rs": 1905209.86,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0727",
+"advance_rs": 600000.0,
+"harvested_t": 850.002,
+"earned_rs": 1005255.0,
+"bills": 2,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0728",
+"advance_rs": 500000.0,
+"harvested_t": 911.053,
+"earned_rs": 906824.76,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0729",
+"advance_rs": 600000.0,
+"harvested_t": 873.048,
+"earned_rs": 1008938.52,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0730",
+"advance_rs": 600000.0,
+"harvested_t": 1113.827,
+"earned_rs": 1010601.54,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0731",
+"advance_rs": 600000.0,
+"harvested_t": 1195.447,
+"earned_rs": 1012244.4,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0732",
+"advance_rs": 600000.0,
+"harvested_t": 1055.848,
+"earned_rs": 1012494.34,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0733",
+"advance_rs": 600000.0,
+"harvested_t": 985.991,
+"earned_rs": 1014263.32,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0734",
+"advance_rs": 750000.0,
+"harvested_t": 1098.944,
+"earned_rs": 1165444.2,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0735",
+"advance_rs": 1495000.0,
+"harvested_t": 2191.877,
+"earned_rs": 1911671.11,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0736",
+"advance_rs": 600000.0,
+"harvested_t": 1151.593,
+"earned_rs": 1021214.43,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0737",
+"advance_rs": 600000.0,
+"harvested_t": 858.808,
+"earned_rs": 1024660.07,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0738",
+"advance_rs": 600000.0,
+"harvested_t": 1208.883,
+"earned_rs": 1024747.41,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0739",
+"advance_rs": 600000.0,
+"harvested_t": 946.289,
+"earned_rs": 1027430.36,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0740",
+"advance_rs": 600000.0,
+"harvested_t": 959.99,
+"earned_rs": 1027580.17,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0741",
+"advance_rs": 600000.0,
+"harvested_t": 1006.356,
+"earned_rs": 1028408.47,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0742",
+"advance_rs": 600000.0,
+"harvested_t": 1018.774,
+"earned_rs": 1028420.94,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0743",
+"advance_rs": 2760000.0,
+"harvested_t": 3995.119,
+"earned_rs": 3188500.59,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0744",
+"advance_rs": 805000.0,
+"harvested_t": 1380.605,
+"earned_rs": 1234084.51,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0745",
+"advance_rs": 600000.0,
+"harvested_t": 1084.718,
+"earned_rs": 1029287.93,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0746",
+"advance_rs": 600000.0,
+"harvested_t": 1085.452,
+"earned_rs": 1029933.54,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0747",
+"advance_rs": 600000.0,
+"harvested_t": 1049.274,
+"earned_rs": 1031161.7,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0748",
+"advance_rs": 1000000.0,
+"harvested_t": 1232.886,
+"earned_rs": 1431588.69,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0749",
+"advance_rs": 600000.0,
+"harvested_t": 1087.946,
+"earned_rs": 1032798.65,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0750",
+"advance_rs": 600000.0,
+"harvested_t": 917.47,
+"earned_rs": 1034896.63,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0751",
+"advance_rs": 600000.0,
+"harvested_t": 1007.532,
+"earned_rs": 1037044.26,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0752",
+"advance_rs": 600000.0,
+"harvested_t": 982.147,
+"earned_rs": 1041250.27,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0753",
+"advance_rs": 600000.0,
+"harvested_t": 1032.198,
+"earned_rs": 1042419.62,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0754",
+"advance_rs": 500000.0,
+"harvested_t": 930.228,
+"earned_rs": 944064.25,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0755",
+"advance_rs": 600000.0,
+"harvested_t": 974.67,
+"earned_rs": 1046136.37,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0756",
+"advance_rs": 600000.0,
+"harvested_t": 1235.118,
+"earned_rs": 1046986.34,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0757",
+"advance_rs": 600000.0,
+"harvested_t": 1233.247,
+"earned_rs": 1049182.24,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0758",
+"advance_rs": 600000.0,
+"harvested_t": 1026.191,
+"earned_rs": 1051397.63,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0759",
+"advance_rs": 230000.0,
+"harvested_t": 795.538,
+"earned_rs": 682215.97,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0760",
+"advance_rs": 600000.0,
+"harvested_t": 1024.382,
+"earned_rs": 1055551.48,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0761",
+"advance_rs": 600000.0,
+"harvested_t": 1010.994,
+"earned_rs": 1056083.77,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0762",
+"advance_rs": 600000.0,
+"harvested_t": 1071.535,
+"earned_rs": 1056433.71,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0763",
+"advance_rs": 400000.0,
+"harvested_t": 916.917,
+"earned_rs": 856517.63,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0764",
+"advance_rs": 600000.0,
+"harvested_t": 1242.426,
+"earned_rs": 1056619.93,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0765",
+"advance_rs": 600000.0,
+"harvested_t": 1186.595,
+"earned_rs": 1057093.27,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0766",
+"advance_rs": 600000.0,
+"harvested_t": 1017.946,
+"earned_rs": 1059192.78,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0767",
+"advance_rs": 600000.0,
+"harvested_t": 1018.864,
+"earned_rs": 1059822.85,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0768",
+"advance_rs": 600000.0,
+"harvested_t": 886.749,
+"earned_rs": 1059861.22,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0769",
+"advance_rs": 600000.0,
+"harvested_t": 977.274,
+"earned_rs": 1061153.5,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0770",
+"advance_rs": 600000.0,
+"harvested_t": 1053.147,
+"earned_rs": 1066738.67,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0771",
+"advance_rs": 600000.0,
+"harvested_t": 1084.094,
+"earned_rs": 1066772.58,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0772",
+"advance_rs": 600000.0,
+"harvested_t": 1035.732,
+"earned_rs": 1071481.35,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0773",
+"advance_rs": 600000.0,
+"harvested_t": 1007.114,
+"earned_rs": 1071760.1,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0774",
+"advance_rs": 600000.0,
+"harvested_t": 1235.811,
+"earned_rs": 1071813.19,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0775",
+"advance_rs": 600000.0,
+"harvested_t": 1063.473,
+"earned_rs": 1073144.7,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0776",
+"advance_rs": 600000.0,
+"harvested_t": 1110.983,
+"earned_rs": 1073293.11,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0777",
+"advance_rs": 600000.0,
+"harvested_t": 897.946,
+"earned_rs": 1073407.0,
+"bills": 2,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0778",
+"advance_rs": 600000.0,
+"harvested_t": 1197.304,
+"earned_rs": 1073850.82,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0779",
+"advance_rs": 600000.0,
+"harvested_t": 1289.8,
+"earned_rs": 1076526.69,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0780",
+"advance_rs": 600000.0,
+"harvested_t": 968.385,
+"earned_rs": 1078408.81,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0781",
+"advance_rs": 600000.0,
+"harvested_t": 905.741,
+"earned_rs": 1078429.21,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0782",
+"advance_rs": 600000.0,
+"harvested_t": 898.541,
+"earned_rs": 1079093.73,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0783",
+"advance_rs": 600000.0,
+"harvested_t": 1042.776,
+"earned_rs": 1079491.74,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0784",
+"advance_rs": 600000.0,
+"harvested_t": 1176.386,
+"earned_rs": 1079514.42,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0785",
+"advance_rs": 500000.0,
+"harvested_t": 1003.558,
+"earned_rs": 980927.75,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0786",
+"advance_rs": 125000.0,
+"harvested_t": 604.807,
+"earned_rs": 606024.31,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0787",
+"advance_rs": 1375000.0,
+"harvested_t": 1934.365,
+"earned_rs": 1856152.18,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0788",
+"advance_rs": 600000.0,
+"harvested_t": 903.244,
+"earned_rs": 1081479.3,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0789",
+"advance_rs": 600000.0,
+"harvested_t": 945.665,
+"earned_rs": 1081580.76,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0790",
+"advance_rs": 600000.0,
+"harvested_t": 1157.922,
+"earned_rs": 1081847.98,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0791",
+"advance_rs": 600000.0,
+"harvested_t": 1282.096,
+"earned_rs": 1083137.53,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0792",
+"advance_rs": 920000.0,
+"harvested_t": 1553.732,
+"earned_rs": 1404103.0,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0793",
+"advance_rs": 600000.0,
+"harvested_t": 1042.959,
+"earned_rs": 1085556.28,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0794",
+"advance_rs": 600000.0,
+"harvested_t": 1050.781,
+"earned_rs": 1087222.84,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0795",
+"advance_rs": 600000.0,
+"harvested_t": 964.235,
+"earned_rs": 1090211.12,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0796",
+"advance_rs": 600000.0,
+"harvested_t": 1023.244,
+"earned_rs": 1093004.03,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0797",
+"advance_rs": 600000.0,
+"harvested_t": 1191.875,
+"earned_rs": 1098141.6,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0798",
+"advance_rs": 4510000.0,
+"harvested_t": 5869.181,
+"earned_rs": 5009366.89,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0799",
+"advance_rs": 600000.0,
+"harvested_t": 1027.984,
+"earned_rs": 1100330.63,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0800",
+"advance_rs": 600000.0,
+"harvested_t": 1275.033,
+"earned_rs": 1102987.28,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0801",
+"advance_rs": 600000.0,
+"harvested_t": 1013.341,
+"earned_rs": 1103308.06,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0802",
+"advance_rs": 600000.0,
+"harvested_t": 1069.951,
+"earned_rs": 1103532.52,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0803",
+"advance_rs": 600000.0,
+"harvested_t": 1304.242,
+"earned_rs": 1105379.72,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0804",
+"advance_rs": 600000.0,
+"harvested_t": 980.365,
+"earned_rs": 1106971.22,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0805",
+"advance_rs": 600000.0,
+"harvested_t": 1284.913,
+"earned_rs": 1109199.12,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0806",
+"advance_rs": 600000.0,
+"harvested_t": 904.322,
+"earned_rs": 1111598.73,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0807",
+"advance_rs": 600000.0,
+"harvested_t": 1035.278,
+"earned_rs": 1113039.28,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0808",
+"advance_rs": 600000.0,
+"harvested_t": 1208.852,
+"earned_rs": 1114129.1,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0809",
+"advance_rs": 600000.0,
+"harvested_t": 1045.774,
+"earned_rs": 1115202.83,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0810",
+"advance_rs": 600000.0,
+"harvested_t": 1085.978,
+"earned_rs": 1116450.66,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0811",
+"advance_rs": 600000.0,
+"harvested_t": 907.382,
+"earned_rs": 1118697.28,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0812",
+"advance_rs": 1875000.0,
+"harvested_t": 2284.577,
+"earned_rs": 2393987.82,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0813",
+"advance_rs": 600000.0,
+"harvested_t": 1056.922,
+"earned_rs": 1121961.44,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0814",
+"advance_rs": 600000.0,
+"harvested_t": 1326.38,
+"earned_rs": 1124524.2,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0815",
+"advance_rs": 600000.0,
+"harvested_t": 1041.291,
+"earned_rs": 1124889.28,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0816",
+"advance_rs": 600000.0,
+"harvested_t": 1211.469,
+"earned_rs": 1125056.14,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0817",
+"advance_rs": 600000.0,
+"harvested_t": 1023.001,
+"earned_rs": 1125339.54,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0818",
+"advance_rs": 600000.0,
+"harvested_t": 1039.815,
+"earned_rs": 1126648.29,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0819",
+"advance_rs": 600000.0,
+"harvested_t": 1211.464,
+"earned_rs": 1128693.16,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0820",
+"advance_rs": 600000.0,
+"harvested_t": 906.997,
+"earned_rs": 1128759.3,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0821",
+"advance_rs": 400000.0,
+"harvested_t": 983.173,
+"earned_rs": 929767.61,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0822",
+"advance_rs": 600000.0,
+"harvested_t": 1037.041,
+"earned_rs": 1130302.18,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0823",
+"advance_rs": 600000.0,
+"harvested_t": 1112.57,
+"earned_rs": 1133092.8,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0824",
+"advance_rs": 600000.0,
+"harvested_t": 948.169,
+"earned_rs": 1136707.59,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0825",
+"advance_rs": 600000.0,
+"harvested_t": 1323.626,
+"earned_rs": 1142699.3,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0826",
+"advance_rs": 375000.0,
+"harvested_t": 861.107,
+"earned_rs": 920269.77,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0827",
+"advance_rs": 600000.0,
+"harvested_t": 1207.012,
+"earned_rs": 1146102.88,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0828",
+"advance_rs": 600000.0,
+"harvested_t": 1056.652,
+"earned_rs": 1146312.97,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0829",
+"advance_rs": 600000.0,
+"harvested_t": 956.296,
+"earned_rs": 1146450.59,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0830",
+"advance_rs": 600000.0,
+"harvested_t": 1185.158,
+"earned_rs": 1150036.79,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0831",
+"advance_rs": 600000.0,
+"harvested_t": 1281.202,
+"earned_rs": 1150617.29,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0832",
+"advance_rs": 600000.0,
+"harvested_t": 1249.635,
+"earned_rs": 1150780.54,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0833",
+"advance_rs": 600000.0,
+"harvested_t": 1320.194,
+"earned_rs": 1151167.5,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0834",
+"advance_rs": 400000.0,
+"harvested_t": 1000.232,
+"earned_rs": 951225.69,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0835",
+"advance_rs": 600000.0,
+"harvested_t": 1061.34,
+"earned_rs": 1155411.46,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0836",
+"advance_rs": 600000.0,
+"harvested_t": 1041.9,
+"earned_rs": 1157514.52,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0837",
+"advance_rs": 600000.0,
+"harvested_t": 1010.956,
+"earned_rs": 1160150.59,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0838",
+"advance_rs": 600000.0,
+"harvested_t": 995.296,
+"earned_rs": 1162502.6,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0839",
+"advance_rs": 1500000.0,
+"harvested_t": 1871.013,
+"earned_rs": 2062929.76,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0840",
+"advance_rs": 125000.0,
+"harvested_t": 647.352,
+"earned_rs": 693069.51,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0841",
+"advance_rs": 600000.0,
+"harvested_t": 989.037,
+"earned_rs": 1174318.48,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0842",
+"advance_rs": 600000.0,
+"harvested_t": 1009.24,
+"earned_rs": 1179563.93,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0843",
+"advance_rs": 600000.0,
+"harvested_t": 1386.172,
+"earned_rs": 1179719.35,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0844",
+"advance_rs": 600000.0,
+"harvested_t": 1391.812,
+"earned_rs": 1179812.22,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0845",
+"advance_rs": 600000.0,
+"harvested_t": 1050.9,
+"earned_rs": 1181632.74,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0846",
+"advance_rs": 600000.0,
+"harvested_t": 1233.153,
+"earned_rs": 1182075.61,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0847",
+"advance_rs": 600000.0,
+"harvested_t": 1050.338,
+"earned_rs": 1182755.6,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0848",
+"advance_rs": 600000.0,
+"harvested_t": 1050.651,
+"earned_rs": 1183082.19,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0849",
+"advance_rs": 125000.0,
+"harvested_t": 657.708,
+"earned_rs": 712229.54,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0850",
+"advance_rs": 600000.0,
+"harvested_t": 1029.145,
+"earned_rs": 1187278.18,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0851",
+"advance_rs": 600000.0,
+"harvested_t": 1269.73,
+"earned_rs": 1188385.23,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0852",
+"advance_rs": 1500000.0,
+"harvested_t": 1931.909,
+"earned_rs": 2089483.55,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0853",
+"advance_rs": 600000.0,
+"harvested_t": 977.442,
+"earned_rs": 1189819.31,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0854",
+"advance_rs": 750000.0,
+"harvested_t": 1366.971,
+"earned_rs": 1340051.45,
+"bills": 13,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0855",
+"advance_rs": 600000.0,
+"harvested_t": 1433.884,
+"earned_rs": 1197647.28,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0856",
+"advance_rs": 600000.0,
+"harvested_t": 1137.364,
+"earned_rs": 1199426.57,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0857",
+"advance_rs": 600000.0,
+"harvested_t": 1196.801,
+"earned_rs": 1202802.4,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0858",
+"advance_rs": 600000.0,
+"harvested_t": 985.117,
+"earned_rs": 1205161.92,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0859",
+"advance_rs": 1250000.0,
+"harvested_t": 1759.225,
+"earned_rs": 1855965.45,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0860",
+"advance_rs": 600000.0,
+"harvested_t": 1143.474,
+"earned_rs": 1208415.44,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0861",
+"advance_rs": 600000.0,
+"harvested_t": 1205.117,
+"earned_rs": 1210160.46,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0862",
+"advance_rs": 600000.0,
+"harvested_t": 950.038,
+"earned_rs": 1212157.18,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0863",
+"advance_rs": 600000.0,
+"harvested_t": 1262.091,
+"earned_rs": 1212514.59,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0864",
+"advance_rs": 600000.0,
+"harvested_t": 1211.66,
+"earned_rs": 1214099.61,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0865",
+"advance_rs": 2070000.0,
+"harvested_t": 2981.019,
+"earned_rs": 2684297.26,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0866",
+"advance_rs": 600000.0,
+"harvested_t": 1209.799,
+"earned_rs": 1216169.36,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0867",
+"advance_rs": 600000.0,
+"harvested_t": 1097.734,
+"earned_rs": 1219544.72,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0868",
+"advance_rs": 600000.0,
+"harvested_t": 1069.857,
+"earned_rs": 1223622.31,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0869",
+"advance_rs": 600000.0,
+"harvested_t": 844.873,
+"earned_rs": 1223866.67,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0870",
+"advance_rs": 600000.0,
+"harvested_t": 1437.858,
+"earned_rs": 1225652.89,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0871",
+"advance_rs": 600000.0,
+"harvested_t": 1104.34,
+"earned_rs": 1230759.76,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0872",
+"advance_rs": 600000.0,
+"harvested_t": 1105.046,
+"earned_rs": 1231520.91,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0873",
+"advance_rs": 600000.0,
+"harvested_t": 1114.539,
+"earned_rs": 1231566.39,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0874",
+"advance_rs": 600000.0,
+"harvested_t": 1036.378,
+"earned_rs": 1237147.29,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0875",
+"advance_rs": 600000.0,
+"harvested_t": 1159.545,
+"earned_rs": 1237888.61,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0876",
+"advance_rs": 600000.0,
+"harvested_t": 1335.948,
+"earned_rs": 1240432.06,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0877",
+"advance_rs": 600000.0,
+"harvested_t": 1390.846,
+"earned_rs": 1243064.38,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0878",
+"advance_rs": 600000.0,
+"harvested_t": 1295.53,
+"earned_rs": 1244453.41,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0879",
+"advance_rs": 600000.0,
+"harvested_t": 1302.613,
+"earned_rs": 1248704.74,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0880",
+"advance_rs": 200000.0,
+"harvested_t": 763.486,
+"earned_rs": 858969.6,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0881",
+"advance_rs": 1610000.0,
+"harvested_t": 2883.085,
+"earned_rs": 2276190.61,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0882",
+"advance_rs": 600000.0,
+"harvested_t": 1495.878,
+"earned_rs": 1268026.56,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0883",
+"advance_rs": 600000.0,
+"harvested_t": 1497.942,
+"earned_rs": 1268973.03,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0884",
+"advance_rs": 2500000.0,
+"harvested_t": 3323.708,
+"earned_rs": 3170431.51,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0885",
+"advance_rs": 600000.0,
+"harvested_t": 1487.224,
+"earned_rs": 1270963.14,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0886",
+"advance_rs": 600000.0,
+"harvested_t": 1369.726,
+"earned_rs": 1271845.96,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0887",
+"advance_rs": 600000.0,
+"harvested_t": 1141.468,
+"earned_rs": 1271901.52,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0888",
+"advance_rs": 600000.0,
+"harvested_t": 1053.436,
+"earned_rs": 1272797.87,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0889",
+"advance_rs": 920000.0,
+"harvested_t": 1984.467,
+"earned_rs": 1593310.3,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0890",
+"advance_rs": 600000.0,
+"harvested_t": 1480.021,
+"earned_rs": 1273856.02,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0891",
+"advance_rs": 815000.0,
+"harvested_t": 1818.548,
+"earned_rs": 1491139.15,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0892",
+"advance_rs": 600000.0,
+"harvested_t": 1157.058,
+"earned_rs": 1278549.78,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0893",
+"advance_rs": 1250000.0,
+"harvested_t": 1779.731,
+"earned_rs": 1930407.86,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0894",
+"advance_rs": 600000.0,
+"harvested_t": 1249.02,
+"earned_rs": 1282543.47,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0895",
+"advance_rs": 600000.0,
+"harvested_t": 1150.151,
+"earned_rs": 1283748.44,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0896",
+"advance_rs": 200000.0,
+"harvested_t": 882.056,
+"earned_rs": 886221.08,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0897",
+"advance_rs": 600000.0,
+"harvested_t": 1172.233,
+"earned_rs": 1290544.65,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0898",
+"advance_rs": 460000.0,
+"harvested_t": 1469.497,
+"earned_rs": 1151035.65,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0899",
+"advance_rs": 600000.0,
+"harvested_t": 1461.054,
+"earned_rs": 1291474.36,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0900",
+"advance_rs": 600000.0,
+"harvested_t": 1172.947,
+"earned_rs": 1292984.12,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0901",
+"advance_rs": 600000.0,
+"harvested_t": 1069.671,
+"earned_rs": 1294480.01,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0902",
+"advance_rs": 600000.0,
+"harvested_t": 1092.05,
+"earned_rs": 1299449.16,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0903",
+"advance_rs": 600000.0,
+"harvested_t": 1520.979,
+"earned_rs": 1300655.06,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0904",
+"advance_rs": 600000.0,
+"harvested_t": 1207.978,
+"earned_rs": 1301224.89,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0905",
+"advance_rs": 600000.0,
+"harvested_t": 1068.653,
+"earned_rs": 1304198.98,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0906",
+"advance_rs": 600000.0,
+"harvested_t": 1097.858,
+"earned_rs": 1315168.57,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0907",
+"advance_rs": 2000000.0,
+"harvested_t": 2543.885,
+"earned_rs": 2715665.95,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0908",
+"advance_rs": 600000.0,
+"harvested_t": 1185.362,
+"earned_rs": 1316895.32,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0909",
+"advance_rs": 600000.0,
+"harvested_t": 1078.531,
+"earned_rs": 1319132.34,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0910",
+"advance_rs": 600000.0,
+"harvested_t": 1218.299,
+"earned_rs": 1319571.76,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0911",
+"advance_rs": 1500000.0,
+"harvested_t": 3959.348,
+"earned_rs": 2221194.23,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0912",
+"advance_rs": 750000.0,
+"harvested_t": 1489.023,
+"earned_rs": 1472155.55,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0913",
+"advance_rs": 600000.0,
+"harvested_t": 1202.787,
+"earned_rs": 1324321.88,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0914",
+"advance_rs": 600000.0,
+"harvested_t": 1430.48,
+"earned_rs": 1327564.32,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0915",
+"advance_rs": 600000.0,
+"harvested_t": 1298.997,
+"earned_rs": 1331428.19,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0916",
+"advance_rs": 600000.0,
+"harvested_t": 1204.975,
+"earned_rs": 1334534.0,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0917",
+"advance_rs": 600000.0,
+"harvested_t": 1109.926,
+"earned_rs": 1336122.07,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0918",
+"advance_rs": 1000000.0,
+"harvested_t": 1476.43,
+"earned_rs": 1737569.55,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0919",
+"advance_rs": 600000.0,
+"harvested_t": 1235.261,
+"earned_rs": 1338462.44,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0920",
+"advance_rs": 600000.0,
+"harvested_t": 1391.686,
+"earned_rs": 1345133.61,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0921",
+"advance_rs": 600000.0,
+"harvested_t": 1352.675,
+"earned_rs": 1351573.88,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0922",
+"advance_rs": 600000.0,
+"harvested_t": 1306.222,
+"earned_rs": 1351594.39,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0923",
+"advance_rs": 600000.0,
+"harvested_t": 1292.661,
+"earned_rs": 1353627.56,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0924",
+"advance_rs": 600000.0,
+"harvested_t": 1306.351,
+"earned_rs": 1354460.26,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0925",
+"advance_rs": 600000.0,
+"harvested_t": 1219.153,
+"earned_rs": 1360131.27,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0926",
+"advance_rs": 2000000.0,
+"harvested_t": 2800.706,
+"earned_rs": 2767000.27,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0927",
+"advance_rs": 600000.0,
+"harvested_t": 1109.989,
+"earned_rs": 1372491.73,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0928",
+"advance_rs": 600000.0,
+"harvested_t": 1296.64,
+"earned_rs": 1376711.26,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0929",
+"advance_rs": 600000.0,
+"harvested_t": 1319.283,
+"earned_rs": 1377571.61,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0930",
+"advance_rs": 125000.0,
+"harvested_t": 865.163,
+"earned_rs": 905363.41,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0931",
+"advance_rs": 1500000.0,
+"harvested_t": 2044.074,
+"earned_rs": 2287095.46,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0932",
+"advance_rs": 4000000.0,
+"harvested_t": 4682.455,
+"earned_rs": 4789765.54,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0933",
+"advance_rs": 600000.0,
+"harvested_t": 1136.123,
+"earned_rs": 1390775.29,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0934",
+"advance_rs": 600000.0,
+"harvested_t": 1090.806,
+"earned_rs": 1392221.1,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0935",
+"advance_rs": 600000.0,
+"harvested_t": 1497.021,
+"earned_rs": 1392640.96,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0936",
+"advance_rs": 625000.0,
+"harvested_t": 1416.196,
+"earned_rs": 1420135.21,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0937",
+"advance_rs": 1250000.0,
+"harvested_t": 1895.776,
+"earned_rs": 2048520.06,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0938",
+"advance_rs": 600000.0,
+"harvested_t": 1373.862,
+"earned_rs": 1404923.94,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0939",
+"advance_rs": 600000.0,
+"harvested_t": 1528.367,
+"earned_rs": 1408210.44,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0940",
+"advance_rs": 600000.0,
+"harvested_t": 1331.628,
+"earned_rs": 1412730.33,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0941",
+"advance_rs": 1500000.0,
+"harvested_t": 4133.946,
+"earned_rs": 2319143.71,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0942",
+"advance_rs": 600000.0,
+"harvested_t": 1317.421,
+"earned_rs": 1424498.13,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0943",
+"advance_rs": 600000.0,
+"harvested_t": 1469.138,
+"earned_rs": 1426236.59,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0944",
+"advance_rs": 600000.0,
+"harvested_t": 1349.514,
+"earned_rs": 1431294.93,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0945",
+"advance_rs": 600000.0,
+"harvested_t": 1353.87,
+"earned_rs": 1434769.33,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0946",
+"advance_rs": 500000.0,
+"harvested_t": 1298.309,
+"earned_rs": 1336174.64,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0947",
+"advance_rs": 1375000.0,
+"harvested_t": 2036.365,
+"earned_rs": 2213335.65,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0948",
+"advance_rs": 600000.0,
+"harvested_t": 1224.135,
+"earned_rs": 1438683.43,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0949",
+"advance_rs": 1000000.0,
+"harvested_t": 1704.43,
+"earned_rs": 1840493.23,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0950",
+"advance_rs": 600000.0,
+"harvested_t": 1208.121,
+"earned_rs": 1442036.98,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0951",
+"advance_rs": 600000.0,
+"harvested_t": 1116.63,
+"earned_rs": 1447366.17,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0952",
+"advance_rs": 1495000.0,
+"harvested_t": 2591.78,
+"earned_rs": 2344453.74,
+"bills": 13,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0953",
+"advance_rs": 500000.0,
+"harvested_t": 1238.447,
+"earned_rs": 1350715.8,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0954",
+"advance_rs": 600000.0,
+"harvested_t": 1307.627,
+"earned_rs": 1452727.66,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0955",
+"advance_rs": 600000.0,
+"harvested_t": 1157.146,
+"earned_rs": 1455882.56,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0956",
+"advance_rs": 600000.0,
+"harvested_t": 1446.319,
+"earned_rs": 1457887.93,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0957",
+"advance_rs": 600000.0,
+"harvested_t": 1285.439,
+"earned_rs": 1458411.67,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0958",
+"advance_rs": 600000.0,
+"harvested_t": 1295.084,
+"earned_rs": 1458945.43,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0959",
+"advance_rs": 1750000.0,
+"harvested_t": 2376.663,
+"earned_rs": 2618082.72,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0960",
+"advance_rs": 1250000.0,
+"harvested_t": 1955.303,
+"earned_rs": 2119835.13,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0961",
+"advance_rs": 750000.0,
+"harvested_t": 1600.625,
+"earned_rs": 1622204.54,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0962",
+"advance_rs": 1000000.0,
+"harvested_t": 1746.739,
+"earned_rs": 1872439.56,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0963",
+"advance_rs": 600000.0,
+"harvested_t": 1219.094,
+"earned_rs": 1476557.02,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0964",
+"advance_rs": 600000.0,
+"harvested_t": 1264.524,
+"earned_rs": 1484475.01,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0965",
+"advance_rs": 600000.0,
+"harvested_t": 1346.828,
+"earned_rs": 1493996.26,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0966",
+"advance_rs": 500000.0,
+"harvested_t": 1465.189,
+"earned_rs": 1404649.35,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0967",
+"advance_rs": 2500000.0,
+"harvested_t": 3294.037,
+"earned_rs": 3406134.79,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0968",
+"advance_rs": 600000.0,
+"harvested_t": 1566.724,
+"earned_rs": 1507954.16,
+"bills": 15,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0969",
+"advance_rs": 600000.0,
+"harvested_t": 1222.534,
+"earned_rs": 1512439.83,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0970",
+"advance_rs": 600000.0,
+"harvested_t": 1554.823,
+"earned_rs": 1518366.1,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0971",
+"advance_rs": 600000.0,
+"harvested_t": 1425.41,
+"earned_rs": 1520341.39,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0972",
+"advance_rs": 250000.0,
+"harvested_t": 1130.325,
+"earned_rs": 1173780.57,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0973",
+"advance_rs": 1750000.0,
+"harvested_t": 2856.875,
+"earned_rs": 2679523.48,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0974",
+"advance_rs": 600000.0,
+"harvested_t": 1147.034,
+"earned_rs": 1538295.28,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0975",
+"advance_rs": 600000.0,
+"harvested_t": 1408.689,
+"earned_rs": 1548307.14,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0976",
+"advance_rs": 600000.0,
+"harvested_t": 1343.793,
+"earned_rs": 1551653.87,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0977",
+"advance_rs": 2300000.0,
+"harvested_t": 3734.861,
+"earned_rs": 3261636.62,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0978",
+"advance_rs": 600000.0,
+"harvested_t": 1849.715,
+"earned_rs": 1562610.23,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0979",
+"advance_rs": 600000.0,
+"harvested_t": 1527.614,
+"earned_rs": 1568775.39,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0980",
+"advance_rs": 600000.0,
+"harvested_t": 1559.512,
+"earned_rs": 1569275.94,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0981",
+"advance_rs": 1500000.0,
+"harvested_t": 4402.068,
+"earned_rs": 2469560.15,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0982",
+"advance_rs": 600000.0,
+"harvested_t": 1544.979,
+"earned_rs": 1576647.04,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0983",
+"advance_rs": 600000.0,
+"harvested_t": 1317.667,
+"earned_rs": 1584212.27,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0984",
+"advance_rs": 1205000.0,
+"harvested_t": 2697.087,
+"earned_rs": 2195461.45,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0985",
+"advance_rs": 1250000.0,
+"harvested_t": 2077.865,
+"earned_rs": 2242043.88,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0986",
+"advance_rs": 600000.0,
+"harvested_t": 1489.421,
+"earned_rs": 1593563.98,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0987",
+"advance_rs": 690000.0,
+"harvested_t": 1893.465,
+"earned_rs": 1695925.89,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0988",
+"advance_rs": 600000.0,
+"harvested_t": 1486.124,
+"earned_rs": 1613252.95,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0989",
+"advance_rs": 600000.0,
+"harvested_t": 1332.896,
+"earned_rs": 1613755.23,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0990",
+"advance_rs": 500000.0,
+"harvested_t": 1706.443,
+"earned_rs": 1518419.69,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0991",
+"advance_rs": 2115000.0,
+"harvested_t": 3697.823,
+"earned_rs": 3135209.92,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0992",
+"advance_rs": 920000.0,
+"harvested_t": 2350.81,
+"earned_rs": 1942890.21,
+"bills": 13,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0993",
+"advance_rs": 690000.0,
+"harvested_t": 2136.427,
+"earned_rs": 1715310.91,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0994",
+"advance_rs": 1380000.0,
+"harvested_t": 2894.401,
+"earned_rs": 2405531.95,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0995",
+"advance_rs": 600000.0,
+"harvested_t": 1472.626,
+"earned_rs": 1625850.28,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0996",
+"advance_rs": 600000.0,
+"harvested_t": 1768.102,
+"earned_rs": 1641290.03,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0997",
+"advance_rs": 600000.0,
+"harvested_t": 1299.532,
+"earned_rs": 1645554.62,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0998",
+"advance_rs": 600000.0,
+"harvested_t": 1494.893,
+"earned_rs": 1645714.29,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-0999",
+"advance_rs": 2750000.0,
+"harvested_t": 3388.449,
+"earned_rs": 3809945.04,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1000",
+"advance_rs": 1250000.0,
+"harvested_t": 2305.641,
+"earned_rs": 2315591.89,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1001",
+"advance_rs": 1500000.0,
+"harvested_t": 4579.441,
+"earned_rs": 2569066.41,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1002",
+"advance_rs": 600000.0,
+"harvested_t": 1367.955,
+"earned_rs": 1671995.24,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1003",
+"advance_rs": 600000.0,
+"harvested_t": 1574.097,
+"earned_rs": 1678930.28,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1004",
+"advance_rs": 1000000.0,
+"harvested_t": 2693.738,
+"earned_rs": 2080016.3,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1005",
+"advance_rs": 600000.0,
+"harvested_t": 1400.4,
+"earned_rs": 1700420.72,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1006",
+"advance_rs": 600000.0,
+"harvested_t": 2035.501,
+"earned_rs": 1725295.97,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1007",
+"advance_rs": 2000000.0,
+"harvested_t": 2929.046,
+"earned_rs": 3127046.58,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1008",
+"advance_rs": 600000.0,
+"harvested_t": 1762.868,
+"earned_rs": 1727894.11,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1009",
+"advance_rs": 1500000.0,
+"harvested_t": 2600.698,
+"earned_rs": 2636974.58,
+"bills": 13,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1010",
+"advance_rs": 2500000.0,
+"harvested_t": 3533.968,
+"earned_rs": 3646806.35,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1011",
+"advance_rs": 600000.0,
+"harvested_t": 1770.58,
+"earned_rs": 1748272.87,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1012",
+"advance_rs": 600000.0,
+"harvested_t": 1637.885,
+"earned_rs": 1748744.81,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1013",
+"advance_rs": 3000000.0,
+"harvested_t": 3891.341,
+"earned_rs": 4153247.52,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1014",
+"advance_rs": 1380000.0,
+"harvested_t": 3004.526,
+"earned_rs": 2535917.6,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1015",
+"advance_rs": 600000.0,
+"harvested_t": 1655.949,
+"earned_rs": 1766233.6,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1016",
+"advance_rs": 600000.0,
+"harvested_t": 1446.557,
+"earned_rs": 1780013.78,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1017",
+"advance_rs": 1000000.0,
+"harvested_t": 2065.645,
+"earned_rs": 2191396.68,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1018",
+"advance_rs": 3000000.0,
+"harvested_t": 4277.39,
+"earned_rs": 4195563.82,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1019",
+"advance_rs": 600000.0,
+"harvested_t": 1348.673,
+"earned_rs": 1803895.22,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1020",
+"advance_rs": 1610000.0,
+"harvested_t": 3165.583,
+"earned_rs": 2814510.51,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1021",
+"advance_rs": 600000.0,
+"harvested_t": 1702.044,
+"earned_rs": 1815398.75,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1022",
+"advance_rs": 1500000.0,
+"harvested_t": 4847.105,
+"earned_rs": 2719225.9,
+"bills": 6,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1023",
+"advance_rs": 500000.0,
+"harvested_t": 1583.926,
+"earned_rs": 1743266.09,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1024",
+"advance_rs": 600000.0,
+"harvested_t": 1707.148,
+"earned_rs": 1850910.74,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1025",
+"advance_rs": 1500000.0,
+"harvested_t": 2839.569,
+"earned_rs": 2768023.82,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1026",
+"advance_rs": 2000000.0,
+"harvested_t": 3450.567,
+"earned_rs": 3271897.85,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1027",
+"advance_rs": 2000000.0,
+"harvested_t": 3217.661,
+"earned_rs": 3282048.99,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1028",
+"advance_rs": 500000.0,
+"harvested_t": 1631.138,
+"earned_rs": 1790976.85,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1029",
+"advance_rs": 600000.0,
+"harvested_t": 1908.796,
+"earned_rs": 1926030.9,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1030",
+"advance_rs": 600000.0,
+"harvested_t": 1556.153,
+"earned_rs": 1928115.72,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1031",
+"advance_rs": 600000.0,
+"harvested_t": 1718.391,
+"earned_rs": 1928715.88,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1032",
+"advance_rs": 200000.0,
+"harvested_t": 1386.555,
+"earned_rs": 1538102.46,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1033",
+"advance_rs": 1750000.0,
+"harvested_t": 2995.252,
+"earned_rs": 3095827.72,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1034",
+"advance_rs": 650000.0,
+"harvested_t": 1795.291,
+"earned_rs": 2001265.71,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1035",
+"advance_rs": 1750000.0,
+"harvested_t": 3131.795,
+"earned_rs": 3139527.49,
+"bills": 14,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1036",
+"advance_rs": 600000.0,
+"harvested_t": 1881.525,
+"earned_rs": 1990142.46,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1037",
+"advance_rs": 1500000.0,
+"harvested_t": 5169.222,
+"earned_rs": 2899933.54,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1038",
+"advance_rs": 600000.0,
+"harvested_t": 1646.842,
+"earned_rs": 2007466.34,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1039",
+"advance_rs": 1500000.0,
+"harvested_t": 5201.835,
+"earned_rs": 2918229.43,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1040",
+"advance_rs": 500000.0,
+"harvested_t": 1700.618,
+"earned_rs": 1924169.56,
+"bills": 14,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1041",
+"advance_rs": 600000.0,
+"harvested_t": 1614.802,
+"earned_rs": 2037471.2,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1042",
+"advance_rs": 1500000.0,
+"harvested_t": 5236.724,
+"earned_rs": 2937802.16,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1043",
+"advance_rs": 600000.0,
+"harvested_t": 2200.612,
+"earned_rs": 2045698.37,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1044",
+"advance_rs": 200000.0,
+"harvested_t": 1474.749,
+"earned_rs": 1648472.7,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1045",
+"advance_rs": 600000.0,
+"harvested_t": 1716.308,
+"earned_rs": 2053759.6,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1046",
+"advance_rs": 2500000.0,
+"harvested_t": 3571.134,
+"earned_rs": 3954699.36,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1047",
+"advance_rs": 600000.0,
+"harvested_t": 1914.402,
+"earned_rs": 2065347.66,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1048",
+"advance_rs": 1000000.0,
+"harvested_t": 2351.385,
+"earned_rs": 2471507.19,
+"bills": 14,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1049",
+"advance_rs": 1750000.0,
+"harvested_t": 3001.296,
+"earned_rs": 3236275.78,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1050",
+"advance_rs": 1500000.0,
+"harvested_t": 2848.935,
+"earned_rs": 2993298.15,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1051",
+"advance_rs": 600000.0,
+"harvested_t": 1811.612,
+"earned_rs": 2109658.14,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1052",
+"advance_rs": 3750000.0,
+"harvested_t": 4967.283,
+"earned_rs": 5278528.46,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1053",
+"advance_rs": 1500000.0,
+"harvested_t": 2844.041,
+"earned_rs": 3029858.92,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1054",
+"advance_rs": 1000000.0,
+"harvested_t": 2276.698,
+"earned_rs": 2533076.39,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1055",
+"advance_rs": 750000.0,
+"harvested_t": 2125.095,
+"earned_rs": 2292440.74,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1056",
+"advance_rs": 1500000.0,
+"harvested_t": 5429.512,
+"earned_rs": 3045956.23,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1057",
+"advance_rs": 600000.0,
+"harvested_t": 1964.735,
+"earned_rs": 2152017.66,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1058",
+"advance_rs": 3750000.0,
+"harvested_t": 4918.363,
+"earned_rs": 5303400.74,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1059",
+"advance_rs": 500000.0,
+"harvested_t": 1920.679,
+"earned_rs": 2063808.88,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1060",
+"advance_rs": 600000.0,
+"harvested_t": 1977.689,
+"earned_rs": 2165999.31,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1061",
+"advance_rs": 600000.0,
+"harvested_t": 2032.991,
+"earned_rs": 2206179.9,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1062",
+"advance_rs": 600000.0,
+"harvested_t": 1860.505,
+"earned_rs": 2207897.4,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1063",
+"advance_rs": 3750000.0,
+"harvested_t": 5102.985,
+"earned_rs": 5361628.97,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1064",
+"advance_rs": 1250000.0,
+"harvested_t": 2881.312,
+"earned_rs": 2894727.56,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1065",
+"advance_rs": 1500000.0,
+"harvested_t": 5715.927,
+"earned_rs": 3206635.04,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1066",
+"advance_rs": 1750000.0,
+"harvested_t": 3434.003,
+"earned_rs": 3522797.4,
+"bills": 14,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1067",
+"advance_rs": 1000000.0,
+"harvested_t": 5313.963,
+"earned_rs": 2776545.69,
+"bills": 7,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1068",
+"advance_rs": 500000.0,
+"harvested_t": 2141.085,
+"earned_rs": 2298898.19,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1069",
+"advance_rs": 1250000.0,
+"harvested_t": 2791.195,
+"earned_rs": 3092701.82,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1070",
+"advance_rs": 600000.0,
+"harvested_t": 2042.004,
+"earned_rs": 2451343.2,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1071",
+"advance_rs": 600000.0,
+"harvested_t": 2223.927,
+"earned_rs": 2461469.24,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1072",
+"advance_rs": 4000000.0,
+"harvested_t": 5454.525,
+"earned_rs": 5903762.83,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1073",
+"advance_rs": 1000000.0,
+"harvested_t": 5563.501,
+"earned_rs": 2906929.27,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1074",
+"advance_rs": 3500000.0,
+"harvested_t": 5114.938,
+"earned_rs": 5409032.46,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1075",
+"advance_rs": 3000000.0,
+"harvested_t": 4199.564,
+"earned_rs": 4909865.1,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1076",
+"advance_rs": 2530000.0,
+"harvested_t": 4898.775,
+"earned_rs": 4453693.57,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1077",
+"advance_rs": 1250000.0,
+"harvested_t": 2954.303,
+"earned_rs": 3173922.02,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1078",
+"advance_rs": 600000.0,
+"harvested_t": 2063.844,
+"earned_rs": 2535455.73,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1079",
+"advance_rs": 2500000.0,
+"harvested_t": 4233.435,
+"earned_rs": 4466861.88,
+"bills": 13,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1080",
+"advance_rs": 750000.0,
+"harvested_t": 2815.556,
+"earned_rs": 2781617.55,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1081",
+"advance_rs": 2500000.0,
+"harvested_t": 4265.273,
+"earned_rs": 4549280.53,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1082",
+"advance_rs": 4500000.0,
+"harvested_t": 6233.013,
+"earned_rs": 6582434.05,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1083",
+"advance_rs": 2000000.0,
+"harvested_t": 4396.706,
+"earned_rs": 4095874.32,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1084",
+"advance_rs": 2500000.0,
+"harvested_t": 4530.899,
+"earned_rs": 4666179.79,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1085",
+"advance_rs": 1625000.0,
+"harvested_t": 3865.254,
+"earned_rs": 3837807.24,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1086",
+"advance_rs": 1500000.0,
+"harvested_t": 3832.425,
+"earned_rs": 3741278.48,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1087",
+"advance_rs": 1250000.0,
+"harvested_t": 3333.114,
+"earned_rs": 3494031.78,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1088",
+"advance_rs": 1250000.0,
+"harvested_t": 3246.741,
+"earned_rs": 3501237.94,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1089",
+"advance_rs": 3250000.0,
+"harvested_t": 5590.918,
+"earned_rs": 5521300.67,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1090",
+"advance_rs": 1500000.0,
+"harvested_t": 4176.147,
+"earned_rs": 3827074.4,
+"bills": 11,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1091",
+"advance_rs": 1375000.0,
+"harvested_t": 3591.277,
+"earned_rs": 3766276.84,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1092",
+"advance_rs": 3500000.0,
+"harvested_t": 5482.376,
+"earned_rs": 5962531.65,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1093",
+"advance_rs": 3750000.0,
+"harvested_t": 5788.475,
+"earned_rs": 6258208.16,
+"bills": 13,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1094",
+"advance_rs": 3500000.0,
+"harvested_t": 5496.114,
+"earned_rs": 6053527.42,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1095",
+"advance_rs": 1500000.0,
+"harvested_t": 3851.59,
+"earned_rs": 4183517.77,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1096",
+"advance_rs": 1000000.0,
+"harvested_t": 3417.641,
+"earned_rs": 3700385.61,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1097",
+"advance_rs": 3000000.0,
+"harvested_t": 4895.96,
+"earned_rs": 5703764.29,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1098",
+"advance_rs": 1500000.0,
+"harvested_t": 7616.3,
+"earned_rs": 4272744.32,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1099",
+"advance_rs": 3000000.0,
+"harvested_t": 5014.265,
+"earned_rs": 5841278.02,
+"bills": 5,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1100",
+"advance_rs": 650000.0,
+"harvested_t": 3211.648,
+"earned_rs": 3578027.42,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1101",
+"advance_rs": 2000000.0,
+"harvested_t": 5555.767,
+"earned_rs": 4971525.45,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1102",
+"advance_rs": 2000000.0,
+"harvested_t": 4745.293,
+"earned_rs": 5006247.61,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1103",
+"advance_rs": 3500000.0,
+"harvested_t": 6180.358,
+"earned_rs": 6530563.37,
+"bills": 12,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1104",
+"advance_rs": 2000000.0,
+"harvested_t": 4769.508,
+"earned_rs": 5073552.41,
+"bills": 14,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1105",
+"advance_rs": 1375000.0,
+"harvested_t": 5036.835,
+"earned_rs": 4543060.12,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1106",
+"advance_rs": 5000000.0,
+"harvested_t": 7886.922,
+"earned_rs": 8262278.41,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1107",
+"advance_rs": 1500000.0,
+"harvested_t": 4426.339,
+"earned_rs": 4796427.45,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1108",
+"advance_rs": 3750000.0,
+"harvested_t": 7121.387,
+"earned_rs": 7426533.96,
+"bills": 9,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1109",
+"advance_rs": 2500000.0,
+"harvested_t": 6064.441,
+"earned_rs": 6215912.96,
+"bills": 18,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1110",
+"advance_rs": 3125000.0,
+"harvested_t": 6477.346,
+"earned_rs": 6990252.68,
+"bills": 13,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1111",
+"advance_rs": 5000000.0,
+"harvested_t": 8590.454,
+"earned_rs": 8953829.57,
+"bills": 17,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1112",
+"advance_rs": 3500000.0,
+"harvested_t": 7263.622,
+"earned_rs": 8052690.77,
+"bills": 8,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1113",
+"advance_rs": 2500000.0,
+"harvested_t": 7150.755,
+"earned_rs": 7130505.73,
+"bills": 14,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1114",
+"advance_rs": 3500000.0,
+"harvested_t": 7617.929,
+"earned_rs": 8347431.42,
+"bills": 10,
+"exposed_rs": 0.0
+},
+{
+"code": "C-1115",
+"advance_rs": 3750000.0,
+"harvested_t": 8165.594,
+"earned_rs": 8666340.35,
+"bills": 9,
+"exposed_rs": 0.0
+}
+],
+"trips_billed_to_another_village": [
+{
+"billed_village": "Vaddi",
+"farmer_village": "Miraj",
+"trips": 375,
+"tonnes": 4836.0,
+"billed_km": 20.6,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Dhamani (Miraj)",
+"farmer_village": "Enam Dhamani",
+"trips": 1046,
+"tonnes": 4704.0,
+"billed_km": 13.6,
+"farmer_village_km": 5.0
+},
+{
+"billed_village": "Nilaji",
+"farmer_village": "Miraj",
+"trips": 394,
+"tonnes": 4529.0,
+"billed_km": 18.4,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Hol",
+"farmer_village": "Pimpalwadi",
+"trips": 870,
+"tonnes": 3796.0,
+"billed_km": 10.1,
+"farmer_village_km": 1.0
+},
+{
+"billed_village": "Taparewadi",
+"farmer_village": "Nhavi (Bhor)",
+"trips": 213,
+"tonnes": 2880.0,
+"billed_km": 65.0,
+"farmer_village_km": 55.0
+},
+{
+"billed_village": "Siddhapur (Vasahat)",
+"farmer_village": "Channegaon",
+"trips": 145,
+"tonnes": 2652.0,
+"billed_km": 60.0,
+"farmer_village_km": 43.0
+},
+{
+"billed_village": "Kavatheekand",
+"farmer_village": "Nagaon-Kavathe",
+"trips": 231,
+"tonnes": 2477.0,
+"billed_km": 19.6,
+"farmer_village_km": 18.0
+},
+{
+"billed_village": "Nandre",
+"farmer_village": "Karnal",
+"trips": 686,
+"tonnes": 2476.0,
+"billed_km": 13.0,
+"farmer_village_km": 6.0
+},
+{
+"billed_village": "Krishna Kittur",
+"farmer_village": "Murgundi",
+"trips": 130,
+"tonnes": 2409.0,
+"billed_km": 69.0,
+"farmer_village_km": 60.0
+},
+{
+"billed_village": "Nandre",
+"farmer_village": "Navaraswadi",
+"trips": 857,
+"tonnes": 2401.0,
+"billed_km": 13.1,
+"farmer_village_km": 9.0
+},
+{
+"billed_village": "Anpatwadi (Wai)",
+"farmer_village": "Bavdhan",
+"trips": 179,
+"tonnes": 2362.0,
+"billed_km": 85.0,
+"farmer_village_km": 72.0
+},
+{
+"billed_village": "Bhilwadi",
+"farmer_village": "Malawadi (Palus)",
+"trips": 169,
+"tonnes": 2250.0,
+"billed_km": 27.2,
+"farmer_village_km": 18.0
+},
+{
+"billed_village": "Bhadali Bu",
+"farmer_village": "Bhadali Khu",
+"trips": 172,
+"tonnes": 2213.0,
+"billed_km": 26.0,
+"farmer_village_km": 28.0
+},
+{
+"billed_village": "Bagewadi",
+"farmer_village": "Kosari",
+"trips": 144,
+"tonnes": 2192.0,
+"billed_km": 80.0,
+"farmer_village_km": 81.0
+},
+{
+"billed_village": "Manankalagi",
+"farmer_village": "Loni B.K.",
+"trips": 125,
+"tonnes": 2054.0,
+"billed_km": 44.5,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Dhavali (Miraj)",
+"farmer_village": "Miraj",
+"trips": 161,
+"tonnes": 1993.0,
+"billed_km": 21.5,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Aradgav",
+"farmer_village": "Chavanwadi",
+"trips": 129,
+"tonnes": 1989.0,
+"billed_km": 27.5,
+"farmer_village_km": 29.0
+},
+{
+"billed_village": "Jinti",
+"farmer_village": "Pimpalwadi",
+"trips": 653,
+"tonnes": 1903.0,
+"billed_km": 10.8,
+"farmer_village_km": 1.0
+},
+{
+"billed_village": "Bhatagunaki",
+"farmer_village": "Baragudi",
+"trips": 108,
+"tonnes": 1757.0,
+"billed_km": 47.4,
+"farmer_village_km": 55.0
+},
+{
+"billed_village": "Kavalapur",
+"farmer_village": "Budgaon",
+"trips": 557,
+"tonnes": 1744.0,
+"billed_km": 12.8,
+"farmer_village_km": 6.0
+},
+{
+"billed_village": "Narwad",
+"farmer_village": "Bedag",
+"trips": 102,
+"tonnes": 1734.0,
+"billed_km": 34.0,
+"farmer_village_km": 20.0
+},
+{
+"billed_village": "Vangi",
+"farmer_village": "Mandrup",
+"trips": 108,
+"tonnes": 1676.0,
+"billed_km": 63.3,
+"farmer_village_km": 52.0
+},
+{
+"billed_village": "Umarani",
+"farmer_village": "Hattalli",
+"trips": 102,
+"tonnes": 1590.0,
+"billed_km": 34.0,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Bibi",
+"farmer_village": "Ghadgewadi",
+"trips": 131,
+"tonnes": 1574.0,
+"billed_km": 22.0,
+"farmer_village_km": 16.0
+},
+{
+"billed_village": "Munjawadi",
+"farmer_village": "Rajuri",
+"trips": 90,
+"tonnes": 1508.0,
+"billed_km": 47.0,
+"farmer_village_km": 35.0
+},
+{
+"billed_village": "Lingnur",
+"farmer_village": "Shindewadi",
+"trips": 111,
+"tonnes": 1506.0,
+"billed_km": 44.0,
+"farmer_village_km": 37.0
+},
+{
+"billed_village": "Bamani (Miraj)",
+"farmer_village": "Enam Dhamani",
+"trips": 269,
+"tonnes": 1493.0,
+"billed_km": 14.5,
+"farmer_village_km": 5.0
+},
+{
+"billed_village": "Dahigaon (Malshiras)",
+"farmer_village": "Sadashivnagar",
+"trips": 83,
+"tonnes": 1475.0,
+"billed_km": 64.9,
+"farmer_village_km": 68.0
+},
+{
+"billed_village": "Jamagaon (Bk)",
+"farmer_village": "Vadapur",
+"trips": 73,
+"tonnes": 1418.0,
+"billed_km": 74.0,
+"farmer_village_km": 67.0
+},
+{
+"billed_village": "Painlwadi",
+"farmer_village": "Nhavi (Bhor)",
+"trips": 92,
+"tonnes": 1405.0,
+"billed_km": 65.0,
+"farmer_village_km": 55.0
+},
+{
+"billed_village": "Agarakhed-1",
+"farmer_village": "Agarakhed",
+"trips": 66,
+"tonnes": 1402.0,
+"billed_km": 37.0,
+"farmer_village_km": 55.0
+},
+{
+"billed_village": "Malgaon",
+"farmer_village": "Miraj",
+"trips": 123,
+"tonnes": 1401.0,
+"billed_km": 20.1,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Mouje Digraj",
+"farmer_village": "Karnal",
+"trips": 251,
+"tonnes": 1381.0,
+"billed_km": 13.6,
+"farmer_village_km": 6.0
+},
+{
+"billed_village": "Kharadewadi",
+"farmer_village": "Murum",
+"trips": 267,
+"tonnes": 1350.0,
+"billed_km": 13.2,
+"farmer_village_km": 5.0
+},
+{
+"billed_village": "Kavatheekand",
+"farmer_village": "Kavalapur",
+"trips": 131,
+"tonnes": 1349.0,
+"billed_km": 19.6,
+"farmer_village_km": 11.0
+},
+{
+"billed_village": "Mangsuli",
+"farmer_village": "Shindewadi",
+"trips": 84,
+"tonnes": 1346.0,
+"billed_km": 42.0,
+"farmer_village_km": 37.0
+},
+{
+"billed_village": "Nandre",
+"farmer_village": "Khotwadi",
+"trips": 159,
+"tonnes": 1333.0,
+"billed_km": 18.8,
+"farmer_village_km": 11.0
+},
+{
+"billed_village": "Vadapur",
+"farmer_village": "Kusoor",
+"trips": 67,
+"tonnes": 1330.0,
+"billed_km": 67.0,
+"farmer_village_km": 63.0
+},
+{
+"billed_village": "Tathawada",
+"farmer_village": "Dhawal",
+"trips": 88,
+"tonnes": 1246.0,
+"billed_km": 32.0,
+"farmer_village_km": 25.0
+},
+{
+"billed_village": "Karandwadi",
+"farmer_village": "Kasbe Digraj",
+"trips": 79,
+"tonnes": 1225.0,
+"billed_km": 25.0,
+"farmer_village_km": 15.0
+},
+{
+"billed_village": "Sidachiwadi(Malshiras)",
+"farmer_village": "Malshiras",
+"trips": 60,
+"tonnes": 1214.0,
+"billed_km": 78.0,
+"farmer_village_km": 74.0
+},
+{
+"billed_village": "Sonawadi Budruk",
+"farmer_village": "Sonwadi",
+"trips": 75,
+"tonnes": 1198.0,
+"billed_km": 25.0,
+"farmer_village_km": 22.0
+},
+{
+"billed_village": "Koparde",
+"farmer_village": "Nimbodi",
+"trips": 65,
+"tonnes": 1191.0,
+"billed_km": 34.9,
+"farmer_village_km": 28.0
+},
+{
+"billed_village": "Bisur",
+"farmer_village": "Karnal",
+"trips": 340,
+"tonnes": 1180.0,
+"billed_km": 11.6,
+"farmer_village_km": 6.0
+},
+{
+"billed_village": "Siddhapur (Vasahat)",
+"farmer_village": "Maragur",
+"trips": 69,
+"tonnes": 1139.0,
+"billed_km": 60.0,
+"farmer_village_km": 39.0
+},
+{
+"billed_village": "Alasand",
+"farmer_village": "Tandalgao",
+"trips": 57,
+"tonnes": 1139.0,
+"billed_km": 51.0,
+"farmer_village_km": 48.0
+},
+{
+"billed_village": "Dhavadwadi",
+"farmer_village": "Kosari",
+"trips": 63,
+"tonnes": 1107.0,
+"billed_km": 70.0,
+"farmer_village_km": 81.0
+},
+{
+"billed_village": "Halur Taddewadi",
+"farmer_village": "Keroor",
+"trips": 81,
+"tonnes": 1105.0,
+"billed_km": 37.0,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Karunde",
+"farmer_village": "Morochi (Malshiras)",
+"trips": 70,
+"tonnes": 1102.0,
+"billed_km": 52.1,
+"farmer_village_km": 49.0
+},
+{
+"billed_village": "Dhulgaon",
+"farmer_village": "Kanchanpur",
+"trips": 113,
+"tonnes": 1099.0,
+"billed_km": 17.0,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Soni",
+"farmer_village": "Bhose",
+"trips": 125,
+"tonnes": 1062.0,
+"billed_km": 20.0,
+"farmer_village_km": 18.0
+},
+{
+"billed_village": "Bhatagunaki",
+"farmer_village": "Padanur",
+"trips": 64,
+"tonnes": 1050.0,
+"billed_km": 47.6,
+"farmer_village_km": 55.0
+},
+{
+"billed_village": "Nimbhore",
+"farmer_village": "Phadtarwadi",
+"trips": 240,
+"tonnes": 1046.0,
+"billed_km": 13.2,
+"farmer_village_km": 6.0
+},
+{
+"billed_village": "Nagaon-Kavathe",
+"farmer_village": "Kavalapur",
+"trips": 110,
+"tonnes": 1044.0,
+"billed_km": 18.0,
+"farmer_village_km": 11.0
+},
+{
+"billed_village": "Takali (Miraj)",
+"farmer_village": "Miraj",
+"trips": 84,
+"tonnes": 1012.0,
+"billed_km": 18.9,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Bhilwadi",
+"farmer_village": "Khandobachiwadi",
+"trips": 91,
+"tonnes": 987.0,
+"billed_km": 24.2,
+"farmer_village_km": 18.0
+},
+{
+"billed_village": "Khamgaon",
+"farmer_village": "Murum",
+"trips": 369,
+"tonnes": 985.0,
+"billed_km": 8.8,
+"farmer_village_km": 5.0
+},
+{
+"billed_village": "Asangaon",
+"farmer_village": "Deur",
+"trips": 47,
+"tonnes": 984.0,
+"billed_km": 58.0,
+"farmer_village_km": 45.0
+},
+{
+"billed_village": "Tardoli (Masalwadi)",
+"farmer_village": "Masalwadi",
+"trips": 74,
+"tonnes": 975.0,
+"billed_km": 35.0,
+"farmer_village_km": 28.0
+},
+{
+"billed_village": "Taradgoan",
+"farmer_village": "Rawadi Bu.",
+"trips": 85,
+"tonnes": 974.0,
+"billed_km": 16.2,
+"farmer_village_km": 7.0
+},
+{
+"billed_village": "Loni B.K.",
+"farmer_village": "Halur Taddewadi",
+"trips": 67,
+"tonnes": 956.0,
+"billed_km": 22.6,
+"farmer_village_km": 24.0
+},
+{
+"billed_village": "Ashtha",
+"farmer_village": "Mardawadi",
+"trips": 68,
+"tonnes": 948.0,
+"billed_km": 32.0,
+"farmer_village_km": 1.0
+},
+{
+"billed_village": "Dhavadwadi",
+"farmer_village": "Hivare",
+"trips": 62,
+"tonnes": 939.0,
+"billed_km": 70.0,
+"farmer_village_km": 76.0
+},
+{
+"billed_village": "Balagi",
+"farmer_village": "Bhandarkavathe",
+"trips": 53,
+"tonnes": 933.0,
+"billed_km": 45.0,
+"farmer_village_km": 25.0
+},
+{
+"billed_village": "Shindenagar",
+"farmer_village": "Shindewadi ( Malshiras)",
+"trips": 50,
+"tonnes": 904.0,
+"billed_km": 50.0,
+"farmer_village_km": 53.0
+},
+{
+"billed_village": "Hattalli",
+"farmer_village": "Holi-Sankh",
+"trips": 48,
+"tonnes": 903.0,
+"billed_km": 21.8,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Manankalagi",
+"farmer_village": "Halur Taddewadi",
+"trips": 53,
+"tonnes": 879.0,
+"billed_km": 38.8,
+"farmer_village_km": 24.0
+},
+{
+"billed_village": "Morab (M.Chichani)",
+"farmer_village": "Chinchani(Mayakka)",
+"trips": 43,
+"tonnes": 878.0,
+"billed_km": 75.0,
+"farmer_village_km": 63.0
+},
+{
+"billed_village": "Takali",
+"farmer_village": "Umarani",
+"trips": 49,
+"tonnes": 862.0,
+"billed_km": 37.0,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Balgawade",
+"farmer_village": "Manjarde",
+"trips": 55,
+"tonnes": 861.0,
+"billed_km": 37.0,
+"farmer_village_km": 37.0
+},
+{
+"billed_village": "Khanapur (Bk)",
+"farmer_village": "Telagaon",
+"trips": 51,
+"tonnes": 857.0,
+"billed_km": 62.0,
+"farmer_village_km": 59.0
+},
+{
+"billed_village": "Kavalapur",
+"farmer_village": "Sangli",
+"trips": 176,
+"tonnes": 856.0,
+"billed_km": 14.0,
+"farmer_village_km": 0.0
+},
+{
+"billed_village": "Islampur (Malshiras)",
+"farmer_village": "Goradwadi",
+"trips": 41,
+"tonnes": 853.0,
+"billed_km": 84.0,
+"farmer_village_km": 82.0
+},
+{
+"billed_village": "Pimpalwadi",
+"farmer_village": "Hol",
+"trips": 94,
+"tonnes": 828.0,
+"billed_km": 12.0,
+"farmer_village_km": 3.0
+},
+{
+"billed_village": "Bhairanagi",
+"farmer_village": "Baragudi",
+"trips": 52,
+"tonnes": 827.0,
+"billed_km": 56.2,
+"farmer_village_km": 55.0
+},
+{
+"billed_village": "Tandulwadi (Malshiras)",
+"farmer_village": "Phalvani (Malshiras)",
+"trips": 40,
+"tonnes": 816.0,
+"billed_km": 108.0,
+"farmer_village_km": 108.0
+},
+{
+"billed_village": "Rawadi Khurd",
+"farmer_village": "Rawadi Bu.",
+"trips": 222,
+"tonnes": 816.0,
+"billed_km": 14.3,
+"farmer_village_km": 7.0
+},
+{
+"billed_village": "Kashidwadi",
+"farmer_village": "Nimbhore",
+"trips": 72,
+"tonnes": 813.0,
+"billed_km": 16.3,
+"farmer_village_km": 10.0
+},
+{
+"billed_village": "Kambleshwar",
+"farmer_village": "Sastewadi",
+"trips": 72,
+"tonnes": 809.0,
+"billed_km": 17.0,
+"farmer_village_km": 22.0
+},
+{
+"billed_village": "Jankshan",
+"farmer_village": "Lasurne(Indapur)",
+"trips": 39,
+"tonnes": 807.0,
+"billed_km": 67.0,
+"farmer_village_km": 66.0
+},
+{
+"billed_village": "Haroli (Kavthemahankal)",
+"farmer_village": "Deshing",
+"trips": 39,
+"tonnes": 797.0,
+"billed_km": 41.0,
+"farmer_village_km": 42.0
+},
+{
+"billed_village": "Kambleshwar",
+"farmer_village": "Shindewadi (Khuntte)",
+"trips": 76,
+"tonnes": 786.0,
+"billed_km": 17.0,
+"farmer_village_km": 11.0
+},
+{
+"billed_village": "Karandwadi",
+"farmer_village": "Tung",
+"trips": 50,
+"tonnes": 777.0,
+"billed_km": 22.0,
+"farmer_village_km": 17.0
+},
+{
+"billed_village": "Bhamburdi",
+"farmer_village": "Goradwadi",
+"trips": 41,
+"tonnes": 774.0,
+"billed_km": 78.0,
+"farmer_village_km": 82.0
+},
+{
+"billed_village": "Mariaichiwadi",
+"farmer_village": "Lonand",
+"trips": 73,
+"tonnes": 765.0,
+"billed_km": 25.0,
+"farmer_village_km": 1.0
+},
+{
+"billed_village": "Khed Bk.",
+"farmer_village": "Padegaon (Phaltan)",
+"trips": 38,
+"tonnes": 764.0,
+"billed_km": 29.0,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Visapur",
+"farmer_village": "Shirgaon (Visapur)",
+"trips": 57,
+"tonnes": 763.0,
+"billed_km": 32.0,
+"farmer_village_km": 31.0
+},
+{
+"billed_village": "Khamgaon",
+"farmer_village": "Pimpalwadi",
+"trips": 320,
+"tonnes": 763.0,
+"billed_km": 7.7,
+"farmer_village_km": 1.0
+},
+{
+"billed_village": "Nagaon-Kavathe",
+"farmer_village": "Kumathe",
+"trips": 87,
+"tonnes": 761.0,
+"billed_km": 18.0,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Karandwadi",
+"farmer_village": "Ashtha",
+"trips": 72,
+"tonnes": 753.0,
+"billed_km": 22.5,
+"farmer_village_km": 18.0
+},
+{
+"billed_village": "Bhilkati",
+"farmer_village": "Phadtarwadi",
+"trips": 116,
+"tonnes": 742.0,
+"billed_km": 14.2,
+"farmer_village_km": 6.0
+},
+{
+"billed_village": "Kavalapur",
+"farmer_village": "Rasulwadi",
+"trips": 170,
+"tonnes": 735.0,
+"billed_km": 14.0,
+"farmer_village_km": 12.0
+},
+{
+"billed_village": "Vizori",
+"farmer_village": "Khudus",
+"trips": 35,
+"tonnes": 710.0,
+"billed_km": 87.0,
+"farmer_village_km": 83.0
+},
+{
+"billed_village": "Nimbhore",
+"farmer_village": "Surwadi",
+"trips": 101,
+"tonnes": 703.0,
+"billed_km": 14.5,
+"farmer_village_km": 5.0
+},
+{
+"billed_village": "Mulikwadi",
+"farmer_village": "Nandal",
+"trips": 61,
+"tonnes": 697.0,
+"billed_km": 16.0,
+"farmer_village_km": 12.0
+},
+{
+"billed_village": "Siddapur",
+"farmer_village": "Borale",
+"trips": 35,
+"tonnes": 696.0,
+"billed_km": 53.0,
+"farmer_village_km": 28.0
+},
+{
+"billed_village": "Udgaon",
+"farmer_village": "Jaysingpur",
+"trips": 53,
+"tonnes": 684.0,
+"billed_km": 15.2,
+"farmer_village_km": 17.0
+},
+{
+"billed_village": "Kavatheekand",
+"farmer_village": "Kumathe",
+"trips": 69,
+"tonnes": 675.0,
+"billed_km": 19.9,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Miraj",
+"farmer_village": "Kupwad",
+"trips": 75,
+"tonnes": 675.0,
+"billed_km": 18.0,
+"farmer_village_km": 7.0
+},
+{
+"billed_village": "Wanewadi(Someshwar)",
+"farmer_village": "Murum (Baramati)",
+"trips": 78,
+"tonnes": 662.0,
+"billed_km": 16.0,
+"farmer_village_km": 12.0
+},
+{
+"billed_village": "Chambharwadi",
+"farmer_village": "Tambave",
+"trips": 60,
+"tonnes": 661.0,
+"billed_km": 29.0,
+"farmer_village_km": 20.0
+},
+{
+"billed_village": "Vangi",
+"farmer_village": "Vadakabal",
+"trips": 35,
+"tonnes": 658.0,
+"billed_km": 62.0,
+"farmer_village_km": 55.0
+},
+{
+"billed_village": "Murum",
+"farmer_village": "Khamgaon",
+"trips": 270,
+"tonnes": 651.0,
+"billed_km": 8.7,
+"farmer_village_km": 3.0
+},
+{
+"billed_village": "Kasbe Digraj",
+"farmer_village": "Samdoli",
+"trips": 42,
+"tonnes": 650.0,
+"billed_km": 20.0,
+"farmer_village_km": 15.0
+},
+{
+"billed_village": "Mouje Digraj",
+"farmer_village": "Sangli",
+"trips": 40,
+"tonnes": 644.0,
+"billed_km": 20.0,
+"farmer_village_km": 0.0
+},
+{
+"billed_village": "Taddewadi",
+"farmer_village": "Takali",
+"trips": 41,
+"tonnes": 641.0,
+"billed_km": 30.0,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Banewadi",
+"farmer_village": "Deshing",
+"trips": 40,
+"tonnes": 628.0,
+"billed_km": 45.0,
+"farmer_village_km": 42.0
+},
+{
+"billed_village": "Deshing",
+"farmer_village": "Haroli (Kavthemahankal)",
+"trips": 39,
+"tonnes": 626.0,
+"billed_km": 42.0,
+"farmer_village_km": 41.0
+},
+{
+"billed_village": "Siddhapur (Vasahat)",
+"farmer_village": "Halasangi",
+"trips": 37,
+"tonnes": 623.0,
+"billed_km": 60.0,
+"farmer_village_km": 34.0
+},
+{
+"billed_village": "Kanchanal",
+"farmer_village": "Loni B.K.",
+"trips": 54,
+"tonnes": 616.0,
+"billed_km": 13.6,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Chandgudewadi",
+"farmer_village": "Morgaon",
+"trips": 36,
+"tonnes": 615.0,
+"billed_km": 55.0,
+"farmer_village_km": 30.0
+},
+{
+"billed_village": "Taradgoan",
+"farmer_village": "Murum",
+"trips": 64,
+"tonnes": 615.0,
+"billed_km": 16.0,
+"farmer_village_km": 5.0
+},
+{
+"billed_village": "Taradgoan",
+"farmer_village": "Kusur (Malewadi)",
+"trips": 52,
+"tonnes": 612.0,
+"billed_km": 17.2,
+"farmer_village_km": 13.0
+},
+{
+"billed_village": "Rajuri",
+"farmer_village": "Dharampuri (Malshiras)",
+"trips": 37,
+"tonnes": 604.0,
+"billed_km": 46.0,
+"farmer_village_km": 47.0
+},
+{
+"billed_village": "Nagnathwadi",
+"farmer_village": "Lalgun",
+"trips": 34,
+"tonnes": 604.0,
+"billed_km": 54.0,
+"farmer_village_km": 50.0
+},
+{
+"billed_village": "Pirale (Malshiras)",
+"farmer_village": "Kalamboli (Malshiras)",
+"trips": 30,
+"tonnes": 601.0,
+"billed_km": 71.0,
+"farmer_village_km": 71.0
+},
+{
+"billed_village": "Mardawadi",
+"farmer_village": "Ashtha",
+"trips": 52,
+"tonnes": 592.0,
+"billed_km": 29.1,
+"farmer_village_km": 18.0
+},
+{
+"billed_village": "Lingnur",
+"farmer_village": "Arag",
+"trips": 32,
+"tonnes": 586.0,
+"billed_km": 43.7,
+"farmer_village_km": 34.0
+},
+{
+"billed_village": "Ahirasang",
+"farmer_village": "Baragudi",
+"trips": 30,
+"tonnes": 577.0,
+"billed_km": 54.7,
+"farmer_village_km": 55.0
+},
+{
+"billed_village": "Mariaichiwadi",
+"farmer_village": "Pimpare Budruk",
+"trips": 73,
+"tonnes": 576.0,
+"billed_km": 25.8,
+"farmer_village_km": 25.0
+},
+{
+"billed_village": "Khamgaon",
+"farmer_village": "Hol",
+"trips": 216,
+"tonnes": 576.0,
+"billed_km": 9.0,
+"farmer_village_km": 3.0
+},
+{
+"billed_village": "Bangarde",
+"farmer_village": "Palasmandal",
+"trips": 29,
+"tonnes": 569.0,
+"billed_km": 72.6,
+"farmer_village_km": 75.0
+},
+{
+"billed_village": "Tadawale (Kharadevadi)",
+"farmer_village": "Khamgaon",
+"trips": 157,
+"tonnes": 569.0,
+"billed_km": 12.4,
+"farmer_village_km": 3.0
+},
+{
+"billed_village": "Nagaon-Kavathe",
+"farmer_village": "Kavatheekand",
+"trips": 64,
+"tonnes": 568.0,
+"billed_km": 18.0,
+"farmer_village_km": 18.0
+},
+{
+"billed_village": "Nazare",
+"farmer_village": "Shegaon",
+"trips": 31,
+"tonnes": 559.0,
+"billed_km": 90.0,
+"farmer_village_km": 87.0
+},
+{
+"billed_village": "Siddhapur (Vasahat)",
+"farmer_village": "Dhulakhed",
+"trips": 33,
+"tonnes": 551.0,
+"billed_km": 60.0,
+"farmer_village_km": 37.0
+},
+{
+"billed_village": "Pisewadi",
+"farmer_village": "Velapur",
+"trips": 30,
+"tonnes": 548.0,
+"billed_km": 88.0,
+"farmer_village_km": 91.0
+},
+{
+"billed_village": "Shirur",
+"farmer_village": "Chabukswarwadi",
+"trips": 32,
+"tonnes": 547.0,
+"billed_km": 60.0,
+"farmer_village_km": 53.0
+},
+{
+"billed_village": "Morab (M.Chichani)",
+"farmer_village": "Suttoti",
+"trips": 28,
+"tonnes": 544.0,
+"billed_km": 75.0,
+"farmer_village_km": 66.0
+},
+{
+"billed_village": "Kumathe",
+"farmer_village": "Kakadwadi",
+"trips": 59,
+"tonnes": 542.0,
+"billed_km": 16.0,
+"farmer_village_km": 13.0
+},
+{
+"billed_village": "Morab (M.Chichani)",
+"farmer_village": "Nilji (Karnatak)",
+"trips": 35,
+"tonnes": 540.0,
+"billed_km": 75.0,
+"farmer_village_km": 69.0
+},
+{
+"billed_village": "Sukhawadi",
+"farmer_village": "Bramhnal",
+"trips": 50,
+"tonnes": 540.0,
+"billed_km": 28.0,
+"farmer_village_km": 18.0
+},
+{
+"billed_village": "Kharadewadi",
+"farmer_village": "Surwadi",
+"trips": 159,
+"tonnes": 537.0,
+"billed_km": 12.0,
+"farmer_village_km": 5.0
+},
+{
+"billed_village": "Kharadewadi",
+"farmer_village": "Khamgaon",
+"trips": 167,
+"tonnes": 535.0,
+"billed_km": 12.4,
+"farmer_village_km": 3.0
+},
+{
+"billed_village": "Pimpari (Malshiras)",
+"farmer_village": "Morochi (Malshiras)",
+"trips": 32,
+"tonnes": 529.0,
+"billed_km": 56.0,
+"farmer_village_km": 49.0
+},
+{
+"billed_village": "Wathar Station",
+"farmer_village": "Deur",
+"trips": 27,
+"tonnes": 526.0,
+"billed_km": 38.0,
+"farmer_village_km": 45.0
+},
+{
+"billed_village": "Bagewadi",
+"farmer_village": "Gulavanchi",
+"trips": 34,
+"tonnes": 524.0,
+"billed_km": 80.0,
+"farmer_village_km": 78.0
+},
+{
+"billed_village": "Pimpare Budruk",
+"farmer_village": "Lonand",
+"trips": 46,
+"tonnes": 520.0,
+"billed_km": 25.0,
+"farmer_village_km": 1.0
+},
+{
+"billed_village": "Arali",
+"farmer_village": "Nandur (Mang)",
+"trips": 28,
+"tonnes": 517.0,
+"billed_km": 48.0,
+"farmer_village_km": 24.0
+},
+{
+"billed_village": "Narwad",
+"farmer_village": "Miraj",
+"trips": 31,
+"tonnes": 517.0,
+"billed_km": 34.0,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Mhaishal",
+"farmer_village": "Miraj",
+"trips": 36,
+"tonnes": 512.0,
+"billed_km": 28.0,
+"farmer_village_km": 14.0
+},
+{
+"billed_village": "Malgaon",
+"farmer_village": "Sangli",
+"trips": 36,
+"tonnes": 512.0,
+"billed_km": 20.4,
+"farmer_village_km": 0.0
+},
+{
+"billed_village": "Degav (Wai)",
+"farmer_village": "Degav",
+"trips": 36,
+"tonnes": 506.0,
+"billed_km": 72.0,
+"farmer_village_km": 57.0
+},
+{
+"billed_village": "Arag",
+"farmer_village": "Bedag",
+"trips": 27,
+"tonnes": 504.0,
+"billed_km": 38.9,
+"farmer_village_km": 20.0
+},
+{
+"billed_village": "Siddhapur (Vasahat)",
+"farmer_village": "Nandral",
+"trips": 32,
+"tonnes": 503.0,
+"billed_km": 60.0,
+"farmer_village_km": 40.0
+},
+{
+"billed_village": "Rozawadi",
+"farmer_village": "Ashtha",
+"trips": 27,
+"tonnes": 502.0,
+"billed_km": 31.0,
+"farmer_village_km": 18.0
+}
+],
+"deliveries_from_plots_with_no_cane_seen": [
+{
+"village_id": 1315,
+"village": "Nivaragi",
+"plots": 21,
+"tonnes": 7776
+},
+{
+"village_id": 868,
+"village": "Taradgoan",
+"plots": 61,
+"tonnes": 7624
+},
+{
+"village_id": 1338,
+"village": "Bhatagunaki",
+"plots": 47,
+"tonnes": 7150
+},
+{
+"village_id": 1337,
+"village": "Bhairanagi",
+"plots": 42,
+"tonnes": 6259
+},
+{
+"village_id": 1304,
+"village": "Havinal",
+"plots": 86,
+"tonnes": 6213
+},
+{
+"village_id": 512,
+"village": "Kavalapur",
+"plots": 95,
+"tonnes": 5440
+},
+{
+"village_id": 864,
+"village": "Rajuri",
+"plots": 17,
+"tonnes": 4821
+},
+{
+"village_id": 414,
+"village": "Kavatheekand",
+"plots": 62,
+"tonnes": 3676
+},
+{
+"village_id": 303,
+"village": "Baaj",
+"plots": 44,
+"tonnes": 3234
+},
+{
+"village_id": 13,
+"village": "Kasbe Digraj",
+"plots": 76,
+"tonnes": 3195
+},
+{
+"village_id": 310,
+"village": "Walekhindi",
+"plots": 26,
+"tonnes": 3182
+},
+{
+"village_id": 526,
+"village": "Malgaon",
+"plots": 45,
+"tonnes": 2911
+},
+{
+"village_id": 508,
+"village": "Karnal",
+"plots": 75,
+"tonnes": 2880
+},
+{
+"village_id": 404,
+"village": "Kumathe",
+"plots": 81,
+"tonnes": 2804
+},
+{
+"village_id": 821,
+"village": "Khamgaon",
+"plots": 36,
+"tonnes": 2729
+},
+{
+"village_id": 412,
+"village": "Dhulgaon",
+"plots": 48,
+"tonnes": 2656
+},
+{
+"village_id": 169,
+"village": "Kumbhari",
+"plots": 33,
+"tonnes": 2554
+},
+{
+"village_id": 1426,
+"village": "Keroor",
+"plots": 24,
+"tonnes": 2538
+},
+{
+"village_id": 506,
+"village": "Budgaon",
+"plots": 76,
+"tonnes": 2459
+},
+{
+"village_id": 514,
+"village": "Nandre",
+"plots": 49,
+"tonnes": 2406
+},
+{
+"village_id": 702,
+"village": "Goradwadi",
+"plots": 22,
+"tonnes": 2402
+},
+{
+"village_id": 23,
+"village": "Ashtha",
+"plots": 30,
+"tonnes": 2334
+},
+{
+"village_id": 511,
+"village": "Khotwadi",
+"plots": 38,
+"tonnes": 2162
+},
+{
+"village_id": 870,
+"village": "Saswad (Zanzane)",
+"plots": 26,
+"tonnes": 2108
+},
+{
+"village_id": 592,
+"village": "Lalgun",
+"plots": 34,
+"tonnes": 2026
+},
+{
+"village_id": 826,
+"village": "Nandal",
+"plots": 28,
+"tonnes": 1991
+},
+{
+"village_id": 812,
+"village": "Hol",
+"plots": 35,
+"tonnes": 1958
+},
+{
+"village_id": 1312,
+"village": "Umaraj",
+"plots": 13,
+"tonnes": 1938
+},
+{
+"village_id": 697,
+"village": "Palasmandal",
+"plots": 25,
+"tonnes": 1847
+},
+{
+"village_id": 823,
+"village": "Rawadi Bu.",
+"plots": 14,
+"tonnes": 1729
+},
+{
+"village_id": 792,
+"village": "Aradgav",
+"plots": 19,
+"tonnes": 1724
+},
+{
+"village_id": 1358,
+"village": "Salotagi",
+"plots": 19,
+"tonnes": 1669
+},
+{
+"village_id": 741,
+"village": "Zirapwadi",
+"plots": 13,
+"tonnes": 1635
+},
+{
+"village_id": 867,
+"village": "Khed Bk.",
+"plots": 23,
+"tonnes": 1604
+},
+{
+"village_id": 815,
+"village": "Surwadi",
+"plots": 25,
+"tonnes": 1584
+},
+{
+"village_id": 800,
+"village": "Tambave",
+"plots": 16,
+"tonnes": 1576
+},
+{
+"village_id": 132,
+"village": "Bagewadi",
+"plots": 26,
+"tonnes": 1561
+},
+{
+"village_id": 843,
+"village": "Girvi",
+"plots": 21,
+"tonnes": 1545
+},
+{
+"village_id": 789,
+"village": "Bibi",
+"plots": 19,
+"tonnes": 1524
+},
+{
+"village_id": 5,
+"village": "Shindewadi",
+"plots": 13,
+"tonnes": 1504
+},
+{
+"village_id": 1356,
+"village": "Tadavalaga",
+"plots": 11,
+"tonnes": 1481
+},
+{
+"village_id": 827,
+"village": "Kalaj",
+"plots": 31,
+"tonnes": 1470
+},
+{
+"village_id": 850,
+"village": "Pharandwadi",
+"plots": 15,
+"tonnes": 1441
+},
+{
+"village_id": 443,
+"village": "Ranjani",
+"plots": 20,
+"tonnes": 1413
+},
+{
+"village_id": 87,
+"village": "Hatnur",
+"plots": 25,
+"tonnes": 1396
+},
+{
+"village_id": 416,
+"village": "Soni",
+"plots": 36,
+"tonnes": 1392
+},
+{
+"village_id": 1305,
+"village": "Hattalli",
+"plots": 11,
+"tonnes": 1379
+},
+{
+"village_id": 392,
+"village": "Chabukswarwadi",
+"plots": 16,
+"tonnes": 1352
+},
+{
+"village_id": 42,
+"village": "Yelavi",
+"plots": 35,
+"tonnes": 1343
+},
+{
+"village_id": 840,
+"village": "Sangvi",
+"plots": 13,
+"tonnes": 1322
+},
+{
+"village_id": 379,
+"village": "Kosari",
+"plots": 24,
+"tonnes": 1286
+},
+{
+"village_id": 513,
+"village": "Mouje Digraj",
+"plots": 25,
+"tonnes": 1274
+},
+{
+"village_id": 813,
+"village": "Jinti",
+"plots": 15,
+"tonnes": 1228
+},
+{
+"village_id": 885,
+"village": "Salpe",
+"plots": 18,
+"tonnes": 1216
+},
+{
+"village_id": 2,
+"village": "Arag",
+"plots": 13,
+"tonnes": 1208
+},
+{
+"village_id": 518,
+"village": "Nilaji",
+"plots": 15,
+"tonnes": 1195
+},
+{
+"village_id": 1117,
+"village": "Gotondi",
+"plots": 17,
+"tonnes": 1190
+},
+{
+"village_id": 519,
+"village": "Vaddi",
+"plots": 10,
+"tonnes": 1180
+},
+{
+"village_id": 447,
+"village": "Kokale",
+"plots": 19,
+"tonnes": 1166
+},
+{
+"village_id": 686,
+"village": "Udtare",
+"plots": 25,
+"tonnes": 1157
+},
+{
+"village_id": 413,
+"village": "Nagaon-Kavathe",
+"plots": 23,
+"tonnes": 1120
+},
+{
+"village_id": 869,
+"village": "Nimbhore",
+"plots": 10,
+"tonnes": 1088
+},
+{
+"village_id": 507,
+"village": "Padmale",
+"plots": 12,
+"tonnes": 1082
+},
+{
+"village_id": 6,
+"village": "Lingnur",
+"plots": 18,
+"tonnes": 1070
+},
+{
+"village_id": 15,
+"village": "Kavathepiran",
+"plots": 32,
+"tonnes": 1070
+},
+{
+"village_id": 760,
+"village": "Kuravali Budruk",
+"plots": 14,
+"tonnes": 1048
+},
+{
+"village_id": 1418,
+"village": "Benakanalli",
+"plots": 12,
+"tonnes": 1036
+},
+{
+"village_id": 705,
+"village": "Bhamburdi",
+"plots": 7,
+"tonnes": 1013
+},
+{
+"village_id": 842,
+"village": "Sarde",
+"plots": 6,
+"tonnes": 1013
+},
+{
+"village_id": 878,
+"village": "Mulikwadi",
+"plots": 15,
+"tonnes": 1008
+},
+{
+"village_id": 499,
+"village": "Kupwad",
+"plots": 16,
+"tonnes": 992
+},
+{
+"village_id": 288,
+"village": "Shegaon",
+"plots": 22,
+"tonnes": 936
+},
+{
+"village_id": 696,
+"village": "Bangarde",
+"plots": 12,
+"tonnes": 931
+},
+{
+"village_id": 44,
+"village": "Vasagade",
+"plots": 21,
+"tonnes": 929
+},
+{
+"village_id": 883,
+"village": "Aadarki (Bu)",
+"plots": 12,
+"tonnes": 924
+},
+{
+"village_id": 1306,
+"village": "Holi-Sankh",
+"plots": 5,
+"tonnes": 922
+},
+{
+"village_id": 934,
+"village": "Deur",
+"plots": 8,
+"tonnes": 919
+},
+{
+"village_id": 742,
+"village": "Tirakwadi",
+"plots": 13,
+"tonnes": 918
+},
+{
+"village_id": 996,
+"village": "Taliye",
+"plots": 14,
+"tonnes": 915
+},
+{
+"village_id": 504,
+"village": "Bamani (Miraj)",
+"plots": 15,
+"tonnes": 885
+},
+{
+"village_id": 694,
+"village": "Ekshiv",
+"plots": 13,
+"tonnes": 872
+},
+{
+"village_id": 837,
+"village": "Somanthali",
+"plots": 15,
+"tonnes": 872
+},
+{
+"village_id": 1036,
+"village": "Ozarde ( Wai )",
+"plots": 15,
+"tonnes": 847
+},
+{
+"village_id": 744,
+"village": "Saskal",
+"plots": 6,
+"tonnes": 845
+},
+{
+"village_id": 740,
+"village": "Sonawadi Budruk",
+"plots": 7,
+"tonnes": 832
+},
+{
+"village_id": 779,
+"village": "Kinhi",
+"plots": 14,
+"tonnes": 832
+},
+{
+"village_id": 897,
+"village": "Ahire",
+"plots": 12,
+"tonnes": 810
+},
+{
+"village_id": 502,
+"village": "Dhamani (Miraj)",
+"plots": 21,
+"tonnes": 808
+},
+{
+"village_id": 673,
+"village": "Shirgav",
+"plots": 18,
+"tonnes": 806
+},
+{
+"village_id": 788,
+"village": "Ghadgewadi",
+"plots": 13,
+"tonnes": 801
+},
+{
+"village_id": 767,
+"village": "Bori",
+"plots": 15,
+"tonnes": 798
+},
+{
+"village_id": 819,
+"village": "Kambleshwar",
+"plots": 19,
+"tonnes": 797
+},
+{
+"village_id": 807,
+"village": "Chambharwadi",
+"plots": 8,
+"tonnes": 790
+},
+{
+"village_id": 765,
+"village": "Pimpare Budruk",
+"plots": 9,
+"tonnes": 786
+},
+{
+"village_id": 769,
+"village": "Koparde",
+"plots": 11,
+"tonnes": 782
+},
+{
+"village_id": 793,
+"village": "Nirgudi",
+"plots": 11,
+"tonnes": 779
+},
+{
+"village_id": 863,
+"village": "Pimprad",
+"plots": 10,
+"tonnes": 771
+},
+{
+"village_id": 415,
+"village": "Uplavi",
+"plots": 23,
+"tonnes": 768
+},
+{
+"village_id": 886,
+"village": "Sherechiwadi (Anandgav)",
+"plots": 8,
+"tonnes": 764
+},
+{
+"village_id": 421,
+"village": "Manerajuri",
+"plots": 28,
+"tonnes": 759
+},
+{
+"village_id": 374,
+"village": "Dhavadwadi",
+"plots": 9,
+"tonnes": 754
+},
+{
+"village_id": 680,
+"village": "Parkhandi",
+"plots": 14,
+"tonnes": 750
+},
+{
+"village_id": 448,
+"village": "Irali",
+"plots": 9,
+"tonnes": 737
+},
+{
+"village_id": 857,
+"village": "Tathawada",
+"plots": 6,
+"tonnes": 733
+},
+{
+"village_id": 30,
+"village": "Ankhalkhop",
+"plots": 21,
+"tonnes": 716
+},
+{
+"village_id": 828,
+"village": "Kashidwadi",
+"plots": 7,
+"tonnes": 714
+},
+{
+"village_id": 761,
+"village": "Rajale",
+"plots": 8,
+"tonnes": 707
+},
+{
+"village_id": 751,
+"village": "Mathachiwadi",
+"plots": 16,
+"tonnes": 694
+},
+{
+"village_id": 855,
+"village": "Dhawal",
+"plots": 10,
+"tonnes": 688
+},
+{
+"village_id": 61,
+"village": "Vasumbe",
+"plots": 21,
+"tonnes": 687
+},
+{
+"village_id": 429,
+"village": "Landgewadi",
+"plots": 12,
+"tonnes": 685
+},
+{
+"village_id": 859,
+"village": "Waghoshi (Phaltan)",
+"plots": 8,
+"tonnes": 684
+},
+{
+"village_id": 1204,
+"village": "Shendurjane (Koregaon)",
+"plots": 11,
+"tonnes": 684
+},
+{
+"village_id": 509,
+"village": "Bisur",
+"plots": 16,
+"tonnes": 682
+},
+{
+"village_id": 557,
+"village": "Asangaon",
+"plots": 9,
+"tonnes": 678
+},
+{
+"village_id": 432,
+"village": "Deshing",
+"plots": 13,
+"tonnes": 674
+},
+{
+"village_id": 1058,
+"village": "Dubhebavi",
+"plots": 11,
+"tonnes": 657
+},
+{
+"village_id": 1077,
+"village": "Bhadali Bu",
+"plots": 13,
+"tonnes": 655
+},
+{
+"village_id": 438,
+"village": "Hingangaon",
+"plots": 12,
+"tonnes": 654
+},
+{
+"village_id": 434,
+"village": "Banewadi",
+"plots": 10,
+"tonnes": 653
+},
+{
+"village_id": 520,
+"village": "Dhavali (Miraj)",
+"plots": 8,
+"tonnes": 646
+},
+{
+"village_id": 759,
+"village": "Barad",
+"plots": 5,
+"tonnes": 630
+},
+{
+"village_id": 768,
+"village": "Nimbodi",
+"plots": 13,
+"tonnes": 630
+},
+{
+"village_id": 85,
+"village": "Khujagaon",
+"plots": 13,
+"tonnes": 628
+},
+{
+"village_id": 1336,
+"village": "Baragudi",
+"plots": 9,
+"tonnes": 619
+},
+{
+"village_id": 1428,
+"village": "Loni B.K.",
+"plots": 5,
+"tonnes": 619
+},
+{
+"village_id": 785,
+"village": "Pirachiwadi",
+"plots": 3,
+"tonnes": 617
+},
+{
+"village_id": 865,
+"village": "Munjawadi",
+"plots": 13,
+"tonnes": 617
+},
+{
+"village_id": 835,
+"village": "Sastewadi",
+"plots": 5,
+"tonnes": 615
+},
+{
+"village_id": 52,
+"village": "Amanapur",
+"plots": 10,
+"tonnes": 613
+},
+{
+"village_id": 88,
+"village": "Bastwade",
+"plots": 13,
+"tonnes": 612
+},
+{
+"village_id": 754,
+"village": "Gokhali",
+"plots": 7,
+"tonnes": 611
+},
+{
+"village_id": 1465,
+"village": "Chadchan",
+"plots": 5,
+"tonnes": 610
+},
+{
+"village_id": 817,
+"village": "Khunte",
+"plots": 10,
+"tonnes": 609
+},
+{
+"village_id": 279,
+"village": "Langarpeth",
+"plots": 8,
+"tonnes": 607
+},
+{
+"village_id": 1309,
+"village": "Halalli",
+"plots": 11,
+"tonnes": 599
+},
+{
+"village_id": 849,
+"village": "Wadjal",
+"plots": 10,
+"tonnes": 597
+},
+{
+"village_id": 770,
+"village": "Mariaichiwadi",
+"plots": 11,
+"tonnes": 596
+},
+{
+"village_id": 418,
+"village": "Karoli (Miraj)",
+"plots": 16,
+"tonnes": 591
+},
+{
+"village_id": 528,
+"village": "Mallewadi",
+"plots": 9,
+"tonnes": 580
+},
+{
+"village_id": 1425,
+"village": "Kanchanal",
+"plots": 6,
+"tonnes": 576
+},
+{
+"village_id": 784,
+"village": "Kapadgaon",
+"plots": 8,
+"tonnes": 564
+},
+{
+"village_id": 814,
+"village": "Phadtarwadi",
+"plots": 13,
+"tonnes": 560
+},
+{
+"village_id": 45,
+"village": "Nagaon-Nimani",
+"plots": 8,
+"tonnes": 557
+},
+{
+"village_id": 82,
+"village": "Manjarde",
+"plots": 13,
+"tonnes": 550
+},
+{
+"village_id": 1308,
+"village": "Takali",
+"plots": 5,
+"tonnes": 550
+},
+{
+"village_id": 281,
+"village": "Arewadi",
+"plots": 17,
+"tonnes": 538
+},
+{
+"village_id": 521,
+"village": "Mhaishal",
+"plots": 14,
+"tonnes": 534
+},
+{
+"village_id": 523,
+"village": "Takali (Miraj)",
+"plots": 8,
+"tonnes": 531
+},
+{
+"village_id": 1319,
+"village": "Dhulakhed",
+"plots": 5,
+"tonnes": 530
+},
+{
+"village_id": 757,
+"village": "Asu",
+"plots": 6,
+"tonnes": 528
+},
+{
+"village_id": 64,
+"village": "Chinchani (Tasgaon)",
+"plots": 16,
+"tonnes": 517
+},
+{
+"village_id": 428,
+"village": "Malangaon",
+"plots": 11,
+"tonnes": 516
+},
+{
+"village_id": 674,
+"village": "Surur",
+"plots": 14,
+"tonnes": 499
+},
+{
+"village_id": 988,
+"village": "Dahigaon (Koregao)",
+"plots": 9,
+"tonnes": 481
+},
+{
+"village_id": 109,
+"village": "Alasand",
+"plots": 10,
+"tonnes": 478
+},
+{
+"village_id": 1332,
+"village": "Lachyan",
+"plots": 5,
+"tonnes": 478
+},
+{
+"village_id": 495,
+"village": "Vithurayachi Wadi",
+"plots": 9,
+"tonnes": 471
+},
+{
+"village_id": 436,
+"village": "Kavathemahankal",
+"plots": 14,
+"tonnes": 466
+},
+{
+"village_id": 433,
+"village": "Kuchi",
+"plots": 9,
+"tonnes": 462
+},
+{
+"village_id": 1007,
+"village": "Gulumb",
+"plots": 10,
+"tonnes": 458
+},
+{
+"village_id": 305,
+"village": "Dorali (Jat)",
+"plots": 11,
+"tonnes": 455
+},
+{
+"village_id": 997,
+"village": "Pimpode Kh.",
+"plots": 14,
+"tonnes": 446
+},
+{
+"village_id": 947,
+"village": "Kavathe (Wai)",
+"plots": 10,
+"tonnes": 421
+},
+{
+"village_id": 524,
+"village": "Bolawad",
+"plots": 6,
+"tonnes": 414
+},
+{
+"village_id": 530,
+"village": "Narwad",
+"plots": 9,
+"tonnes": 414
+},
+{
+"village_id": 942,
+"village": "Bavdhan",
+"plots": 6,
+"tonnes": 409
+},
+{
+"village_id": 896,
+"village": "Ghadgemala (Badekhan)",
+"plots": 7,
+"tonnes": 408
+},
+{
+"village_id": 990,
+"village": "Pimpode Bu.(Wathar Station)",
+"plots": 5,
+"tonnes": 408
+},
+{
+"village_id": 84,
+"village": "Balgawade",
+"plots": 11,
+"tonnes": 407
+},
+{
+"village_id": 417,
+"village": "Patgaon",
+"plots": 11,
+"tonnes": 406
+},
+{
+"village_id": 133,
+"village": "Hivare",
+"plots": 7,
+"tonnes": 396
+},
+{
+"village_id": 309,
+"village": "Gulavanchi",
+"plots": 3,
+"tonnes": 396
+},
+{
+"village_id": 1059,
+"village": "Vadale",
+"plots": 8,
+"tonnes": 394
+},
+{
+"village_id": 1345,
+"village": "Hanjagi (Zalaki)",
+"plots": 1,
+"tonnes": 394
+},
+{
+"village_id": 596,
+"village": "Wathar Station",
+"plots": 8,
+"tonnes": 392
+},
+{
+"village_id": 65,
+"village": "Matkunki",
+"plots": 13,
+"tonnes": 389
+},
+{
+"village_id": 1307,
+"village": "Umarani",
+"plots": 3,
+"tonnes": 384
+},
+{
+"village_id": 588,
+"village": "Vetane (Khatav)",
+"plots": 6,
+"tonnes": 377
+},
+{
+"village_id": 818,
+"village": "Shindewadi (Khuntte)",
+"plots": 9,
+"tonnes": 369
+},
+{
+"village_id": 678,
+"village": "Khanapur",
+"plots": 7,
+"tonnes": 368
+},
+{
+"village_id": 516,
+"village": "Shirgaon Kavathe",
+"plots": 10,
+"tonnes": 367
+},
+{
+"village_id": 811,
+"village": "Pimpalwadi",
+"plots": 4,
+"tonnes": 363
+},
+{
+"village_id": 860,
+"village": "Vidani",
+"plots": 2,
+"tonnes": 363
+},
+{
+"village_id": 427,
+"village": "Shirdhon (Kavathemahankal)",
+"plots": 10,
+"tonnes": 361
+},
+{
+"village_id": 1,
+"village": "Khanderajuri",
+"plots": 4,
+"tonnes": 357
+},
+{
+"village_id": 422,
+"village": "Alakud-M",
+"plots": 12,
+"tonnes": 347
+},
+{
+"village_id": 631,
+"village": "Nagnathwadi",
+"plots": 6,
+"tonnes": 347
+},
+{
+"village_id": 408,
+"village": "Sambarwadi",
+"plots": 8,
+"tonnes": 343
+},
+{
+"village_id": 566,
+"village": "Sonake",
+"plots": 12,
+"tonnes": 343
+},
+{
+"village_id": 829,
+"village": "Dombalwadi (Phaltan)",
+"plots": 9,
+"tonnes": 339
+},
+{
+"village_id": 503,
+"village": "Ankali",
+"plots": 8,
+"tonnes": 337
+},
+{
+"village_id": 775,
+"village": "Andrud",
+"plots": 3,
+"tonnes": 328
+},
+{
+"village_id": 851,
+"village": "Thakurki",
+"plots": 6,
+"tonnes": 322
+},
+{
+"village_id": 753,
+"village": "Gunaware",
+"plots": 5,
+"tonnes": 320
+},
+{
+"village_id": 1325,
+"village": "Maragur",
+"plots": 3,
+"tonnes": 316
+},
+{
+"village_id": 423,
+"village": "Kharshing",
+"plots": 6,
+"tonnes": 314
+},
+{
+"village_id": 943,
+"village": "Pasarni",
+"plots": 9,
+"tonnes": 313
+},
+{
+"village_id": 47,
+"village": "Hajarwadi",
+"plots": 8,
+"tonnes": 309
+},
+{
+"village_id": 862,
+"village": "Nimblak",
+"plots": 5,
+"tonnes": 308
+}
+],
+"notes": {
+"contractor_advances": "H&T advance (type 1) against gross earnings on harvester bills this season; a row is a reason to check, not a finding",
+"trips_billed_to_another_village": "transport is paid per tonne by distance slab; the slip route names a village other than the farmer's own",
+"deliveries_from_plots_with_no_cane_seen": "survey numbers that sent cane while the satellite saw none on them in 2026: wrong survey number, or cane from elsewhere"
+}
+}

@@ -1,0 +1,32 @@
+{
+ "season": "2025-26",
+ "crushed_t": 2139198.0,
+ "trips": 207513,
+ "farmers": 32838,
+ "paid_to_farmers_rs": 6908891033.0,
+ "paid_hnt_rs": 2270643334.0,
+ "supply_villages": 699,
+ "supply_cane_ha_2026": 158093,
+ "highcane_villages": 411,
+ "assumed_yield_t_per_ha": 90,
+ "mills": [
+  {
+   "name": "Sakarwadi Unit",
+   "lat": 18.053931,
+   "lon": 74.336751
+  },
+  {
+   "name": "Chadchan Unit",
+   "lat": 17.327104,
+   "lon": 75.682145
+  },
+  {
+   "name": "Sangli Unit",
+   "lat": 16.879373,
+   "lon": 74.588343
+  }
+ ],
+ "picture_villages": 199,
+ "plots_exported": 107139,
+ "satellite_model": "the mill's existing satellite read (Sentinel-2, village and plot level; 7 seasons at village level, 2025-2026 at plot level)"
+}

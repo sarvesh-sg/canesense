@@ -1,0 +1,3698 @@
+[
+{
+"state": "Karnataka",
+"district": "Bagalkot",
+"season_year": 2020,
+"district_area_ha": 655331.8,
+"cane_ha": 79978.2,
+"cane_ha_rule": 81548.6
+},
+{
+"state": "Karnataka",
+"district": "Bagalkot",
+"season_year": 2021,
+"district_area_ha": 655331.8,
+"cane_ha": 113220.7,
+"cane_ha_rule": 116811.8
+},
+{
+"state": "Karnataka",
+"district": "Bagalkot",
+"season_year": 2022,
+"district_area_ha": 655331.8,
+"cane_ha": 126893.7,
+"cane_ha_rule": 127891.4
+},
+{
+"state": "Karnataka",
+"district": "Bagalkot",
+"season_year": 2023,
+"district_area_ha": 655331.8,
+"cane_ha": 111453.7,
+"cane_ha_rule": 112340.9
+},
+{
+"state": "Karnataka",
+"district": "Bagalkot",
+"season_year": 2024,
+"district_area_ha": 655331.8,
+"cane_ha": 91017.3,
+"cane_ha_rule": 92299.5
+},
+{
+"state": "Karnataka",
+"district": "Bagalkot",
+"season_year": 2025,
+"district_area_ha": 655331.8,
+"cane_ha": 103206.2,
+"cane_ha_rule": 104367.3
+},
+{
+"state": "Karnataka",
+"district": "Bagalkot",
+"season_year": 2026,
+"district_area_ha": 655331.8,
+"cane_ha": 114849.6,
+"cane_ha_rule": 116085.9
+},
+{
+"state": "Karnataka",
+"district": "Ballari",
+"season_year": 2020,
+"district_area_ha": 846527.9,
+"cane_ha": 6960.5,
+"cane_ha_rule": 7376.9
+},
+{
+"state": "Karnataka",
+"district": "Ballari",
+"season_year": 2021,
+"district_area_ha": 846527.9,
+"cane_ha": 10105.6,
+"cane_ha_rule": 11098.4
+},
+{
+"state": "Karnataka",
+"district": "Ballari",
+"season_year": 2022,
+"district_area_ha": 846527.9,
+"cane_ha": 13345.0,
+"cane_ha_rule": 13664.4
+},
+{
+"state": "Karnataka",
+"district": "Ballari",
+"season_year": 2023,
+"district_area_ha": 846527.9,
+"cane_ha": 9023.6,
+"cane_ha_rule": 9287.1
+},
+{
+"state": "Karnataka",
+"district": "Ballari",
+"season_year": 2024,
+"district_area_ha": 846527.9,
+"cane_ha": 7245.1,
+"cane_ha_rule": 7392.5
+},
+{
+"state": "Karnataka",
+"district": "Ballari",
+"season_year": 2025,
+"district_area_ha": 846527.9,
+"cane_ha": 8093.4,
+"cane_ha_rule": 8332.2
+},
+{
+"state": "Karnataka",
+"district": "Ballari",
+"season_year": 2026,
+"district_area_ha": 846527.9,
+"cane_ha": 8989.3,
+"cane_ha_rule": 9318.8
+},
+{
+"state": "Karnataka",
+"district": "Belagavi",
+"season_year": 2020,
+"district_area_ha": 1343337.0,
+"cane_ha": 197456.0,
+"cane_ha_rule": 201800.5
+},
+{
+"state": "Karnataka",
+"district": "Belagavi",
+"season_year": 2021,
+"district_area_ha": 1343337.0,
+"cane_ha": 281183.6,
+"cane_ha_rule": 289421.3
+},
+{
+"state": "Karnataka",
+"district": "Belagavi",
+"season_year": 2022,
+"district_area_ha": 1343337.0,
+"cane_ha": 298793.7,
+"cane_ha_rule": 302010.2
+},
+{
+"state": "Karnataka",
+"district": "Belagavi",
+"season_year": 2023,
+"district_area_ha": 1343337.0,
+"cane_ha": 265600.7,
+"cane_ha_rule": 268877.7
+},
+{
+"state": "Karnataka",
+"district": "Belagavi",
+"season_year": 2024,
+"district_area_ha": 1343337.0,
+"cane_ha": 207097.0,
+"cane_ha_rule": 211473.8
+},
+{
+"state": "Karnataka",
+"district": "Belagavi",
+"season_year": 2025,
+"district_area_ha": 1343337.0,
+"cane_ha": 235985.9,
+"cane_ha_rule": 239372.2
+},
+{
+"state": "Karnataka",
+"district": "Belagavi",
+"season_year": 2026,
+"district_area_ha": 1343337.0,
+"cane_ha": 269318.5,
+"cane_ha_rule": 273571.6
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Rural",
+"season_year": 2020,
+"district_area_ha": 230017.0,
+"cane_ha": 2639.0,
+"cane_ha_rule": 2652.7
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Rural",
+"season_year": 2021,
+"district_area_ha": 230017.0,
+"cane_ha": 1146.8,
+"cane_ha_rule": 1160.4
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Rural",
+"season_year": 2022,
+"district_area_ha": 230017.0,
+"cane_ha": 6863.5,
+"cane_ha_rule": 6879.8
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Rural",
+"season_year": 2023,
+"district_area_ha": 230017.0,
+"cane_ha": 4990.5,
+"cane_ha_rule": 4998.4
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Rural",
+"season_year": 2024,
+"district_area_ha": 230017.0,
+"cane_ha": 1111.3,
+"cane_ha_rule": 1114.9
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Rural",
+"season_year": 2025,
+"district_area_ha": 230017.0,
+"cane_ha": 2688.4,
+"cane_ha_rule": 2695.0
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Rural",
+"season_year": 2026,
+"district_area_ha": 230017.0,
+"cane_ha": 1354.1,
+"cane_ha_rule": 1358.2
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Urban",
+"season_year": 2020,
+"district_area_ha": 219659.3,
+"cane_ha": 2202.6,
+"cane_ha_rule": 2210.0
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Urban",
+"season_year": 2021,
+"district_area_ha": 219659.3,
+"cane_ha": 1066.0,
+"cane_ha_rule": 1082.4
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Urban",
+"season_year": 2022,
+"district_area_ha": 219659.3,
+"cane_ha": 4341.0,
+"cane_ha_rule": 4353.1
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Urban",
+"season_year": 2023,
+"district_area_ha": 219659.3,
+"cane_ha": 3257.9,
+"cane_ha_rule": 3265.5
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Urban",
+"season_year": 2024,
+"district_area_ha": 219659.3,
+"cane_ha": 376.3,
+"cane_ha_rule": 380.5
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Urban",
+"season_year": 2025,
+"district_area_ha": 219659.3,
+"cane_ha": 2300.3,
+"cane_ha_rule": 2303.8
+},
+{
+"state": "Karnataka",
+"district": "Bengaluru Urban",
+"season_year": 2026,
+"district_area_ha": 219659.3,
+"cane_ha": 1179.7,
+"cane_ha_rule": 1182.6
+},
+{
+"state": "Karnataka",
+"district": "Bidar",
+"season_year": 2020,
+"district_area_ha": 544721.4,
+"cane_ha": 12531.8,
+"cane_ha_rule": 12893.9
+},
+{
+"state": "Karnataka",
+"district": "Bidar",
+"season_year": 2021,
+"district_area_ha": 544721.4,
+"cane_ha": 24954.0,
+"cane_ha_rule": 26010.9
+},
+{
+"state": "Karnataka",
+"district": "Bidar",
+"season_year": 2022,
+"district_area_ha": 544721.4,
+"cane_ha": 26876.2,
+"cane_ha_rule": 27521.2
+},
+{
+"state": "Karnataka",
+"district": "Bidar",
+"season_year": 2023,
+"district_area_ha": 544721.4,
+"cane_ha": 31042.4,
+"cane_ha_rule": 31350.4
+},
+{
+"state": "Karnataka",
+"district": "Bidar",
+"season_year": 2024,
+"district_area_ha": 544721.4,
+"cane_ha": 24191.4,
+"cane_ha_rule": 24343.3
+},
+{
+"state": "Karnataka",
+"district": "Bidar",
+"season_year": 2025,
+"district_area_ha": 544721.4,
+"cane_ha": 21470.4,
+"cane_ha_rule": 21606.6
+},
+{
+"state": "Karnataka",
+"district": "Bidar",
+"season_year": 2026,
+"district_area_ha": 544721.4,
+"cane_ha": 26535.0,
+"cane_ha_rule": 26746.2
+},
+{
+"state": "Karnataka",
+"district": "Chamarajanagar",
+"season_year": 2020,
+"district_area_ha": 564928.4,
+"cane_ha": 11343.2,
+"cane_ha_rule": 11970.8
+},
+{
+"state": "Karnataka",
+"district": "Chamarajanagar",
+"season_year": 2021,
+"district_area_ha": 564928.4,
+"cane_ha": 10361.9,
+"cane_ha_rule": 11354.2
+},
+{
+"state": "Karnataka",
+"district": "Chamarajanagar",
+"season_year": 2022,
+"district_area_ha": 564928.4,
+"cane_ha": 16530.4,
+"cane_ha_rule": 16714.7
+},
+{
+"state": "Karnataka",
+"district": "Chamarajanagar",
+"season_year": 2023,
+"district_area_ha": 564928.4,
+"cane_ha": 12841.4,
+"cane_ha_rule": 12886.1
+},
+{
+"state": "Karnataka",
+"district": "Chamarajanagar",
+"season_year": 2024,
+"district_area_ha": 564928.4,
+"cane_ha": 8861.5,
+"cane_ha_rule": 9500.1
+},
+{
+"state": "Karnataka",
+"district": "Chamarajanagar",
+"season_year": 2025,
+"district_area_ha": 564928.4,
+"cane_ha": 11784.3,
+"cane_ha_rule": 12350.9
+},
+{
+"state": "Karnataka",
+"district": "Chamarajanagar",
+"season_year": 2026,
+"district_area_ha": 564928.4,
+"cane_ha": 10336.9,
+"cane_ha_rule": 11145.4
+},
+{
+"state": "Karnataka",
+"district": "Chik Ballapur",
+"season_year": 2020,
+"district_area_ha": 424200.2,
+"cane_ha": 1900.0,
+"cane_ha_rule": 1981.9
+},
+{
+"state": "Karnataka",
+"district": "Chik Ballapur",
+"season_year": 2021,
+"district_area_ha": 424200.2,
+"cane_ha": 3779.1,
+"cane_ha_rule": 4288.4
+},
+{
+"state": "Karnataka",
+"district": "Chik Ballapur",
+"season_year": 2022,
+"district_area_ha": 424200.2,
+"cane_ha": 6369.0,
+"cane_ha_rule": 6528.7
+},
+{
+"state": "Karnataka",
+"district": "Chik Ballapur",
+"season_year": 2023,
+"district_area_ha": 424200.2,
+"cane_ha": 3384.6,
+"cane_ha_rule": 3480.5
+},
+{
+"state": "Karnataka",
+"district": "Chik Ballapur",
+"season_year": 2024,
+"district_area_ha": 424200.2,
+"cane_ha": 1083.7,
+"cane_ha_rule": 1114.6
+},
+{
+"state": "Karnataka",
+"district": "Chik Ballapur",
+"season_year": 2025,
+"district_area_ha": 424200.2,
+"cane_ha": 2337.9,
+"cane_ha_rule": 2407.1
+},
+{
+"state": "Karnataka",
+"district": "Chik Ballapur",
+"season_year": 2026,
+"district_area_ha": 424200.2,
+"cane_ha": 1404.9,
+"cane_ha_rule": 1491.0
+},
+{
+"state": "Karnataka",
+"district": "Chikkamagaluru",
+"season_year": 2020,
+"district_area_ha": 719240.3,
+"cane_ha": 1084.7,
+"cane_ha_rule": 1155.4
+},
+{
+"state": "Karnataka",
+"district": "Chikkamagaluru",
+"season_year": 2021,
+"district_area_ha": 719240.3,
+"cane_ha": 1494.2,
+"cane_ha_rule": 1725.8
+},
+{
+"state": "Karnataka",
+"district": "Chikkamagaluru",
+"season_year": 2022,
+"district_area_ha": 719240.3,
+"cane_ha": 2135.2,
+"cane_ha_rule": 2246.0
+},
+{
+"state": "Karnataka",
+"district": "Chikkamagaluru",
+"season_year": 2023,
+"district_area_ha": 719240.3,
+"cane_ha": 1230.2,
+"cane_ha_rule": 1276.3
+},
+{
+"state": "Karnataka",
+"district": "Chikkamagaluru",
+"season_year": 2024,
+"district_area_ha": 719240.3,
+"cane_ha": 990.2,
+"cane_ha_rule": 1006.5
+},
+{
+"state": "Karnataka",
+"district": "Chikkamagaluru",
+"season_year": 2025,
+"district_area_ha": 719240.3,
+"cane_ha": 2345.9,
+"cane_ha_rule": 2367.6
+},
+{
+"state": "Karnataka",
+"district": "Chikkamagaluru",
+"season_year": 2026,
+"district_area_ha": 719240.3,
+"cane_ha": 1484.8,
+"cane_ha_rule": 1516.7
+},
+{
+"state": "Karnataka",
+"district": "Chitradurga",
+"season_year": 2020,
+"district_area_ha": 843564.7,
+"cane_ha": 3058.6,
+"cane_ha_rule": 3908.3
+},
+{
+"state": "Karnataka",
+"district": "Chitradurga",
+"season_year": 2021,
+"district_area_ha": 843564.7,
+"cane_ha": 4537.7,
+"cane_ha_rule": 7495.0
+},
+{
+"state": "Karnataka",
+"district": "Chitradurga",
+"season_year": 2022,
+"district_area_ha": 843564.7,
+"cane_ha": 6723.1,
+"cane_ha_rule": 8115.3
+},
+{
+"state": "Karnataka",
+"district": "Chitradurga",
+"season_year": 2023,
+"district_area_ha": 843564.7,
+"cane_ha": 3235.6,
+"cane_ha_rule": 3974.2
+},
+{
+"state": "Karnataka",
+"district": "Chitradurga",
+"season_year": 2024,
+"district_area_ha": 843564.7,
+"cane_ha": 2346.6,
+"cane_ha_rule": 2518.7
+},
+{
+"state": "Karnataka",
+"district": "Chitradurga",
+"season_year": 2025,
+"district_area_ha": 843564.7,
+"cane_ha": 5980.1,
+"cane_ha_rule": 6415.9
+},
+{
+"state": "Karnataka",
+"district": "Chitradurga",
+"season_year": 2026,
+"district_area_ha": 843564.7,
+"cane_ha": 3623.0,
+"cane_ha_rule": 4021.5
+},
+{
+"state": "Karnataka",
+"district": "Dakshina  Kannada",
+"season_year": 2020,
+"district_area_ha": 486009.4,
+"cane_ha": 4.0,
+"cane_ha_rule": 4.1
+},
+{
+"state": "Karnataka",
+"district": "Dakshina  Kannada",
+"season_year": 2021,
+"district_area_ha": 486009.4,
+"cane_ha": 33.0,
+"cane_ha_rule": 34.3
+},
+{
+"state": "Karnataka",
+"district": "Dakshina  Kannada",
+"season_year": 2022,
+"district_area_ha": 486009.4,
+"cane_ha": 27.5,
+"cane_ha_rule": 27.9
+},
+{
+"state": "Karnataka",
+"district": "Dakshina  Kannada",
+"season_year": 2023,
+"district_area_ha": 486009.4,
+"cane_ha": 6.7,
+"cane_ha_rule": 7.3
+},
+{
+"state": "Karnataka",
+"district": "Dakshina  Kannada",
+"season_year": 2024,
+"district_area_ha": 486009.4,
+"cane_ha": 20.9,
+"cane_ha_rule": 21.7
+},
+{
+"state": "Karnataka",
+"district": "Dakshina  Kannada",
+"season_year": 2025,
+"district_area_ha": 486009.4,
+"cane_ha": 58.9,
+"cane_ha_rule": 59.6
+},
+{
+"state": "Karnataka",
+"district": "Dakshina  Kannada",
+"season_year": 2026,
+"district_area_ha": 486009.4,
+"cane_ha": 9.4,
+"cane_ha_rule": 9.6
+},
+{
+"state": "Karnataka",
+"district": "Davangere",
+"season_year": 2020,
+"district_area_ha": 592381.6,
+"cane_ha": 12154.3,
+"cane_ha_rule": 13391.6
+},
+{
+"state": "Karnataka",
+"district": "Davangere",
+"season_year": 2021,
+"district_area_ha": 592381.6,
+"cane_ha": 20999.9,
+"cane_ha_rule": 23769.2
+},
+{
+"state": "Karnataka",
+"district": "Davangere",
+"season_year": 2022,
+"district_area_ha": 592381.6,
+"cane_ha": 32608.8,
+"cane_ha_rule": 33559.6
+},
+{
+"state": "Karnataka",
+"district": "Davangere",
+"season_year": 2023,
+"district_area_ha": 592381.6,
+"cane_ha": 24073.1,
+"cane_ha_rule": 25711.0
+},
+{
+"state": "Karnataka",
+"district": "Davangere",
+"season_year": 2024,
+"district_area_ha": 592381.6,
+"cane_ha": 15581.0,
+"cane_ha_rule": 16337.5
+},
+{
+"state": "Karnataka",
+"district": "Davangere",
+"season_year": 2025,
+"district_area_ha": 592381.6,
+"cane_ha": 30281.1,
+"cane_ha_rule": 30580.1
+},
+{
+"state": "Karnataka",
+"district": "Davangere",
+"season_year": 2026,
+"district_area_ha": 592381.6,
+"cane_ha": 18593.9,
+"cane_ha_rule": 18916.6
+},
+{
+"state": "Karnataka",
+"district": "Dharwad",
+"season_year": 2020,
+"district_area_ha": 425847.2,
+"cane_ha": 16806.2,
+"cane_ha_rule": 17025.6
+},
+{
+"state": "Karnataka",
+"district": "Dharwad",
+"season_year": 2021,
+"district_area_ha": 425847.2,
+"cane_ha": 25136.3,
+"cane_ha_rule": 25739.8
+},
+{
+"state": "Karnataka",
+"district": "Dharwad",
+"season_year": 2022,
+"district_area_ha": 425847.2,
+"cane_ha": 29663.1,
+"cane_ha_rule": 29898.3
+},
+{
+"state": "Karnataka",
+"district": "Dharwad",
+"season_year": 2023,
+"district_area_ha": 425847.2,
+"cane_ha": 16457.1,
+"cane_ha_rule": 16594.3
+},
+{
+"state": "Karnataka",
+"district": "Dharwad",
+"season_year": 2024,
+"district_area_ha": 425847.2,
+"cane_ha": 16225.5,
+"cane_ha_rule": 16304.0
+},
+{
+"state": "Karnataka",
+"district": "Dharwad",
+"season_year": 2025,
+"district_area_ha": 425847.2,
+"cane_ha": 22523.5,
+"cane_ha_rule": 22636.8
+},
+{
+"state": "Karnataka",
+"district": "Dharwad",
+"season_year": 2026,
+"district_area_ha": 425847.2,
+"cane_ha": 27808.9,
+"cane_ha_rule": 27918.6
+},
+{
+"state": "Karnataka",
+"district": "Gadag",
+"season_year": 2020,
+"district_area_ha": 465590.7,
+"cane_ha": 4658.9,
+"cane_ha_rule": 4961.1
+},
+{
+"state": "Karnataka",
+"district": "Gadag",
+"season_year": 2021,
+"district_area_ha": 465590.7,
+"cane_ha": 7388.1,
+"cane_ha_rule": 8180.8
+},
+{
+"state": "Karnataka",
+"district": "Gadag",
+"season_year": 2022,
+"district_area_ha": 465590.7,
+"cane_ha": 9709.9,
+"cane_ha_rule": 9881.7
+},
+{
+"state": "Karnataka",
+"district": "Gadag",
+"season_year": 2023,
+"district_area_ha": 465590.7,
+"cane_ha": 5202.9,
+"cane_ha_rule": 5365.8
+},
+{
+"state": "Karnataka",
+"district": "Gadag",
+"season_year": 2024,
+"district_area_ha": 465590.7,
+"cane_ha": 4182.0,
+"cane_ha_rule": 4250.3
+},
+{
+"state": "Karnataka",
+"district": "Gadag",
+"season_year": 2025,
+"district_area_ha": 465590.7,
+"cane_ha": 3707.3,
+"cane_ha_rule": 3820.0
+},
+{
+"state": "Karnataka",
+"district": "Gadag",
+"season_year": 2026,
+"district_area_ha": 465590.7,
+"cane_ha": 5662.7,
+"cane_ha_rule": 5787.7
+},
+{
+"state": "Karnataka",
+"district": "Hassan",
+"season_year": 2020,
+"district_area_ha": 682186.7,
+"cane_ha": 3531.0,
+"cane_ha_rule": 3539.9
+},
+{
+"state": "Karnataka",
+"district": "Hassan",
+"season_year": 2021,
+"district_area_ha": 682186.7,
+"cane_ha": 4068.1,
+"cane_ha_rule": 4095.8
+},
+{
+"state": "Karnataka",
+"district": "Hassan",
+"season_year": 2022,
+"district_area_ha": 682186.7,
+"cane_ha": 5636.6,
+"cane_ha_rule": 5642.0
+},
+{
+"state": "Karnataka",
+"district": "Hassan",
+"season_year": 2023,
+"district_area_ha": 682186.7,
+"cane_ha": 3832.0,
+"cane_ha_rule": 3835.1
+},
+{
+"state": "Karnataka",
+"district": "Hassan",
+"season_year": 2024,
+"district_area_ha": 682186.7,
+"cane_ha": 2028.4,
+"cane_ha_rule": 2029.7
+},
+{
+"state": "Karnataka",
+"district": "Hassan",
+"season_year": 2025,
+"district_area_ha": 682186.7,
+"cane_ha": 5060.7,
+"cane_ha_rule": 5062.7
+},
+{
+"state": "Karnataka",
+"district": "Hassan",
+"season_year": 2026,
+"district_area_ha": 682186.7,
+"cane_ha": 4540.5,
+"cane_ha_rule": 4545.6
+},
+{
+"state": "Karnataka",
+"district": "Haveri",
+"season_year": 2020,
+"district_area_ha": 482382.7,
+"cane_ha": 18067.5,
+"cane_ha_rule": 18780.2
+},
+{
+"state": "Karnataka",
+"district": "Haveri",
+"season_year": 2021,
+"district_area_ha": 482382.7,
+"cane_ha": 28553.6,
+"cane_ha_rule": 30463.7
+},
+{
+"state": "Karnataka",
+"district": "Haveri",
+"season_year": 2022,
+"district_area_ha": 482382.7,
+"cane_ha": 38213.1,
+"cane_ha_rule": 38894.3
+},
+{
+"state": "Karnataka",
+"district": "Haveri",
+"season_year": 2023,
+"district_area_ha": 482382.7,
+"cane_ha": 18922.1,
+"cane_ha_rule": 19500.6
+},
+{
+"state": "Karnataka",
+"district": "Haveri",
+"season_year": 2024,
+"district_area_ha": 482382.7,
+"cane_ha": 19311.5,
+"cane_ha_rule": 19628.8
+},
+{
+"state": "Karnataka",
+"district": "Haveri",
+"season_year": 2025,
+"district_area_ha": 482382.7,
+"cane_ha": 28449.3,
+"cane_ha_rule": 28788.3
+},
+{
+"state": "Karnataka",
+"district": "Haveri",
+"season_year": 2026,
+"district_area_ha": 482382.7,
+"cane_ha": 24275.5,
+"cane_ha_rule": 24489.4
+},
+{
+"state": "Karnataka",
+"district": "Kalaburagi",
+"season_year": 2020,
+"district_area_ha": 1095445.6,
+"cane_ha": 16531.8,
+"cane_ha_rule": 17570.3
+},
+{
+"state": "Karnataka",
+"district": "Kalaburagi",
+"season_year": 2021,
+"district_area_ha": 1095445.6,
+"cane_ha": 42239.6,
+"cane_ha_rule": 45983.2
+},
+{
+"state": "Karnataka",
+"district": "Kalaburagi",
+"season_year": 2022,
+"district_area_ha": 1095445.6,
+"cane_ha": 41934.8,
+"cane_ha_rule": 43327.2
+},
+{
+"state": "Karnataka",
+"district": "Kalaburagi",
+"season_year": 2023,
+"district_area_ha": 1095445.6,
+"cane_ha": 35922.4,
+"cane_ha_rule": 36657.8
+},
+{
+"state": "Karnataka",
+"district": "Kalaburagi",
+"season_year": 2024,
+"district_area_ha": 1095445.6,
+"cane_ha": 21836.3,
+"cane_ha_rule": 22253.5
+},
+{
+"state": "Karnataka",
+"district": "Kalaburagi",
+"season_year": 2025,
+"district_area_ha": 1095445.6,
+"cane_ha": 29014.9,
+"cane_ha_rule": 29688.9
+},
+{
+"state": "Karnataka",
+"district": "Kalaburagi",
+"season_year": 2026,
+"district_area_ha": 1095445.6,
+"cane_ha": 44155.1,
+"cane_ha_rule": 45034.3
+},
+{
+"state": "Karnataka",
+"district": "Kodagu",
+"season_year": 2020,
+"district_area_ha": 410182.8,
+"cane_ha": 352.5,
+"cane_ha_rule": 352.5
+},
+{
+"state": "Karnataka",
+"district": "Kodagu",
+"season_year": 2021,
+"district_area_ha": 410182.8,
+"cane_ha": 385.1,
+"cane_ha_rule": 385.1
+},
+{
+"state": "Karnataka",
+"district": "Kodagu",
+"season_year": 2022,
+"district_area_ha": 410182.8,
+"cane_ha": 814.3,
+"cane_ha_rule": 814.4
+},
+{
+"state": "Karnataka",
+"district": "Kodagu",
+"season_year": 2023,
+"district_area_ha": 410182.8,
+"cane_ha": 410.7,
+"cane_ha_rule": 410.7
+},
+{
+"state": "Karnataka",
+"district": "Kodagu",
+"season_year": 2024,
+"district_area_ha": 410182.8,
+"cane_ha": 214.3,
+"cane_ha_rule": 214.3
+},
+{
+"state": "Karnataka",
+"district": "Kodagu",
+"season_year": 2025,
+"district_area_ha": 410182.8,
+"cane_ha": 639.4,
+"cane_ha_rule": 639.4
+},
+{
+"state": "Karnataka",
+"district": "Kodagu",
+"season_year": 2026,
+"district_area_ha": 410182.8,
+"cane_ha": 433.8,
+"cane_ha_rule": 433.8
+},
+{
+"state": "Karnataka",
+"district": "Kolar",
+"season_year": 2020,
+"district_area_ha": 397876.2,
+"cane_ha": 1413.7,
+"cane_ha_rule": 1418.8
+},
+{
+"state": "Karnataka",
+"district": "Kolar",
+"season_year": 2021,
+"district_area_ha": 397876.2,
+"cane_ha": 3869.7,
+"cane_ha_rule": 4027.7
+},
+{
+"state": "Karnataka",
+"district": "Kolar",
+"season_year": 2022,
+"district_area_ha": 397876.2,
+"cane_ha": 7242.7,
+"cane_ha_rule": 7252.8
+},
+{
+"state": "Karnataka",
+"district": "Kolar",
+"season_year": 2023,
+"district_area_ha": 397876.2,
+"cane_ha": 4181.1,
+"cane_ha_rule": 4207.8
+},
+{
+"state": "Karnataka",
+"district": "Kolar",
+"season_year": 2024,
+"district_area_ha": 397876.2,
+"cane_ha": 392.1,
+"cane_ha_rule": 394.5
+},
+{
+"state": "Karnataka",
+"district": "Kolar",
+"season_year": 2025,
+"district_area_ha": 397876.2,
+"cane_ha": 1835.4,
+"cane_ha_rule": 1850.6
+},
+{
+"state": "Karnataka",
+"district": "Kolar",
+"season_year": 2026,
+"district_area_ha": 397876.2,
+"cane_ha": 1779.0,
+"cane_ha_rule": 1811.2
+},
+{
+"state": "Karnataka",
+"district": "Koppal",
+"season_year": 2020,
+"district_area_ha": 556964.5,
+"cane_ha": 2446.8,
+"cane_ha_rule": 2659.9
+},
+{
+"state": "Karnataka",
+"district": "Koppal",
+"season_year": 2021,
+"district_area_ha": 556964.5,
+"cane_ha": 5852.0,
+"cane_ha_rule": 6496.5
+},
+{
+"state": "Karnataka",
+"district": "Koppal",
+"season_year": 2022,
+"district_area_ha": 556964.5,
+"cane_ha": 6297.2,
+"cane_ha_rule": 6386.4
+},
+{
+"state": "Karnataka",
+"district": "Koppal",
+"season_year": 2023,
+"district_area_ha": 556964.5,
+"cane_ha": 3091.4,
+"cane_ha_rule": 3191.7
+},
+{
+"state": "Karnataka",
+"district": "Koppal",
+"season_year": 2024,
+"district_area_ha": 556964.5,
+"cane_ha": 2284.6,
+"cane_ha_rule": 2333.1
+},
+{
+"state": "Karnataka",
+"district": "Koppal",
+"season_year": 2025,
+"district_area_ha": 556964.5,
+"cane_ha": 3065.6,
+"cane_ha_rule": 3115.9
+},
+{
+"state": "Karnataka",
+"district": "Koppal",
+"season_year": 2026,
+"district_area_ha": 556964.5,
+"cane_ha": 3579.4,
+"cane_ha_rule": 3731.2
+},
+{
+"state": "Karnataka",
+"district": "Mandya",
+"season_year": 2020,
+"district_area_ha": 496006.3,
+"cane_ha": 11838.5,
+"cane_ha_rule": 13566.1
+},
+{
+"state": "Karnataka",
+"district": "Mandya",
+"season_year": 2021,
+"district_area_ha": 496006.3,
+"cane_ha": 11576.1,
+"cane_ha_rule": 15004.7
+},
+{
+"state": "Karnataka",
+"district": "Mandya",
+"season_year": 2022,
+"district_area_ha": 496006.3,
+"cane_ha": 17053.2,
+"cane_ha_rule": 18925.0
+},
+{
+"state": "Karnataka",
+"district": "Mandya",
+"season_year": 2023,
+"district_area_ha": 496006.3,
+"cane_ha": 14063.5,
+"cane_ha_rule": 15447.2
+},
+{
+"state": "Karnataka",
+"district": "Mandya",
+"season_year": 2024,
+"district_area_ha": 496006.3,
+"cane_ha": 6827.5,
+"cane_ha_rule": 8610.9
+},
+{
+"state": "Karnataka",
+"district": "Mandya",
+"season_year": 2025,
+"district_area_ha": 496006.3,
+"cane_ha": 12769.8,
+"cane_ha_rule": 14623.2
+},
+{
+"state": "Karnataka",
+"district": "Mandya",
+"season_year": 2026,
+"district_area_ha": 496006.3,
+"cane_ha": 11015.1,
+"cane_ha_rule": 13834.1
+},
+{
+"state": "Karnataka",
+"district": "Mysuru",
+"season_year": 2020,
+"district_area_ha": 630905.8,
+"cane_ha": 13998.0,
+"cane_ha_rule": 14893.3
+},
+{
+"state": "Karnataka",
+"district": "Mysuru",
+"season_year": 2021,
+"district_area_ha": 630905.8,
+"cane_ha": 13099.3,
+"cane_ha_rule": 15400.5
+},
+{
+"state": "Karnataka",
+"district": "Mysuru",
+"season_year": 2022,
+"district_area_ha": 630905.8,
+"cane_ha": 21093.2,
+"cane_ha_rule": 22023.1
+},
+{
+"state": "Karnataka",
+"district": "Mysuru",
+"season_year": 2023,
+"district_area_ha": 630905.8,
+"cane_ha": 15707.4,
+"cane_ha_rule": 16462.9
+},
+{
+"state": "Karnataka",
+"district": "Mysuru",
+"season_year": 2024,
+"district_area_ha": 630905.8,
+"cane_ha": 9266.7,
+"cane_ha_rule": 10313.1
+},
+{
+"state": "Karnataka",
+"district": "Mysuru",
+"season_year": 2025,
+"district_area_ha": 630905.8,
+"cane_ha": 14309.2,
+"cane_ha_rule": 15167.3
+},
+{
+"state": "Karnataka",
+"district": "Mysuru",
+"season_year": 2026,
+"district_area_ha": 630905.8,
+"cane_ha": 13611.9,
+"cane_ha_rule": 14802.2
+},
+{
+"state": "Karnataka",
+"district": "Raichur",
+"season_year": 2020,
+"district_area_ha": 844165.3,
+"cane_ha": 1869.9,
+"cane_ha_rule": 2608.0
+},
+{
+"state": "Karnataka",
+"district": "Raichur",
+"season_year": 2021,
+"district_area_ha": 844165.3,
+"cane_ha": 3552.9,
+"cane_ha_rule": 5112.6
+},
+{
+"state": "Karnataka",
+"district": "Raichur",
+"season_year": 2022,
+"district_area_ha": 844165.3,
+"cane_ha": 3652.9,
+"cane_ha_rule": 3958.3
+},
+{
+"state": "Karnataka",
+"district": "Raichur",
+"season_year": 2023,
+"district_area_ha": 844165.3,
+"cane_ha": 2158.7,
+"cane_ha_rule": 2412.0
+},
+{
+"state": "Karnataka",
+"district": "Raichur",
+"season_year": 2024,
+"district_area_ha": 844165.3,
+"cane_ha": 911.1,
+"cane_ha_rule": 1019.5
+},
+{
+"state": "Karnataka",
+"district": "Raichur",
+"season_year": 2025,
+"district_area_ha": 844165.3,
+"cane_ha": 1786.5,
+"cane_ha_rule": 2122.1
+},
+{
+"state": "Karnataka",
+"district": "Raichur",
+"season_year": 2026,
+"district_area_ha": 844165.3,
+"cane_ha": 2024.7,
+"cane_ha_rule": 2417.7
+},
+{
+"state": "Karnataka",
+"district": "Ramanagaram",
+"season_year": 2020,
+"district_area_ha": 351430.2,
+"cane_ha": 2752.5,
+"cane_ha_rule": 2854.2
+},
+{
+"state": "Karnataka",
+"district": "Ramanagaram",
+"season_year": 2021,
+"district_area_ha": 351430.2,
+"cane_ha": 1462.3,
+"cane_ha_rule": 1538.3
+},
+{
+"state": "Karnataka",
+"district": "Ramanagaram",
+"season_year": 2022,
+"district_area_ha": 351430.2,
+"cane_ha": 6549.0,
+"cane_ha_rule": 6652.5
+},
+{
+"state": "Karnataka",
+"district": "Ramanagaram",
+"season_year": 2023,
+"district_area_ha": 351430.2,
+"cane_ha": 4074.5,
+"cane_ha_rule": 4115.4
+},
+{
+"state": "Karnataka",
+"district": "Ramanagaram",
+"season_year": 2024,
+"district_area_ha": 351430.2,
+"cane_ha": 955.8,
+"cane_ha_rule": 1013.0
+},
+{
+"state": "Karnataka",
+"district": "Ramanagaram",
+"season_year": 2025,
+"district_area_ha": 351430.2,
+"cane_ha": 4193.1,
+"cane_ha_rule": 4236.8
+},
+{
+"state": "Karnataka",
+"district": "Ramanagaram",
+"season_year": 2026,
+"district_area_ha": 351430.2,
+"cane_ha": 1482.3,
+"cane_ha_rule": 1526.0
+},
+{
+"state": "Karnataka",
+"district": "Shivamogga",
+"season_year": 2020,
+"district_area_ha": 847659.7,
+"cane_ha": 11793.1,
+"cane_ha_rule": 13214.9
+},
+{
+"state": "Karnataka",
+"district": "Shivamogga",
+"season_year": 2021,
+"district_area_ha": 847659.7,
+"cane_ha": 22576.7,
+"cane_ha_rule": 25371.7
+},
+{
+"state": "Karnataka",
+"district": "Shivamogga",
+"season_year": 2022,
+"district_area_ha": 847659.7,
+"cane_ha": 25851.9,
+"cane_ha_rule": 27317.4
+},
+{
+"state": "Karnataka",
+"district": "Shivamogga",
+"season_year": 2023,
+"district_area_ha": 847659.7,
+"cane_ha": 16088.9,
+"cane_ha_rule": 17653.5
+},
+{
+"state": "Karnataka",
+"district": "Shivamogga",
+"season_year": 2024,
+"district_area_ha": 847659.7,
+"cane_ha": 14600.3,
+"cane_ha_rule": 15478.6
+},
+{
+"state": "Karnataka",
+"district": "Shivamogga",
+"season_year": 2025,
+"district_area_ha": 847659.7,
+"cane_ha": 20042.4,
+"cane_ha_rule": 20380.3
+},
+{
+"state": "Karnataka",
+"district": "Shivamogga",
+"season_year": 2026,
+"district_area_ha": 847659.7,
+"cane_ha": 12349.0,
+"cane_ha_rule": 12556.4
+},
+{
+"state": "Karnataka",
+"district": "Tumakuru",
+"season_year": 2020,
+"district_area_ha": 1060064.9,
+"cane_ha": 3841.6,
+"cane_ha_rule": 4419.9
+},
+{
+"state": "Karnataka",
+"district": "Tumakuru",
+"season_year": 2021,
+"district_area_ha": 1060064.9,
+"cane_ha": 6669.9,
+"cane_ha_rule": 8222.7
+},
+{
+"state": "Karnataka",
+"district": "Tumakuru",
+"season_year": 2022,
+"district_area_ha": 1060064.9,
+"cane_ha": 9511.6,
+"cane_ha_rule": 10035.3
+},
+{
+"state": "Karnataka",
+"district": "Tumakuru",
+"season_year": 2023,
+"district_area_ha": 1060064.9,
+"cane_ha": 5470.0,
+"cane_ha_rule": 5917.2
+},
+{
+"state": "Karnataka",
+"district": "Tumakuru",
+"season_year": 2024,
+"district_area_ha": 1060064.9,
+"cane_ha": 1984.2,
+"cane_ha_rule": 2146.6
+},
+{
+"state": "Karnataka",
+"district": "Tumakuru",
+"season_year": 2025,
+"district_area_ha": 1060064.9,
+"cane_ha": 4975.5,
+"cane_ha_rule": 5300.5
+},
+{
+"state": "Karnataka",
+"district": "Tumakuru",
+"season_year": 2026,
+"district_area_ha": 1060064.9,
+"cane_ha": 3070.0,
+"cane_ha_rule": 3327.0
+},
+{
+"state": "Karnataka",
+"district": "Udupi",
+"season_year": 2020,
+"district_area_ha": 358303.6,
+"cane_ha": 49.6,
+"cane_ha_rule": 53.5
+},
+{
+"state": "Karnataka",
+"district": "Udupi",
+"season_year": 2021,
+"district_area_ha": 358303.6,
+"cane_ha": 410.0,
+"cane_ha_rule": 431.5
+},
+{
+"state": "Karnataka",
+"district": "Udupi",
+"season_year": 2022,
+"district_area_ha": 358303.6,
+"cane_ha": 495.2,
+"cane_ha_rule": 510.7
+},
+{
+"state": "Karnataka",
+"district": "Udupi",
+"season_year": 2023,
+"district_area_ha": 358303.6,
+"cane_ha": 65.7,
+"cane_ha_rule": 69.8
+},
+{
+"state": "Karnataka",
+"district": "Udupi",
+"season_year": 2024,
+"district_area_ha": 358303.6,
+"cane_ha": 113.6,
+"cane_ha_rule": 117.1
+},
+{
+"state": "Karnataka",
+"district": "Udupi",
+"season_year": 2025,
+"district_area_ha": 358303.6,
+"cane_ha": 310.4,
+"cane_ha_rule": 316.8
+},
+{
+"state": "Karnataka",
+"district": "Udupi",
+"season_year": 2026,
+"district_area_ha": 358303.6,
+"cane_ha": 72.8,
+"cane_ha_rule": 76.2
+},
+{
+"state": "Karnataka",
+"district": "Uttara  Kannada",
+"season_year": 2020,
+"district_area_ha": 1027708.6,
+"cane_ha": 11426.4,
+"cane_ha_rule": 11608.9
+},
+{
+"state": "Karnataka",
+"district": "Uttara  Kannada",
+"season_year": 2021,
+"district_area_ha": 1027708.6,
+"cane_ha": 16804.3,
+"cane_ha_rule": 17162.8
+},
+{
+"state": "Karnataka",
+"district": "Uttara  Kannada",
+"season_year": 2022,
+"district_area_ha": 1027708.6,
+"cane_ha": 18401.4,
+"cane_ha_rule": 18596.8
+},
+{
+"state": "Karnataka",
+"district": "Uttara  Kannada",
+"season_year": 2023,
+"district_area_ha": 1027708.6,
+"cane_ha": 11245.3,
+"cane_ha_rule": 11331.5
+},
+{
+"state": "Karnataka",
+"district": "Uttara  Kannada",
+"season_year": 2024,
+"district_area_ha": 1027708.6,
+"cane_ha": 9274.3,
+"cane_ha_rule": 9334.3
+},
+{
+"state": "Karnataka",
+"district": "Uttara  Kannada",
+"season_year": 2025,
+"district_area_ha": 1027708.6,
+"cane_ha": 15462.8,
+"cane_ha_rule": 15515.8
+},
+{
+"state": "Karnataka",
+"district": "Uttara  Kannada",
+"season_year": 2026,
+"district_area_ha": 1027708.6,
+"cane_ha": 15293.2,
+"cane_ha_rule": 15329.7
+},
+{
+"state": "Karnataka",
+"district": "Vijayapura",
+"season_year": 2020,
+"district_area_ha": 1049547.2,
+"cane_ha": 46561.8,
+"cane_ha_rule": 48542.9
+},
+{
+"state": "Karnataka",
+"district": "Vijayapura",
+"season_year": 2021,
+"district_area_ha": 1049547.2,
+"cane_ha": 86191.4,
+"cane_ha_rule": 90688.1
+},
+{
+"state": "Karnataka",
+"district": "Vijayapura",
+"season_year": 2022,
+"district_area_ha": 1049547.2,
+"cane_ha": 89375.8,
+"cane_ha_rule": 90159.5
+},
+{
+"state": "Karnataka",
+"district": "Vijayapura",
+"season_year": 2023,
+"district_area_ha": 1049547.2,
+"cane_ha": 76141.0,
+"cane_ha_rule": 76902.9
+},
+{
+"state": "Karnataka",
+"district": "Vijayapura",
+"season_year": 2024,
+"district_area_ha": 1049547.2,
+"cane_ha": 51637.6,
+"cane_ha_rule": 52136.0
+},
+{
+"state": "Karnataka",
+"district": "Vijayapura",
+"season_year": 2025,
+"district_area_ha": 1049547.2,
+"cane_ha": 63768.5,
+"cane_ha_rule": 64433.2
+},
+{
+"state": "Karnataka",
+"district": "Vijayapura",
+"season_year": 2026,
+"district_area_ha": 1049547.2,
+"cane_ha": 84938.9,
+"cane_ha_rule": 85842.2
+},
+{
+"state": "Karnataka",
+"district": "Yadgir",
+"season_year": 2020,
+"district_area_ha": 527458.1,
+"cane_ha": 1281.9,
+"cane_ha_rule": 1787.8
+},
+{
+"state": "Karnataka",
+"district": "Yadgir",
+"season_year": 2021,
+"district_area_ha": 527458.1,
+"cane_ha": 3692.4,
+"cane_ha_rule": 4954.1
+},
+{
+"state": "Karnataka",
+"district": "Yadgir",
+"season_year": 2022,
+"district_area_ha": 527458.1,
+"cane_ha": 3161.9,
+"cane_ha_rule": 3471.6
+},
+{
+"state": "Karnataka",
+"district": "Yadgir",
+"season_year": 2023,
+"district_area_ha": 527458.1,
+"cane_ha": 2192.3,
+"cane_ha_rule": 2377.0
+},
+{
+"state": "Karnataka",
+"district": "Yadgir",
+"season_year": 2024,
+"district_area_ha": 527458.1,
+"cane_ha": 865.5,
+"cane_ha_rule": 953.8
+},
+{
+"state": "Karnataka",
+"district": "Yadgir",
+"season_year": 2025,
+"district_area_ha": 527458.1,
+"cane_ha": 2426.3,
+"cane_ha_rule": 2754.2
+},
+{
+"state": "Karnataka",
+"district": "Yadgir",
+"season_year": 2026,
+"district_area_ha": 527458.1,
+"cane_ha": 2652.8,
+"cane_ha_rule": 3022.7
+},
+{
+"state": "Maharashtra",
+"district": "Ahamadnagar",
+"season_year": 2020,
+"district_area_ha": 1709466.2,
+"cane_ha": 142988.9,
+"cane_ha_rule": 146522.4
+},
+{
+"state": "Maharashtra",
+"district": "Ahamadnagar",
+"season_year": 2021,
+"district_area_ha": 1709466.2,
+"cane_ha": 174580.4,
+"cane_ha_rule": 181695.1
+},
+{
+"state": "Maharashtra",
+"district": "Ahamadnagar",
+"season_year": 2022,
+"district_area_ha": 1709466.2,
+"cane_ha": 134733.8,
+"cane_ha_rule": 137334.0
+},
+{
+"state": "Maharashtra",
+"district": "Ahamadnagar",
+"season_year": 2023,
+"district_area_ha": 1709466.2,
+"cane_ha": 121614.4,
+"cane_ha_rule": 123622.4
+},
+{
+"state": "Maharashtra",
+"district": "Ahamadnagar",
+"season_year": 2024,
+"district_area_ha": 1709466.2,
+"cane_ha": 96534.6,
+"cane_ha_rule": 98528.9
+},
+{
+"state": "Maharashtra",
+"district": "Ahamadnagar",
+"season_year": 2025,
+"district_area_ha": 1709466.2,
+"cane_ha": 113630.4,
+"cane_ha_rule": 115021.8
+},
+{
+"state": "Maharashtra",
+"district": "Ahamadnagar",
+"season_year": 2026,
+"district_area_ha": 1709466.2,
+"cane_ha": 120640.8,
+"cane_ha_rule": 122412.3
+},
+{
+"state": "Maharashtra",
+"district": "Akola",
+"season_year": 2020,
+"district_area_ha": 544056.5,
+"cane_ha": 2772.6,
+"cane_ha_rule": 3975.8
+},
+{
+"state": "Maharashtra",
+"district": "Akola",
+"season_year": 2021,
+"district_area_ha": 544056.5,
+"cane_ha": 5470.4,
+"cane_ha_rule": 7805.3
+},
+{
+"state": "Maharashtra",
+"district": "Akola",
+"season_year": 2022,
+"district_area_ha": 544056.5,
+"cane_ha": 2525.7,
+"cane_ha_rule": 3041.6
+},
+{
+"state": "Maharashtra",
+"district": "Akola",
+"season_year": 2023,
+"district_area_ha": 544056.5,
+"cane_ha": 4833.6,
+"cane_ha_rule": 5732.9
+},
+{
+"state": "Maharashtra",
+"district": "Akola",
+"season_year": 2024,
+"district_area_ha": 544056.5,
+"cane_ha": 3229.7,
+"cane_ha_rule": 3872.8
+},
+{
+"state": "Maharashtra",
+"district": "Akola",
+"season_year": 2025,
+"district_area_ha": 544056.5,
+"cane_ha": 3060.3,
+"cane_ha_rule": 3404.2
+},
+{
+"state": "Maharashtra",
+"district": "Akola",
+"season_year": 2026,
+"district_area_ha": 544056.5,
+"cane_ha": 1732.4,
+"cane_ha_rule": 2005.0
+},
+{
+"state": "Maharashtra",
+"district": "Amaravati",
+"season_year": 2020,
+"district_area_ha": 1220337.3,
+"cane_ha": 8940.3,
+"cane_ha_rule": 12136.3
+},
+{
+"state": "Maharashtra",
+"district": "Amaravati",
+"season_year": 2021,
+"district_area_ha": 1220337.3,
+"cane_ha": 13485.6,
+"cane_ha_rule": 18519.6
+},
+{
+"state": "Maharashtra",
+"district": "Amaravati",
+"season_year": 2022,
+"district_area_ha": 1220337.3,
+"cane_ha": 4866.7,
+"cane_ha_rule": 6005.4
+},
+{
+"state": "Maharashtra",
+"district": "Amaravati",
+"season_year": 2023,
+"district_area_ha": 1220337.3,
+"cane_ha": 8097.6,
+"cane_ha_rule": 9969.7
+},
+{
+"state": "Maharashtra",
+"district": "Amaravati",
+"season_year": 2024,
+"district_area_ha": 1220337.3,
+"cane_ha": 9151.5,
+"cane_ha_rule": 10608.1
+},
+{
+"state": "Maharashtra",
+"district": "Amaravati",
+"season_year": 2025,
+"district_area_ha": 1220337.3,
+"cane_ha": 5729.4,
+"cane_ha_rule": 6443.1
+},
+{
+"state": "Maharashtra",
+"district": "Amaravati",
+"season_year": 2026,
+"district_area_ha": 1220337.3,
+"cane_ha": 2738.5,
+"cane_ha_rule": 3231.1
+},
+{
+"state": "Maharashtra",
+"district": "Aurangabad",
+"season_year": 2020,
+"district_area_ha": 1012282.4,
+"cane_ha": 34069.5,
+"cane_ha_rule": 35648.2
+},
+{
+"state": "Maharashtra",
+"district": "Aurangabad",
+"season_year": 2021,
+"district_area_ha": 1012282.4,
+"cane_ha": 47994.3,
+"cane_ha_rule": 50252.7
+},
+{
+"state": "Maharashtra",
+"district": "Aurangabad",
+"season_year": 2022,
+"district_area_ha": 1012282.4,
+"cane_ha": 43866.8,
+"cane_ha_rule": 45150.7
+},
+{
+"state": "Maharashtra",
+"district": "Aurangabad",
+"season_year": 2023,
+"district_area_ha": 1012282.4,
+"cane_ha": 40560.6,
+"cane_ha_rule": 41634.8
+},
+{
+"state": "Maharashtra",
+"district": "Aurangabad",
+"season_year": 2024,
+"district_area_ha": 1012282.4,
+"cane_ha": 27833.2,
+"cane_ha_rule": 28440.3
+},
+{
+"state": "Maharashtra",
+"district": "Aurangabad",
+"season_year": 2025,
+"district_area_ha": 1012282.4,
+"cane_ha": 39263.8,
+"cane_ha_rule": 39954.1
+},
+{
+"state": "Maharashtra",
+"district": "Aurangabad",
+"season_year": 2026,
+"district_area_ha": 1012282.4,
+"cane_ha": 43188.1,
+"cane_ha_rule": 44019.9
+},
+{
+"state": "Maharashtra",
+"district": "Bhandara",
+"season_year": 2020,
+"district_area_ha": 414000.9,
+"cane_ha": 3181.1,
+"cane_ha_rule": 3436.3
+},
+{
+"state": "Maharashtra",
+"district": "Bhandara",
+"season_year": 2021,
+"district_area_ha": 414000.9,
+"cane_ha": 2804.9,
+"cane_ha_rule": 3060.4
+},
+{
+"state": "Maharashtra",
+"district": "Bhandara",
+"season_year": 2022,
+"district_area_ha": 414000.9,
+"cane_ha": 2929.1,
+"cane_ha_rule": 3075.5
+},
+{
+"state": "Maharashtra",
+"district": "Bhandara",
+"season_year": 2023,
+"district_area_ha": 414000.9,
+"cane_ha": 3776.2,
+"cane_ha_rule": 3875.0
+},
+{
+"state": "Maharashtra",
+"district": "Bhandara",
+"season_year": 2024,
+"district_area_ha": 414000.9,
+"cane_ha": 2813.8,
+"cane_ha_rule": 2954.8
+},
+{
+"state": "Maharashtra",
+"district": "Bhandara",
+"season_year": 2025,
+"district_area_ha": 414000.9,
+"cane_ha": 1783.8,
+"cane_ha_rule": 1880.7
+},
+{
+"state": "Maharashtra",
+"district": "Bhandara",
+"season_year": 2026,
+"district_area_ha": 414000.9,
+"cane_ha": 1414.4,
+"cane_ha_rule": 1473.7
+},
+{
+"state": "Maharashtra",
+"district": "Bid",
+"season_year": 2020,
+"district_area_ha": 1060724.4,
+"cane_ha": 59854.4,
+"cane_ha_rule": 61945.7
+},
+{
+"state": "Maharashtra",
+"district": "Bid",
+"season_year": 2021,
+"district_area_ha": 1060724.4,
+"cane_ha": 94282.1,
+"cane_ha_rule": 97864.2
+},
+{
+"state": "Maharashtra",
+"district": "Bid",
+"season_year": 2022,
+"district_area_ha": 1060724.4,
+"cane_ha": 70100.8,
+"cane_ha_rule": 71221.7
+},
+{
+"state": "Maharashtra",
+"district": "Bid",
+"season_year": 2023,
+"district_area_ha": 1060724.4,
+"cane_ha": 65577.3,
+"cane_ha_rule": 66403.8
+},
+{
+"state": "Maharashtra",
+"district": "Bid",
+"season_year": 2024,
+"district_area_ha": 1060724.4,
+"cane_ha": 36095.7,
+"cane_ha_rule": 36443.0
+},
+{
+"state": "Maharashtra",
+"district": "Bid",
+"season_year": 2025,
+"district_area_ha": 1060724.4,
+"cane_ha": 73533.0,
+"cane_ha_rule": 74164.1
+},
+{
+"state": "Maharashtra",
+"district": "Bid",
+"season_year": 2026,
+"district_area_ha": 1060724.4,
+"cane_ha": 74872.4,
+"cane_ha_rule": 75708.6
+},
+{
+"state": "Maharashtra",
+"district": "Buldhana",
+"season_year": 2020,
+"district_area_ha": 974170.0,
+"cane_ha": 5403.3,
+"cane_ha_rule": 6729.2
+},
+{
+"state": "Maharashtra",
+"district": "Buldhana",
+"season_year": 2021,
+"district_area_ha": 974170.0,
+"cane_ha": 6996.4,
+"cane_ha_rule": 9228.9
+},
+{
+"state": "Maharashtra",
+"district": "Buldhana",
+"season_year": 2022,
+"district_area_ha": 974170.0,
+"cane_ha": 4202.1,
+"cane_ha_rule": 4637.0
+},
+{
+"state": "Maharashtra",
+"district": "Buldhana",
+"season_year": 2023,
+"district_area_ha": 974170.0,
+"cane_ha": 7188.4,
+"cane_ha_rule": 7891.1
+},
+{
+"state": "Maharashtra",
+"district": "Buldhana",
+"season_year": 2024,
+"district_area_ha": 974170.0,
+"cane_ha": 4649.2,
+"cane_ha_rule": 5240.5
+},
+{
+"state": "Maharashtra",
+"district": "Buldhana",
+"season_year": 2025,
+"district_area_ha": 974170.0,
+"cane_ha": 4504.6,
+"cane_ha_rule": 4761.7
+},
+{
+"state": "Maharashtra",
+"district": "Buldhana",
+"season_year": 2026,
+"district_area_ha": 974170.0,
+"cane_ha": 2501.6,
+"cane_ha_rule": 2663.4
+},
+{
+"state": "Maharashtra",
+"district": "Chandrapur",
+"season_year": 2020,
+"district_area_ha": 1136366.4,
+"cane_ha": 3524.5,
+"cane_ha_rule": 4282.5
+},
+{
+"state": "Maharashtra",
+"district": "Chandrapur",
+"season_year": 2021,
+"district_area_ha": 1136366.4,
+"cane_ha": 1950.0,
+"cane_ha_rule": 2351.4
+},
+{
+"state": "Maharashtra",
+"district": "Chandrapur",
+"season_year": 2022,
+"district_area_ha": 1136366.4,
+"cane_ha": 1369.7,
+"cane_ha_rule": 1570.6
+},
+{
+"state": "Maharashtra",
+"district": "Chandrapur",
+"season_year": 2023,
+"district_area_ha": 1136366.4,
+"cane_ha": 3591.9,
+"cane_ha_rule": 3842.6
+},
+{
+"state": "Maharashtra",
+"district": "Chandrapur",
+"season_year": 2024,
+"district_area_ha": 1136366.4,
+"cane_ha": 2133.1,
+"cane_ha_rule": 2232.5
+},
+{
+"state": "Maharashtra",
+"district": "Chandrapur",
+"season_year": 2025,
+"district_area_ha": 1136366.4,
+"cane_ha": 1152.0,
+"cane_ha_rule": 1196.9
+},
+{
+"state": "Maharashtra",
+"district": "Chandrapur",
+"season_year": 2026,
+"district_area_ha": 1136366.4,
+"cane_ha": 728.1,
+"cane_ha_rule": 770.7
+},
+{
+"state": "Maharashtra",
+"district": "Dhule",
+"season_year": 2020,
+"district_area_ha": 719030.0,
+"cane_ha": 14328.0,
+"cane_ha_rule": 15433.1
+},
+{
+"state": "Maharashtra",
+"district": "Dhule",
+"season_year": 2021,
+"district_area_ha": 719030.0,
+"cane_ha": 12425.7,
+"cane_ha_rule": 14187.9
+},
+{
+"state": "Maharashtra",
+"district": "Dhule",
+"season_year": 2022,
+"district_area_ha": 719030.0,
+"cane_ha": 10422.3,
+"cane_ha_rule": 10922.7
+},
+{
+"state": "Maharashtra",
+"district": "Dhule",
+"season_year": 2023,
+"district_area_ha": 719030.0,
+"cane_ha": 7942.3,
+"cane_ha_rule": 8420.3
+},
+{
+"state": "Maharashtra",
+"district": "Dhule",
+"season_year": 2024,
+"district_area_ha": 719030.0,
+"cane_ha": 5867.0,
+"cane_ha_rule": 6387.0
+},
+{
+"state": "Maharashtra",
+"district": "Dhule",
+"season_year": 2025,
+"district_area_ha": 719030.0,
+"cane_ha": 12724.4,
+"cane_ha_rule": 13729.7
+},
+{
+"state": "Maharashtra",
+"district": "Dhule",
+"season_year": 2026,
+"district_area_ha": 719030.0,
+"cane_ha": 8791.3,
+"cane_ha_rule": 9330.9
+},
+{
+"state": "Maharashtra",
+"district": "Gadchiroli",
+"season_year": 2020,
+"district_area_ha": 1450628.2,
+"cane_ha": 928.7,
+"cane_ha_rule": 994.0
+},
+{
+"state": "Maharashtra",
+"district": "Gadchiroli",
+"season_year": 2021,
+"district_area_ha": 1450628.2,
+"cane_ha": 787.5,
+"cane_ha_rule": 868.2
+},
+{
+"state": "Maharashtra",
+"district": "Gadchiroli",
+"season_year": 2022,
+"district_area_ha": 1450628.2,
+"cane_ha": 729.3,
+"cane_ha_rule": 811.0
+},
+{
+"state": "Maharashtra",
+"district": "Gadchiroli",
+"season_year": 2023,
+"district_area_ha": 1450628.2,
+"cane_ha": 940.5,
+"cane_ha_rule": 976.9
+},
+{
+"state": "Maharashtra",
+"district": "Gadchiroli",
+"season_year": 2024,
+"district_area_ha": 1450628.2,
+"cane_ha": 749.9,
+"cane_ha_rule": 761.6
+},
+{
+"state": "Maharashtra",
+"district": "Gadchiroli",
+"season_year": 2025,
+"district_area_ha": 1450628.2,
+"cane_ha": 678.0,
+"cane_ha_rule": 690.3
+},
+{
+"state": "Maharashtra",
+"district": "Gadchiroli",
+"season_year": 2026,
+"district_area_ha": 1450628.2,
+"cane_ha": 389.1,
+"cane_ha_rule": 404.6
+},
+{
+"state": "Maharashtra",
+"district": "Gondia",
+"season_year": 2020,
+"district_area_ha": 518233.4,
+"cane_ha": 1582.9,
+"cane_ha_rule": 1709.7
+},
+{
+"state": "Maharashtra",
+"district": "Gondia",
+"season_year": 2021,
+"district_area_ha": 518233.4,
+"cane_ha": 1198.5,
+"cane_ha_rule": 1262.9
+},
+{
+"state": "Maharashtra",
+"district": "Gondia",
+"season_year": 2022,
+"district_area_ha": 518233.4,
+"cane_ha": 1266.9,
+"cane_ha_rule": 1298.0
+},
+{
+"state": "Maharashtra",
+"district": "Gondia",
+"season_year": 2023,
+"district_area_ha": 518233.4,
+"cane_ha": 1729.1,
+"cane_ha_rule": 1741.9
+},
+{
+"state": "Maharashtra",
+"district": "Gondia",
+"season_year": 2024,
+"district_area_ha": 518233.4,
+"cane_ha": 1191.3,
+"cane_ha_rule": 1205.5
+},
+{
+"state": "Maharashtra",
+"district": "Gondia",
+"season_year": 2025,
+"district_area_ha": 518233.4,
+"cane_ha": 727.7,
+"cane_ha_rule": 735.6
+},
+{
+"state": "Maharashtra",
+"district": "Gondia",
+"season_year": 2026,
+"district_area_ha": 518233.4,
+"cane_ha": 413.0,
+"cane_ha_rule": 427.5
+},
+{
+"state": "Maharashtra",
+"district": "Hingoli",
+"season_year": 2020,
+"district_area_ha": 471084.2,
+"cane_ha": 15109.3,
+"cane_ha_rule": 15718.5
+},
+{
+"state": "Maharashtra",
+"district": "Hingoli",
+"season_year": 2021,
+"district_area_ha": 471084.2,
+"cane_ha": 19677.8,
+"cane_ha_rule": 20730.7
+},
+{
+"state": "Maharashtra",
+"district": "Hingoli",
+"season_year": 2022,
+"district_area_ha": 471084.2,
+"cane_ha": 14547.7,
+"cane_ha_rule": 14789.2
+},
+{
+"state": "Maharashtra",
+"district": "Hingoli",
+"season_year": 2023,
+"district_area_ha": 471084.2,
+"cane_ha": 15551.8,
+"cane_ha_rule": 15898.8
+},
+{
+"state": "Maharashtra",
+"district": "Hingoli",
+"season_year": 2024,
+"district_area_ha": 471084.2,
+"cane_ha": 17486.8,
+"cane_ha_rule": 17989.6
+},
+{
+"state": "Maharashtra",
+"district": "Hingoli",
+"season_year": 2025,
+"district_area_ha": 471084.2,
+"cane_ha": 15226.8,
+"cane_ha_rule": 15487.3
+},
+{
+"state": "Maharashtra",
+"district": "Hingoli",
+"season_year": 2026,
+"district_area_ha": 471084.2,
+"cane_ha": 11884.6,
+"cane_ha_rule": 12047.9
+},
+{
+"state": "Maharashtra",
+"district": "Jalgaon",
+"season_year": 2020,
+"district_area_ha": 1178957.9,
+"cane_ha": 39895.6,
+"cane_ha_rule": 46060.8
+},
+{
+"state": "Maharashtra",
+"district": "Jalgaon",
+"season_year": 2021,
+"district_area_ha": 1178957.9,
+"cane_ha": 35867.8,
+"cane_ha_rule": 52899.9
+},
+{
+"state": "Maharashtra",
+"district": "Jalgaon",
+"season_year": 2022,
+"district_area_ha": 1178957.9,
+"cane_ha": 39445.2,
+"cane_ha_rule": 45036.8
+},
+{
+"state": "Maharashtra",
+"district": "Jalgaon",
+"season_year": 2023,
+"district_area_ha": 1178957.9,
+"cane_ha": 33811.8,
+"cane_ha_rule": 41337.8
+},
+{
+"state": "Maharashtra",
+"district": "Jalgaon",
+"season_year": 2024,
+"district_area_ha": 1178957.9,
+"cane_ha": 31546.8,
+"cane_ha_rule": 41105.7
+},
+{
+"state": "Maharashtra",
+"district": "Jalgaon",
+"season_year": 2025,
+"district_area_ha": 1178957.9,
+"cane_ha": 41791.4,
+"cane_ha_rule": 49355.4
+},
+{
+"state": "Maharashtra",
+"district": "Jalgaon",
+"season_year": 2026,
+"district_area_ha": 1178957.9,
+"cane_ha": 33050.2,
+"cane_ha_rule": 38211.8
+},
+{
+"state": "Maharashtra",
+"district": "Jalna",
+"season_year": 2020,
+"district_area_ha": 767932.9,
+"cane_ha": 39223.6,
+"cane_ha_rule": 40377.6
+},
+{
+"state": "Maharashtra",
+"district": "Jalna",
+"season_year": 2021,
+"district_area_ha": 767932.9,
+"cane_ha": 41971.1,
+"cane_ha_rule": 43612.2
+},
+{
+"state": "Maharashtra",
+"district": "Jalna",
+"season_year": 2022,
+"district_area_ha": 767932.9,
+"cane_ha": 41552.1,
+"cane_ha_rule": 42134.7
+},
+{
+"state": "Maharashtra",
+"district": "Jalna",
+"season_year": 2023,
+"district_area_ha": 767932.9,
+"cane_ha": 40630.0,
+"cane_ha_rule": 41190.5
+},
+{
+"state": "Maharashtra",
+"district": "Jalna",
+"season_year": 2024,
+"district_area_ha": 767932.9,
+"cane_ha": 25996.9,
+"cane_ha_rule": 26275.3
+},
+{
+"state": "Maharashtra",
+"district": "Jalna",
+"season_year": 2025,
+"district_area_ha": 767932.9,
+"cane_ha": 44743.0,
+"cane_ha_rule": 45091.9
+},
+{
+"state": "Maharashtra",
+"district": "Jalna",
+"season_year": 2026,
+"district_area_ha": 767932.9,
+"cane_ha": 49542.0,
+"cane_ha_rule": 49902.7
+},
+{
+"state": "Maharashtra",
+"district": "Kolhapur",
+"season_year": 2020,
+"district_area_ha": 767633.5,
+"cane_ha": 115256.9,
+"cane_ha_rule": 116929.6
+},
+{
+"state": "Maharashtra",
+"district": "Kolhapur",
+"season_year": 2021,
+"district_area_ha": 767633.5,
+"cane_ha": 138979.8,
+"cane_ha_rule": 142866.7
+},
+{
+"state": "Maharashtra",
+"district": "Kolhapur",
+"season_year": 2022,
+"district_area_ha": 767633.5,
+"cane_ha": 137948.1,
+"cane_ha_rule": 139372.0
+},
+{
+"state": "Maharashtra",
+"district": "Kolhapur",
+"season_year": 2023,
+"district_area_ha": 767633.5,
+"cane_ha": 124199.9,
+"cane_ha_rule": 126512.9
+},
+{
+"state": "Maharashtra",
+"district": "Kolhapur",
+"season_year": 2024,
+"district_area_ha": 767633.5,
+"cane_ha": 114287.7,
+"cane_ha_rule": 117077.9
+},
+{
+"state": "Maharashtra",
+"district": "Kolhapur",
+"season_year": 2025,
+"district_area_ha": 767633.5,
+"cane_ha": 120170.7,
+"cane_ha_rule": 121591.2
+},
+{
+"state": "Maharashtra",
+"district": "Kolhapur",
+"season_year": 2026,
+"district_area_ha": 767633.5,
+"cane_ha": 125194.2,
+"cane_ha_rule": 127434.6
+},
+{
+"state": "Maharashtra",
+"district": "Latur",
+"season_year": 2020,
+"district_area_ha": 720229.6,
+"cane_ha": 26360.9,
+"cane_ha_rule": 27069.6
+},
+{
+"state": "Maharashtra",
+"district": "Latur",
+"season_year": 2021,
+"district_area_ha": 720229.6,
+"cane_ha": 68250.6,
+"cane_ha_rule": 70182.4
+},
+{
+"state": "Maharashtra",
+"district": "Latur",
+"season_year": 2022,
+"district_area_ha": 720229.6,
+"cane_ha": 48135.8,
+"cane_ha_rule": 48692.9
+},
+{
+"state": "Maharashtra",
+"district": "Latur",
+"season_year": 2023,
+"district_area_ha": 720229.6,
+"cane_ha": 48530.3,
+"cane_ha_rule": 48950.9
+},
+{
+"state": "Maharashtra",
+"district": "Latur",
+"season_year": 2024,
+"district_area_ha": 720229.6,
+"cane_ha": 20203.6,
+"cane_ha_rule": 20449.0
+},
+{
+"state": "Maharashtra",
+"district": "Latur",
+"season_year": 2025,
+"district_area_ha": 720229.6,
+"cane_ha": 49837.2,
+"cane_ha_rule": 50196.4
+},
+{
+"state": "Maharashtra",
+"district": "Latur",
+"season_year": 2026,
+"district_area_ha": 720229.6,
+"cane_ha": 46710.0,
+"cane_ha_rule": 47024.0
+},
+{
+"state": "Maharashtra",
+"district": "Mumbai City",
+"season_year": 2020,
+"district_area_ha": 6404.1,
+"cane_ha": 0.0,
+"cane_ha_rule": 0.0
+},
+{
+"state": "Maharashtra",
+"district": "Mumbai City",
+"season_year": 2021,
+"district_area_ha": 6404.1,
+"cane_ha": 0.0,
+"cane_ha_rule": 0.0
+},
+{
+"state": "Maharashtra",
+"district": "Mumbai City",
+"season_year": 2022,
+"district_area_ha": 6404.1,
+"cane_ha": 0.0,
+"cane_ha_rule": 0.0
+},
+{
+"state": "Maharashtra",
+"district": "Mumbai City",
+"season_year": 2023,
+"district_area_ha": 6404.1,
+"cane_ha": 0.0,
+"cane_ha_rule": 0.0
+},
+{
+"state": "Maharashtra",
+"district": "Mumbai City",
+"season_year": 2024,
+"district_area_ha": 6404.1,
+"cane_ha": 0.0,
+"cane_ha_rule": 0.0
+},
+{
+"state": "Maharashtra",
+"district": "Mumbai City",
+"season_year": 2025,
+"district_area_ha": 6404.1,
+"cane_ha": 0.0,
+"cane_ha_rule": 0.0
+},
+{
+"state": "Maharashtra",
+"district": "Mumbai City",
+"season_year": 2026,
+"district_area_ha": 6404.1,
+"cane_ha": 0.0,
+"cane_ha_rule": 0.0
+},
+{
+"state": "Maharashtra",
+"district": "Nagpur",
+"season_year": 2020,
+"district_area_ha": 989657.3,
+"cane_ha": 5158.0,
+"cane_ha_rule": 7717.9
+},
+{
+"state": "Maharashtra",
+"district": "Nagpur",
+"season_year": 2021,
+"district_area_ha": 989657.3,
+"cane_ha": 5548.8,
+"cane_ha_rule": 8171.1
+},
+{
+"state": "Maharashtra",
+"district": "Nagpur",
+"season_year": 2022,
+"district_area_ha": 989657.3,
+"cane_ha": 3118.8,
+"cane_ha_rule": 4020.4
+},
+{
+"state": "Maharashtra",
+"district": "Nagpur",
+"season_year": 2023,
+"district_area_ha": 989657.3,
+"cane_ha": 6847.4,
+"cane_ha_rule": 7677.3
+},
+{
+"state": "Maharashtra",
+"district": "Nagpur",
+"season_year": 2024,
+"district_area_ha": 989657.3,
+"cane_ha": 8576.7,
+"cane_ha_rule": 9447.1
+},
+{
+"state": "Maharashtra",
+"district": "Nagpur",
+"season_year": 2025,
+"district_area_ha": 989657.3,
+"cane_ha": 2562.9,
+"cane_ha_rule": 2886.6
+},
+{
+"state": "Maharashtra",
+"district": "Nagpur",
+"season_year": 2026,
+"district_area_ha": 989657.3,
+"cane_ha": 1252.6,
+"cane_ha_rule": 1490.0
+},
+{
+"state": "Maharashtra",
+"district": "Nanded",
+"season_year": 2020,
+"district_area_ha": 1052803.3,
+"cane_ha": 33334.4,
+"cane_ha_rule": 35424.1
+},
+{
+"state": "Maharashtra",
+"district": "Nanded",
+"season_year": 2021,
+"district_area_ha": 1052803.3,
+"cane_ha": 46928.9,
+"cane_ha_rule": 50233.4
+},
+{
+"state": "Maharashtra",
+"district": "Nanded",
+"season_year": 2022,
+"district_area_ha": 1052803.3,
+"cane_ha": 38362.0,
+"cane_ha_rule": 39504.9
+},
+{
+"state": "Maharashtra",
+"district": "Nanded",
+"season_year": 2023,
+"district_area_ha": 1052803.3,
+"cane_ha": 39701.6,
+"cane_ha_rule": 40891.4
+},
+{
+"state": "Maharashtra",
+"district": "Nanded",
+"season_year": 2024,
+"district_area_ha": 1052803.3,
+"cane_ha": 41062.0,
+"cane_ha_rule": 42592.9
+},
+{
+"state": "Maharashtra",
+"district": "Nanded",
+"season_year": 2025,
+"district_area_ha": 1052803.3,
+"cane_ha": 35192.6,
+"cane_ha_rule": 36077.4
+},
+{
+"state": "Maharashtra",
+"district": "Nanded",
+"season_year": 2026,
+"district_area_ha": 1052803.3,
+"cane_ha": 29464.7,
+"cane_ha_rule": 30006.0
+},
+{
+"state": "Maharashtra",
+"district": "Nandurbar",
+"season_year": 2020,
+"district_area_ha": 595630.6,
+"cane_ha": 25544.1,
+"cane_ha_rule": 26228.5
+},
+{
+"state": "Maharashtra",
+"district": "Nandurbar",
+"season_year": 2021,
+"district_area_ha": 595630.6,
+"cane_ha": 30733.5,
+"cane_ha_rule": 33045.1
+},
+{
+"state": "Maharashtra",
+"district": "Nandurbar",
+"season_year": 2022,
+"district_area_ha": 595630.6,
+"cane_ha": 27416.4,
+"cane_ha_rule": 27860.2
+},
+{
+"state": "Maharashtra",
+"district": "Nandurbar",
+"season_year": 2023,
+"district_area_ha": 595630.6,
+"cane_ha": 22903.1,
+"cane_ha_rule": 23372.0
+},
+{
+"state": "Maharashtra",
+"district": "Nandurbar",
+"season_year": 2024,
+"district_area_ha": 595630.6,
+"cane_ha": 20258.0,
+"cane_ha_rule": 20996.1
+},
+{
+"state": "Maharashtra",
+"district": "Nandurbar",
+"season_year": 2025,
+"district_area_ha": 595630.6,
+"cane_ha": 29203.3,
+"cane_ha_rule": 30023.4
+},
+{
+"state": "Maharashtra",
+"district": "Nandurbar",
+"season_year": 2026,
+"district_area_ha": 595630.6,
+"cane_ha": 27012.2,
+"cane_ha_rule": 27467.1
+},
+{
+"state": "Maharashtra",
+"district": "Nashik",
+"season_year": 2020,
+"district_area_ha": 1551402.3,
+"cane_ha": 48875.1,
+"cane_ha_rule": 50785.2
+},
+{
+"state": "Maharashtra",
+"district": "Nashik",
+"season_year": 2021,
+"district_area_ha": 1551402.3,
+"cane_ha": 49405.1,
+"cane_ha_rule": 52534.0
+},
+{
+"state": "Maharashtra",
+"district": "Nashik",
+"season_year": 2022,
+"district_area_ha": 1551402.3,
+"cane_ha": 40390.2,
+"cane_ha_rule": 41511.5
+},
+{
+"state": "Maharashtra",
+"district": "Nashik",
+"season_year": 2023,
+"district_area_ha": 1551402.3,
+"cane_ha": 40740.2,
+"cane_ha_rule": 41551.3
+},
+{
+"state": "Maharashtra",
+"district": "Nashik",
+"season_year": 2024,
+"district_area_ha": 1551402.3,
+"cane_ha": 32125.1,
+"cane_ha_rule": 32729.9
+},
+{
+"state": "Maharashtra",
+"district": "Nashik",
+"season_year": 2025,
+"district_area_ha": 1551402.3,
+"cane_ha": 36636.9,
+"cane_ha_rule": 37510.7
+},
+{
+"state": "Maharashtra",
+"district": "Nashik",
+"season_year": 2026,
+"district_area_ha": 1551402.3,
+"cane_ha": 29836.8,
+"cane_ha_rule": 30523.5
+},
+{
+"state": "Maharashtra",
+"district": "Palghar",
+"season_year": 2020,
+"district_area_ha": 527125.4,
+"cane_ha": 1276.2,
+"cane_ha_rule": 1418.8
+},
+{
+"state": "Maharashtra",
+"district": "Palghar",
+"season_year": 2021,
+"district_area_ha": 527125.4,
+"cane_ha": 3068.5,
+"cane_ha_rule": 3624.7
+},
+{
+"state": "Maharashtra",
+"district": "Palghar",
+"season_year": 2022,
+"district_area_ha": 527125.4,
+"cane_ha": 2229.3,
+"cane_ha_rule": 2712.4
+},
+{
+"state": "Maharashtra",
+"district": "Palghar",
+"season_year": 2023,
+"district_area_ha": 527125.4,
+"cane_ha": 2262.7,
+"cane_ha_rule": 2504.9
+},
+{
+"state": "Maharashtra",
+"district": "Palghar",
+"season_year": 2024,
+"district_area_ha": 527125.4,
+"cane_ha": 1018.7,
+"cane_ha_rule": 1092.9
+},
+{
+"state": "Maharashtra",
+"district": "Palghar",
+"season_year": 2025,
+"district_area_ha": 527125.4,
+"cane_ha": 3141.8,
+"cane_ha_rule": 3269.1
+},
+{
+"state": "Maharashtra",
+"district": "Palghar",
+"season_year": 2026,
+"district_area_ha": 527125.4,
+"cane_ha": 1689.4,
+"cane_ha_rule": 1797.6
+},
+{
+"state": "Maharashtra",
+"district": "Parbhani",
+"season_year": 2020,
+"district_area_ha": 630699.7,
+"cane_ha": 36870.3,
+"cane_ha_rule": 38080.2
+},
+{
+"state": "Maharashtra",
+"district": "Parbhani",
+"season_year": 2021,
+"district_area_ha": 630699.7,
+"cane_ha": 50605.6,
+"cane_ha_rule": 53037.8
+},
+{
+"state": "Maharashtra",
+"district": "Parbhani",
+"season_year": 2022,
+"district_area_ha": 630699.7,
+"cane_ha": 39781.0,
+"cane_ha_rule": 40353.3
+},
+{
+"state": "Maharashtra",
+"district": "Parbhani",
+"season_year": 2023,
+"district_area_ha": 630699.7,
+"cane_ha": 35835.2,
+"cane_ha_rule": 36400.2
+},
+{
+"state": "Maharashtra",
+"district": "Parbhani",
+"season_year": 2024,
+"district_area_ha": 630699.7,
+"cane_ha": 31583.0,
+"cane_ha_rule": 32082.3
+},
+{
+"state": "Maharashtra",
+"district": "Parbhani",
+"season_year": 2025,
+"district_area_ha": 630699.7,
+"cane_ha": 42152.1,
+"cane_ha_rule": 42606.4
+},
+{
+"state": "Maharashtra",
+"district": "Parbhani",
+"season_year": 2026,
+"district_area_ha": 630699.7,
+"cane_ha": 37656.4,
+"cane_ha_rule": 37943.6
+},
+{
+"state": "Maharashtra",
+"district": "Pune",
+"season_year": 2020,
+"district_area_ha": 1565088.9,
+"cane_ha": 135686.6,
+"cane_ha_rule": 139051.4
+},
+{
+"state": "Maharashtra",
+"district": "Pune",
+"season_year": 2021,
+"district_area_ha": 1565088.9,
+"cane_ha": 160082.9,
+"cane_ha_rule": 167357.4
+},
+{
+"state": "Maharashtra",
+"district": "Pune",
+"season_year": 2022,
+"district_area_ha": 1565088.9,
+"cane_ha": 138205.5,
+"cane_ha_rule": 140185.7
+},
+{
+"state": "Maharashtra",
+"district": "Pune",
+"season_year": 2023,
+"district_area_ha": 1565088.9,
+"cane_ha": 132165.9,
+"cane_ha_rule": 135169.8
+},
+{
+"state": "Maharashtra",
+"district": "Pune",
+"season_year": 2024,
+"district_area_ha": 1565088.9,
+"cane_ha": 117866.8,
+"cane_ha_rule": 122103.5
+},
+{
+"state": "Maharashtra",
+"district": "Pune",
+"season_year": 2025,
+"district_area_ha": 1565088.9,
+"cane_ha": 127895.0,
+"cane_ha_rule": 130521.9
+},
+{
+"state": "Maharashtra",
+"district": "Pune",
+"season_year": 2026,
+"district_area_ha": 1565088.9,
+"cane_ha": 119468.6,
+"cane_ha_rule": 122167.9
+},
+{
+"state": "Maharashtra",
+"district": "Ratnagiri",
+"season_year": 2020,
+"district_area_ha": 829287.7,
+"cane_ha": 562.7,
+"cane_ha_rule": 583.4
+},
+{
+"state": "Maharashtra",
+"district": "Ratnagiri",
+"season_year": 2021,
+"district_area_ha": 829287.7,
+"cane_ha": 803.0,
+"cane_ha_rule": 844.8
+},
+{
+"state": "Maharashtra",
+"district": "Ratnagiri",
+"season_year": 2022,
+"district_area_ha": 829287.7,
+"cane_ha": 757.2,
+"cane_ha_rule": 778.5
+},
+{
+"state": "Maharashtra",
+"district": "Ratnagiri",
+"season_year": 2023,
+"district_area_ha": 829287.7,
+"cane_ha": 587.7,
+"cane_ha_rule": 599.4
+},
+{
+"state": "Maharashtra",
+"district": "Ratnagiri",
+"season_year": 2024,
+"district_area_ha": 829287.7,
+"cane_ha": 423.4,
+"cane_ha_rule": 431.5
+},
+{
+"state": "Maharashtra",
+"district": "Ratnagiri",
+"season_year": 2025,
+"district_area_ha": 829287.7,
+"cane_ha": 794.1,
+"cane_ha_rule": 807.6
+},
+{
+"state": "Maharashtra",
+"district": "Ratnagiri",
+"season_year": 2026,
+"district_area_ha": 829287.7,
+"cane_ha": 521.6,
+"cane_ha_rule": 530.7
+},
+{
+"state": "Maharashtra",
+"district": "Raygad",
+"season_year": 2020,
+"district_area_ha": 698247.2,
+"cane_ha": 2145.2,
+"cane_ha_rule": 2241.9
+},
+{
+"state": "Maharashtra",
+"district": "Raygad",
+"season_year": 2021,
+"district_area_ha": 698247.2,
+"cane_ha": 3097.6,
+"cane_ha_rule": 3299.0
+},
+{
+"state": "Maharashtra",
+"district": "Raygad",
+"season_year": 2022,
+"district_area_ha": 698247.2,
+"cane_ha": 2291.6,
+"cane_ha_rule": 2358.0
+},
+{
+"state": "Maharashtra",
+"district": "Raygad",
+"season_year": 2023,
+"district_area_ha": 698247.2,
+"cane_ha": 1968.5,
+"cane_ha_rule": 1998.2
+},
+{
+"state": "Maharashtra",
+"district": "Raygad",
+"season_year": 2024,
+"district_area_ha": 698247.2,
+"cane_ha": 1555.9,
+"cane_ha_rule": 1598.6
+},
+{
+"state": "Maharashtra",
+"district": "Raygad",
+"season_year": 2025,
+"district_area_ha": 698247.2,
+"cane_ha": 3184.0,
+"cane_ha_rule": 3231.1
+},
+{
+"state": "Maharashtra",
+"district": "Raygad",
+"season_year": 2026,
+"district_area_ha": 698247.2,
+"cane_ha": 1893.1,
+"cane_ha_rule": 1939.5
+},
+{
+"state": "Maharashtra",
+"district": "Sangli",
+"season_year": 2020,
+"district_area_ha": 860491.8,
+"cane_ha": 99993.6,
+"cane_ha_rule": 102927.6
+},
+{
+"state": "Maharashtra",
+"district": "Sangli",
+"season_year": 2021,
+"district_area_ha": 860491.8,
+"cane_ha": 129774.5,
+"cane_ha_rule": 136229.8
+},
+{
+"state": "Maharashtra",
+"district": "Sangli",
+"season_year": 2022,
+"district_area_ha": 860491.8,
+"cane_ha": 143529.4,
+"cane_ha_rule": 146122.4
+},
+{
+"state": "Maharashtra",
+"district": "Sangli",
+"season_year": 2023,
+"district_area_ha": 860491.8,
+"cane_ha": 126849.5,
+"cane_ha_rule": 130971.2
+},
+{
+"state": "Maharashtra",
+"district": "Sangli",
+"season_year": 2024,
+"district_area_ha": 860491.8,
+"cane_ha": 109558.2,
+"cane_ha_rule": 113804.7
+},
+{
+"state": "Maharashtra",
+"district": "Sangli",
+"season_year": 2025,
+"district_area_ha": 860491.8,
+"cane_ha": 123272.1,
+"cane_ha_rule": 125501.4
+},
+{
+"state": "Maharashtra",
+"district": "Sangli",
+"season_year": 2026,
+"district_area_ha": 860491.8,
+"cane_ha": 127922.1,
+"cane_ha_rule": 131233.9
+},
+{
+"state": "Maharashtra",
+"district": "Satara",
+"season_year": 2020,
+"district_area_ha": 1047454.9,
+"cane_ha": 87424.9,
+"cane_ha_rule": 89071.5
+},
+{
+"state": "Maharashtra",
+"district": "Satara",
+"season_year": 2021,
+"district_area_ha": 1047454.9,
+"cane_ha": 105045.4,
+"cane_ha_rule": 111187.4
+},
+{
+"state": "Maharashtra",
+"district": "Satara",
+"season_year": 2022,
+"district_area_ha": 1047454.9,
+"cane_ha": 101567.7,
+"cane_ha_rule": 102610.2
+},
+{
+"state": "Maharashtra",
+"district": "Satara",
+"season_year": 2023,
+"district_area_ha": 1047454.9,
+"cane_ha": 94538.5,
+"cane_ha_rule": 97310.0
+},
+{
+"state": "Maharashtra",
+"district": "Satara",
+"season_year": 2024,
+"district_area_ha": 1047454.9,
+"cane_ha": 77234.9,
+"cane_ha_rule": 81048.0
+},
+{
+"state": "Maharashtra",
+"district": "Satara",
+"season_year": 2025,
+"district_area_ha": 1047454.9,
+"cane_ha": 108883.5,
+"cane_ha_rule": 111174.3
+},
+{
+"state": "Maharashtra",
+"district": "Satara",
+"season_year": 2026,
+"district_area_ha": 1047454.9,
+"cane_ha": 100371.3,
+"cane_ha_rule": 103261.5
+},
+{
+"state": "Maharashtra",
+"district": "Sindhudurg",
+"season_year": 2020,
+"district_area_ha": 510741.5,
+"cane_ha": 1468.1,
+"cane_ha_rule": 1481.9
+},
+{
+"state": "Maharashtra",
+"district": "Sindhudurg",
+"season_year": 2021,
+"district_area_ha": 510741.5,
+"cane_ha": 1899.1,
+"cane_ha_rule": 1936.9
+},
+{
+"state": "Maharashtra",
+"district": "Sindhudurg",
+"season_year": 2022,
+"district_area_ha": 510741.5,
+"cane_ha": 1832.3,
+"cane_ha_rule": 1865.9
+},
+{
+"state": "Maharashtra",
+"district": "Sindhudurg",
+"season_year": 2023,
+"district_area_ha": 510741.5,
+"cane_ha": 1209.6,
+"cane_ha_rule": 1218.0
+},
+{
+"state": "Maharashtra",
+"district": "Sindhudurg",
+"season_year": 2024,
+"district_area_ha": 510741.5,
+"cane_ha": 1321.3,
+"cane_ha_rule": 1331.5
+},
+{
+"state": "Maharashtra",
+"district": "Sindhudurg",
+"season_year": 2025,
+"district_area_ha": 510741.5,
+"cane_ha": 1508.7,
+"cane_ha_rule": 1520.3
+},
+{
+"state": "Maharashtra",
+"district": "Sindhudurg",
+"season_year": 2026,
+"district_area_ha": 510741.5,
+"cane_ha": 1113.0,
+"cane_ha_rule": 1118.5
+},
+{
+"state": "Maharashtra",
+"district": "Solapur",
+"season_year": 2020,
+"district_area_ha": 1486120.3,
+"cane_ha": 159331.4,
+"cane_ha_rule": 165169.5
+},
+{
+"state": "Maharashtra",
+"district": "Solapur",
+"season_year": 2021,
+"district_area_ha": 1486120.3,
+"cane_ha": 252117.6,
+"cane_ha_rule": 263925.0
+},
+{
+"state": "Maharashtra",
+"district": "Solapur",
+"season_year": 2022,
+"district_area_ha": 1486120.3,
+"cane_ha": 236042.0,
+"cane_ha_rule": 239609.9
+},
+{
+"state": "Maharashtra",
+"district": "Solapur",
+"season_year": 2023,
+"district_area_ha": 1486120.3,
+"cane_ha": 200860.6,
+"cane_ha_rule": 204471.8
+},
+{
+"state": "Maharashtra",
+"district": "Solapur",
+"season_year": 2024,
+"district_area_ha": 1486120.3,
+"cane_ha": 131126.3,
+"cane_ha_rule": 134331.6
+},
+{
+"state": "Maharashtra",
+"district": "Solapur",
+"season_year": 2025,
+"district_area_ha": 1486120.3,
+"cane_ha": 216916.9,
+"cane_ha_rule": 221401.2
+},
+{
+"state": "Maharashtra",
+"district": "Solapur",
+"season_year": 2026,
+"district_area_ha": 1486120.3,
+"cane_ha": 210431.4,
+"cane_ha_rule": 213787.9
+},
+{
+"state": "Maharashtra",
+"district": "Sub Urban Mumbai",
+"season_year": 2020,
+"district_area_ha": 43175.2,
+"cane_ha": 52.8,
+"cane_ha_rule": 58.8
+},
+{
+"state": "Maharashtra",
+"district": "Sub Urban Mumbai",
+"season_year": 2021,
+"district_area_ha": 43175.2,
+"cane_ha": 119.0,
+"cane_ha_rule": 139.7
+},
+{
+"state": "Maharashtra",
+"district": "Sub Urban Mumbai",
+"season_year": 2022,
+"district_area_ha": 43175.2,
+"cane_ha": 79.1,
+"cane_ha_rule": 93.4
+},
+{
+"state": "Maharashtra",
+"district": "Sub Urban Mumbai",
+"season_year": 2023,
+"district_area_ha": 43175.2,
+"cane_ha": 74.0,
+"cane_ha_rule": 95.0
+},
+{
+"state": "Maharashtra",
+"district": "Sub Urban Mumbai",
+"season_year": 2024,
+"district_area_ha": 43175.2,
+"cane_ha": 64.4,
+"cane_ha_rule": 79.9
+},
+{
+"state": "Maharashtra",
+"district": "Sub Urban Mumbai",
+"season_year": 2025,
+"district_area_ha": 43175.2,
+"cane_ha": 89.6,
+"cane_ha_rule": 99.8
+},
+{
+"state": "Maharashtra",
+"district": "Sub Urban Mumbai",
+"season_year": 2026,
+"district_area_ha": 43175.2,
+"cane_ha": 48.5,
+"cane_ha_rule": 55.6
+},
+{
+"state": "Maharashtra",
+"district": "Thane",
+"season_year": 2020,
+"district_area_ha": 427316.0,
+"cane_ha": 1243.2,
+"cane_ha_rule": 1300.5
+},
+{
+"state": "Maharashtra",
+"district": "Thane",
+"season_year": 2021,
+"district_area_ha": 427316.0,
+"cane_ha": 2065.8,
+"cane_ha_rule": 2204.8
+},
+{
+"state": "Maharashtra",
+"district": "Thane",
+"season_year": 2022,
+"district_area_ha": 427316.0,
+"cane_ha": 1566.1,
+"cane_ha_rule": 1689.5
+},
+{
+"state": "Maharashtra",
+"district": "Thane",
+"season_year": 2023,
+"district_area_ha": 427316.0,
+"cane_ha": 1350.7,
+"cane_ha_rule": 1423.0
+},
+{
+"state": "Maharashtra",
+"district": "Thane",
+"season_year": 2024,
+"district_area_ha": 427316.0,
+"cane_ha": 911.7,
+"cane_ha_rule": 954.6
+},
+{
+"state": "Maharashtra",
+"district": "Thane",
+"season_year": 2025,
+"district_area_ha": 427316.0,
+"cane_ha": 1544.4,
+"cane_ha_rule": 1583.7
+},
+{
+"state": "Maharashtra",
+"district": "Thane",
+"season_year": 2026,
+"district_area_ha": 427316.0,
+"cane_ha": 1041.3,
+"cane_ha_rule": 1069.3
+},
+{
+"state": "Maharashtra",
+"district": "Usmanabad",
+"season_year": 2020,
+"district_area_ha": 757771.6,
+"cane_ha": 30726.1,
+"cane_ha_rule": 31613.8
+},
+{
+"state": "Maharashtra",
+"district": "Usmanabad",
+"season_year": 2021,
+"district_area_ha": 757771.6,
+"cane_ha": 79558.4,
+"cane_ha_rule": 81736.8
+},
+{
+"state": "Maharashtra",
+"district": "Usmanabad",
+"season_year": 2022,
+"district_area_ha": 757771.6,
+"cane_ha": 59902.3,
+"cane_ha_rule": 60569.3
+},
+{
+"state": "Maharashtra",
+"district": "Usmanabad",
+"season_year": 2023,
+"district_area_ha": 757771.6,
+"cane_ha": 53817.1,
+"cane_ha_rule": 54129.7
+},
+{
+"state": "Maharashtra",
+"district": "Usmanabad",
+"season_year": 2024,
+"district_area_ha": 757771.6,
+"cane_ha": 20796.9,
+"cane_ha_rule": 20939.0
+},
+{
+"state": "Maharashtra",
+"district": "Usmanabad",
+"season_year": 2025,
+"district_area_ha": 757771.6,
+"cane_ha": 51988.0,
+"cane_ha_rule": 52335.3
+},
+{
+"state": "Maharashtra",
+"district": "Usmanabad",
+"season_year": 2026,
+"district_area_ha": 757771.6,
+"cane_ha": 60302.1,
+"cane_ha_rule": 60726.7
+},
+{
+"state": "Maharashtra",
+"district": "Wardha",
+"season_year": 2020,
+"district_area_ha": 630592.9,
+"cane_ha": 2874.7,
+"cane_ha_rule": 4020.3
+},
+{
+"state": "Maharashtra",
+"district": "Wardha",
+"season_year": 2021,
+"district_area_ha": 630592.9,
+"cane_ha": 2404.6,
+"cane_ha_rule": 3475.6
+},
+{
+"state": "Maharashtra",
+"district": "Wardha",
+"season_year": 2022,
+"district_area_ha": 630592.9,
+"cane_ha": 1309.9,
+"cane_ha_rule": 1567.8
+},
+{
+"state": "Maharashtra",
+"district": "Wardha",
+"season_year": 2023,
+"district_area_ha": 630592.9,
+"cane_ha": 4461.8,
+"cane_ha_rule": 4989.0
+},
+{
+"state": "Maharashtra",
+"district": "Wardha",
+"season_year": 2024,
+"district_area_ha": 630592.9,
+"cane_ha": 5220.8,
+"cane_ha_rule": 5667.2
+},
+{
+"state": "Maharashtra",
+"district": "Wardha",
+"season_year": 2025,
+"district_area_ha": 630592.9,
+"cane_ha": 1497.5,
+"cane_ha_rule": 1598.9
+},
+{
+"state": "Maharashtra",
+"district": "Wardha",
+"season_year": 2026,
+"district_area_ha": 630592.9,
+"cane_ha": 510.2,
+"cane_ha_rule": 582.0
+},
+{
+"state": "Maharashtra",
+"district": "Washim",
+"season_year": 2020,
+"district_area_ha": 513491.0,
+"cane_ha": 2062.1,
+"cane_ha_rule": 2569.4
+},
+{
+"state": "Maharashtra",
+"district": "Washim",
+"season_year": 2021,
+"district_area_ha": 513491.0,
+"cane_ha": 6813.7,
+"cane_ha_rule": 7714.1
+},
+{
+"state": "Maharashtra",
+"district": "Washim",
+"season_year": 2022,
+"district_area_ha": 513491.0,
+"cane_ha": 1231.6,
+"cane_ha_rule": 1422.7
+},
+{
+"state": "Maharashtra",
+"district": "Washim",
+"season_year": 2023,
+"district_area_ha": 513491.0,
+"cane_ha": 5626.4,
+"cane_ha_rule": 5948.4
+},
+{
+"state": "Maharashtra",
+"district": "Washim",
+"season_year": 2024,
+"district_area_ha": 513491.0,
+"cane_ha": 2744.7,
+"cane_ha_rule": 3017.1
+},
+{
+"state": "Maharashtra",
+"district": "Washim",
+"season_year": 2025,
+"district_area_ha": 513491.0,
+"cane_ha": 862.6,
+"cane_ha_rule": 893.9
+},
+{
+"state": "Maharashtra",
+"district": "Washim",
+"season_year": 2026,
+"district_area_ha": 513491.0,
+"cane_ha": 337.8,
+"cane_ha_rule": 368.7
+},
+{
+"state": "Maharashtra",
+"district": "Yavatmal",
+"season_year": 2020,
+"district_area_ha": 1358691.6,
+"cane_ha": 10597.5,
+"cane_ha_rule": 12194.6
+},
+{
+"state": "Maharashtra",
+"district": "Yavatmal",
+"season_year": 2021,
+"district_area_ha": 1358691.6,
+"cane_ha": 23153.7,
+"cane_ha_rule": 25155.9
+},
+{
+"state": "Maharashtra",
+"district": "Yavatmal",
+"season_year": 2022,
+"district_area_ha": 1358691.6,
+"cane_ha": 15920.7,
+"cane_ha_rule": 17109.2
+},
+{
+"state": "Maharashtra",
+"district": "Yavatmal",
+"season_year": 2023,
+"district_area_ha": 1358691.6,
+"cane_ha": 26008.0,
+"cane_ha_rule": 27083.8
+},
+{
+"state": "Maharashtra",
+"district": "Yavatmal",
+"season_year": 2024,
+"district_area_ha": 1358691.6,
+"cane_ha": 18195.0,
+"cane_ha_rule": 18757.6
+},
+{
+"state": "Maharashtra",
+"district": "Yavatmal",
+"season_year": 2025,
+"district_area_ha": 1358691.6,
+"cane_ha": 13669.5,
+"cane_ha_rule": 13908.4
+},
+{
+"state": "Maharashtra",
+"district": "Yavatmal",
+"season_year": 2026,
+"district_area_ha": 1358691.6,
+"cane_ha": 10102.4,
+"cane_ha_rule": 10316.6
+}
+]
